@@ -1,8 +1,8 @@
 ---
-BR:
-  unofficial_names: Berat
-  translations:
-    en: Berat
+'01':
+  name: Berat
+  code: '01'
+  unofficial_names:
   geo:
     latitude: 40.7086377
     longitude: 19.9437314
@@ -10,470 +10,6 @@ BR:
     min_longitude: 19.9287128
     max_latitude: 40.7306085
     max_longitude: 19.9808693
-  name: Berat
-  comments: 
-BU:
-  unofficial_names: Bulqizë
-  translations:
-    en: Bulqizë
-  geo:
-    latitude: 41.4942587
-    longitude: 20.2147157
-    min_latitude: 41.4808045
-    min_longitude: 20.1938153
-    max_latitude: 41.5114053
-    max_longitude: 20.2380502
-  name: Bulqizë
-  comments: 
-DI:
-  unofficial_names:
-  - Dibër
-  translations:
-    en: Dibër
-  geo:
-    latitude: 41.5888163
-    longitude: 20.2355647
-    min_latitude: 41.26974
-    min_longitude: 19.778668
-    max_latitude: 41.899441
-    max_longitude: 20.583229
-  name: Dibër
-  comments: 
-DL:
-  unofficial_names: Delvinë
-  translations:
-    en: Delvinë
-  geo:
-    latitude: 39.9481364
-    longitude: 20.0955891
-    min_latitude: 39.9409357
-    min_longitude: 20.0788878
-    max_latitude: 39.9586027
-    max_longitude: 20.109787
-  name: Delvinë
-  comments: 
-DR:
-  unofficial_names: Durrës
-  translations:
-    en: Durrës
-  geo:
-    latitude: 41.316667
-    longitude: 19.45
-    min_latitude: 41.2817411
-    min_longitude: 19.418378
-    max_latitude: 41.3809305
-    max_longitude: 19.5148087
-  name: Durrës
-  comments: 
-DV:
-  unofficial_names:
-  - Devoli
-  translations:
-    en: Devoll
-  geo:
-    latitude: 40.6447347
-    longitude: 20.9506636
-    min_latitude: 40.495255
-    min_longitude: 20.846696
-    max_latitude: 40.803878
-    max_longitude: 21.06846
-  name: Devoll
-  comments: 
-EL:
-  unofficial_names: Elbasan
-  translations:
-    en: Elbasan
-  geo:
-    latitude: 41.11023
-    longitude: 20.0866554
-    min_latitude: 41.0875028
-    min_longitude: 20.0506784
-    max_latitude: 41.1308961
-    max_longitude: 20.1270677
-  name: Elbasan
-  comments: 
-ER:
-  unofficial_names: Kolonjë
-  translations:
-    en: Kolonjë
-  geo:
-    latitude: 40.3083026
-    longitude: 20.6645683
-    min_latitude: 40.076226
-    min_longitude: 20.461351
-    max_latitude: 40.477882
-    max_longitude: 20.8055689
-  name: Kolonjë
-  comments: 
-FR:
-  unofficial_names: Fier
-  translations:
-    en: Fier
-  geo:
-    latitude: 40.9191392
-    longitude: 19.6639309
-    min_latitude: 40.4181381
-    min_longitude: 19.321621
-    max_latitude: 41.06486599999999
-    max_longitude: 19.92129
-  name: Fier
-  comments: 
-GJ:
-  unofficial_names: Gjirokastër
-  translations:
-    en: Gjirokastër
-  geo:
-    latitude: 40.0672874
-    longitude: 20.1045229
-    min_latitude: 40.0330693
-    min_longitude: 20.0553703
-    max_latitude: 40.1064699
-    max_longitude: 20.1654482
-  name: Gjirokastër
-  comments: 
-GR:
-  unofficial_names: Gramsh
-  translations:
-    en: Gramsh
-  geo:
-    latitude: 40.866667
-    longitude: 20.183333
-    min_latitude: 40.8536177
-    min_longitude: 20.179696
-    max_latitude: 40.87864
-    max_longitude: 20.1936437
-  name: Gramsh
-  comments: 
-HA:
-  unofficial_names: Has
-  translations:
-    en: Has
-  geo:
-    latitude: 42.2
-    longitude: 20.416667
-    min_latitude: 42.1891646
-    min_longitude: 20.3994227
-    max_latitude: 42.2043618
-    max_longitude: 20.4262232
-  name: Has
-  comments: 
-KA:
-  unofficial_names: Kavajë
-  translations:
-    en: Kavajë
-  geo:
-    latitude: 41.1844529
-    longitude: 19.5627596
-    min_latitude: 41.15519949999999
-    min_longitude: 19.5357512
-    max_latitude: 41.2088804
-    max_longitude: 19.5895959
-  name: Kavajë
-  comments: 
-KB:
-  unofficial_names: Kurbin
-  translations:
-    en: Kurbin
-  geo:
-    latitude: 41.6300368
-    longitude: 19.6877385
-    min_latitude: 41.556654
-    min_longitude: 19.5546243
-    max_latitude: 41.694035
-    max_longitude: 19.824307
-  name: Kurbin
-  comments: 
-KC:
-  unofficial_names: Kuçovë
-  translations:
-    en: Kuçovë
-  geo:
-    latitude: 40.803889
-    longitude: 19.914444
-    min_latitude: 40.7864554
-    min_longitude: 19.8975277
-    max_latitude: 40.827904
-    max_longitude: 19.9304867
-  name: Kuçovë
-  comments: 
-KO:
-  unofficial_names: Korçë
-  translations:
-    en: Korçë
-  geo:
-    latitude: 40.6140785
-    longitude: 20.7778071
-    min_latitude: 40.5985741
-    min_longitude: 20.762229
-    max_latitude: 40.63663890000001
-    max_longitude: 20.7976342
-  name: Korçë
-  comments: 
-KR:
-  unofficial_names: Krujë
-  translations:
-    en: Krujë
-  geo:
-    latitude: 41.5094765
-    longitude: 19.7710732
-    min_latitude: 41.4566224
-    min_longitude: 19.7247505
-    max_latitude: 41.5598482
-    max_longitude: 19.8250007
-  name: Krujë
-  comments: 
-KU:
-  unofficial_names: Kukës
-  translations:
-    en: Kukës
-  geo:
-    latitude: 42.076667
-    longitude: 20.421667
-    min_latitude: 42.0344725
-    min_longitude: 20.3917409
-    max_latitude: 42.1007892
-    max_longitude: 20.4430247
-  name: Kukës
-  comments: 
-LB:
-  unofficial_names: Librazhd
-  translations:
-    en: Librazhd
-  geo:
-    latitude: 41.183333
-    longitude: 20.316667
-    min_latitude: 41.176931
-    min_longitude: 20.3058672
-    max_latitude: 41.1895385
-    max_longitude: 20.3219818
-  name: Librazhd
-  comments: 
-LE:
-  unofficial_names: Lezhë
-  translations:
-    en: Lezhë
-  geo:
-    latitude: 41.78607299999999
-    longitude: 19.6460758
-    min_latitude: 41.7682711
-    min_longitude: 19.6120548
-    max_latitude: 41.8086206
-    max_longitude: 19.6730233
-  name: Lezhë
-  comments: 
-LU:
-  unofficial_names: Lushnjë
-  translations:
-    en: Lushnjë
-  geo:
-    latitude: 40.933333
-    longitude: 19.7
-    min_latitude: 40.9150044
-    min_longitude: 19.6815777
-    max_latitude: 40.9557244
-    max_longitude: 19.7263814
-  name: Lushnjë
-  comments: 
-MK:
-  unofficial_names: Mallakastër
-  translations:
-    en: Mallakastër
-  geo:
-    latitude: 40.5273376
-    longitude: 19.7829791
-    min_latitude: 40.4181381
-    min_longitude: 19.674152
-    max_latitude: 40.655769
-    max_longitude: 19.92129
-  name: Mallakastër
-  comments: 
-MM:
-  unofficial_names:
-  - Malesia e Madhe
-  translations:
-    en: Malësi e Madhe
-  geo:
-    latitude: 42.4245173
-    longitude: 19.6163185
-    min_latitude: 42.190967
-    min_longitude: 19.3563652
-    max_latitude: 42.665615
-    max_longitude: 19.835646
-  name: Malësi e Madhe
-  comments: 
-MR:
-  unofficial_names: Mirditë
-  translations:
-    en: Mirditë
-  geo:
-    latitude: 41.764286
-    longitude: 19.9020509
-    min_latitude: 41.688547
-    min_longitude: 19.7135539
-    max_latitude: 42.028515
-    max_longitude: 20.261952
-  name: Mirditë
-  comments: 
-MT:
-  unofficial_names: Mat
-  translations:
-    en: Mat
-  geo:
-    latitude: 41.5937675
-    longitude: 19.9973244
-    min_latitude: 41.367228
-    min_longitude: 19.778668
-    max_latitude: 41.784789
-    max_longitude: 20.224639
-  name: Mat
-  comments: 
-PG:
-  unofficial_names: Pogradec
-  translations:
-    en: Pogradec
-  geo:
-    latitude: 40.9
-    longitude: 20.65
-    min_latitude: 40.8901256
-    min_longitude: 20.6446195
-    max_latitude: 40.9067909
-    max_longitude: 20.6704974
-  name: Pogradec
-  comments: 
-PQ:
-  unofficial_names: Peqin
-  translations:
-    en: Peqin
-  geo:
-    latitude: 41.05
-    longitude: 19.75
-    min_latitude: 41.0410057
-    min_longitude: 19.7408866
-    max_latitude: 41.0517835
-    max_longitude: 19.7607136
-  name: Peqin
-  comments: 
-PR:
-  unofficial_names: Përmet
-  translations:
-    en: Përmet
-  geo:
-    latitude: 40.23333299999999
-    longitude: 20.35
-    min_latitude: 40.2244836
-    min_longitude: 20.3441261
-    max_latitude: 40.2449268
-    max_longitude: 20.3684806
-  name: Përmet
-  comments: 
-PU:
-  unofficial_names: Pukë
-  translations:
-    en: Pukë
-  geo:
-    latitude: 42.05
-    longitude: 19.9
-    min_latitude: 42.03435109999999
-    min_longitude: 19.8818636
-    max_latitude: 42.0535603
-    max_longitude: 19.9108264
-  name: Pukë
-  comments: 
-SH:
-  unofficial_names: Shkodër
-  translations:
-    en: Shkodër
-  geo:
-    latitude: 42.0692985
-    longitude: 19.5032559
-    min_latitude: 42.0324324
-    min_longitude: 19.3796252
-    max_latitude: 42.0965346
-    max_longitude: 19.537983
-  name: Shkodër
-  comments: 
-SK:
-  unofficial_names: Skrapar
-  translations:
-    en: Skrapar
-  geo:
-    latitude: 40.5349946
-    longitude: 20.2832217
-    min_latitude: 40.375254
-    min_longitude: 20.092381
-    max_latitude: 40.728658
-    max_longitude: 20.452115
-  name: Skrapar
-  comments: 
-SR:
-  unofficial_names: Sarandë
-  translations:
-    en: Sarandë
-  geo:
-    latitude: 39.875
-    longitude: 20.01
-    min_latitude: 39.8490077
-    min_longitude: 19.9696756
-    max_latitude: 39.8857015
-    max_longitude: 20.0435258
-  name: Sarandë
-  comments: 
-TE:
-  unofficial_names: Tepelenë
-  translations:
-    en: Tepelenë
-  geo:
-    latitude: 40.3
-    longitude: 20.016667
-    min_latitude: 40.2910492
-    min_longitude: 20.0116824
-    max_latitude: 40.3029309
-    max_longitude: 20.0266171
-  name: Tepelenë
-  comments: 
-TP:
-  unofficial_names: Tropojë
-  translations:
-    en: Tropojë
-  geo:
-    latitude: 42.40000000000001
-    longitude: 20.166667
-    min_latitude: 42.3914839
-    min_longitude: 20.1551485
-    max_latitude: 42.4069178
-    max_longitude: 20.1732587
-  name: Tropojë
-  comments: 
-TR:
-  unofficial_names:
-  - Tiranë
-  - Tirana
-  - Tirana
-  translations:
-    en: Tirana
-  geo:
-    latitude: 41.3275459
-    longitude: 19.8186982
-    min_latitude: 41.29512330000001
-    min_longitude: 19.7535682
-    max_latitude: 41.36684109999999
-    max_longitude: 19.8820782
-  name: Tiranë
-  comments: 
-VL:
-  unofficial_names: Vlorë
-  translations:
-    en: Vlorë
-  geo:
-    latitude: 40.465
-    longitude: 19.485
-    min_latitude: 40.4103918
-    min_longitude: 19.4530106
-    max_latitude: 40.4912342
-    max_longitude: 19.5100021
-  name: Vlorë
-  comments: 
-'01':
   translations:
     ar: مقاطعة بيرات
     be: Вобласць Берат
@@ -520,12 +56,37 @@ VL:
     ta: பிரெட் கவுண்டி
     te: బెరాట్ కౌంటీ
     th: เบราท
+    tk: Berat
     tr: Berat ili
     uk: Берат
     ur: صوبہ بیرات
     vi: Berat
     zh: 培拉特州
+    ceb: Qarku i Beratit
+    sq: Qarku i Beratit
+    ccp: "\U0001111D\U0001112C\U00011122\U00011127\U00011116\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Berat
+    pa: ਬੇਰਾਤ ਕਾਉਂਟੀ
+    bs: Okrug Berat
+    mk: Белград
+    'no': Berat
+    az: Berat vilayəti
+    cy: Sir Berat
+    sr: Округ Берат
+    sr_Latn: Okrug Berat
+  comments:
+  type: county
 '02':
+  name: Durrës
+  code: '02'
+  unofficial_names:
+  geo:
+    latitude: 41.316667
+    longitude: 19.45
+    min_latitude: 41.2817411
+    min_longitude: 19.418378
+    max_latitude: 41.3809305
+    max_longitude: 19.5148087
   translations:
     ar: مقاطعة دوريس
     be: Дурэс
@@ -570,11 +131,38 @@ VL:
     ta: டூர்ஸ் கவுண்டி
     te: డురెస్ కౌంటీ
     th: โลวเรนซ์ นา โพฮอร์จู
+    tk: Durres
     tr: Dıraç ili
     uk: Дуррес
     ur: صوبہ دراج
     vi: Durrës
+    ceb: Qarku i Durrësit
+    zh: 杜勒斯州
+    sq: Qarku i Durrësit
+    ccp: "\U00011113\U00011128\U00011105\U0001112A\U00011122\U0001112C\U0001110C\U00011134
+      \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Durrës
+    pa: ਡੂਰੇਸ ਕਾਉਂਟੀ
+    mn: Дуррес хошуу
+    bs: Okrug Drač
+    mk: Драч
+    'no': Durrës
+    cy: Sir Durrës
+    sr: Округ Драч
+    sr_Latn: Okrug Drač
+  comments:
+  type: county
 '03':
+  name: Elbasan
+  code: '03'
+  unofficial_names:
+  geo:
+    latitude: 41.11023
+    longitude: 20.0866554
+    min_latitude: 41.0875028
+    min_longitude: 20.0506784
+    max_latitude: 41.1308961
+    max_longitude: 20.1270677
   translations:
     ar: مقاطعة إلباسان
     be: вобласць Эльбасан
@@ -606,11 +194,42 @@ VL:
     ru: Эльбасан
     sk: Elbasan
     sv: Elbasan prefektur
+    tk: Elbasan
     tr: Elbasan ili
     uk: Ельбасан
     ur: صوبہ الباسان
     vi: Elbasan
+    ceb: Qarku i Elbasanit
+    zh: 艾巴申州
+    sq: Qarku i Elbasanit
+    ccp: "\U00011103\U0001112C\U00011123\U00011134\U0001111D\U00011125\U0001111A\U00011134
+      \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Elbasan
+    mn: Эльбасан хошуу
+    ca: comtat d’Elbasan
+    bs: Okrug Elbasan
+    mk: Елбасан
+    'no': Elbasan
+    az: Elbasan vilayəti
+    cy: Sir Elbasan
+    da: Elbasan
+    id: County Elbasan
+    lv: Eļbasani ķarka
+    sr: Округ Елбасан
+    sr_Latn: Okrug Elbasan
+  comments:
+  type: county
 '04':
+  name: Fier
+  code: '04'
+  unofficial_names:
+  geo:
+    latitude: 40.9191392
+    longitude: 19.6639309
+    min_latitude: 40.4181381
+    min_longitude: 19.321621
+    max_latitude: 41.06486599999999
+    max_longitude: 19.92129
   translations:
     ar: مقاطعة فيير
     bg: Фиер
@@ -641,11 +260,42 @@ VL:
     ru: Фиери
     sk: Fier
     sv: Fier prefektur
+    tk: Fiýeri
     tr: Fier ili
     uk: Фієр
     ur: صوبہ فیر
     vi: Fier
+    ceb: Qarku i Fierit
+    zh: 非夏爾州
+    sq: Qarku i Fierit
+    ccp: "\U0001111C\U0001112D\U00011120\U0001112C\U00011122\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Fier
+    hu: Fier megye
+    mn: Фиер хошуу
+    bs: Okrug Fier
+    mk: Фиер
+    'no': Fier
+    az: Fieri
+    be: вобласць Фіеры
+    cy: Sir Fier
+    da: Fier
+    id: County Fier
+    lv: Fieri ķarka
+    sr: Округ Фјер
+    sr_Latn: Okrug Fjer
+  comments:
+  type: county
 '05':
+  name: Gjirokastër
+  code: '05'
+  unofficial_names:
+  geo:
+    latitude: 40.0672874
+    longitude: 20.1045229
+    min_latitude: 40.0330693
+    min_longitude: 20.0553703
+    max_latitude: 40.1064699
+    max_longitude: 20.1654482
   translations:
     ar: مقاطعة غيروكاستر
     bg: Аргирокастро
@@ -689,11 +339,40 @@ VL:
     ta: கிஜிரோகஸ்ட்டர் கவுண்டி
     te: గిజిరోకాస్టర్ కౌంటీ
     th: เมืองกีโรคาสเตอร์
+    tk: Girokastra
     tr: Ergiri ili
     uk: Ґʼїрокастер
     ur: صوبہ ارجیر
     vi: Gjirokastër
+    lv: Ģirokastras apgabals
+    ceb: Qarku i Gjirokastrës
+    zh: 吉羅卡斯特州
+    sq: Qarku i Gjirokastrës
+    ccp: "\U0001110E\U00011128\U00011122\U00011127\U00011107\U0001110C\U00011134\U00011111\U00011122\U00011134
+      \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Gjirokastër
+    he: ג׳ירוקסטרה
+    sl: Pokrajina Gjirokastër
+    be: Гіракастра
+    bs: Okrug Gjirokastër
+    mk: Ѓирокастро
+    'no': Gjirokastër
+    cy: Sir Gjirokastër
+    sr: Округ Ђирокастра
+    sr_Latn: Okrug Đirokastra
+  comments:
+  type: county
 '06':
+  name: Korçë
+  code: '06'
+  unofficial_names:
+  geo:
+    latitude: 40.6140785
+    longitude: 20.7778071
+    min_latitude: 40.5985741
+    min_longitude: 20.762229
+    max_latitude: 40.63663890000001
+    max_longitude: 20.7976342
   translations:
     ar: مقاطعة كورتشي
     be: вобласць Корча
@@ -738,11 +417,36 @@ VL:
     ta: கூர்க்ஏ கவுண்டி
     te: కోర్సె కౌంటీ
     th: คอซี่
+    tk: Korça
     tr: Görice ili
     uk: Корча
     ur: صوبہ کورچہ
     vi: Korçë
+    lv: Korčas apgabals
+    ceb: Qarku i Korçës
+    zh: 科赤州
+    sq: Qarku i Korçës
+    ccp: "\U00011107\U00011127\U00011122\U00011134\U0001110C\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Korçë
+    bs: Okrug Korča
+    mk: Горица
+    'no': Korçë
+    cy: Sir Korçë
+    sr: Округ Корча
+    sr_Latn: Okrug Korča
+  comments:
+  type: county
 '07':
+  name: Kukës
+  code: '07'
+  unofficial_names:
+  geo:
+    latitude: 42.076667
+    longitude: 20.421667
+    min_latitude: 42.0344725
+    min_longitude: 20.3917409
+    max_latitude: 42.1007892
+    max_longitude: 20.4430247
   translations:
     ar: مقاطعة كوكس
     bg: Кукъс
@@ -774,11 +478,39 @@ VL:
     ru: Кукес
     sk: Kukës
     sv: Kukës prefektur
+    tk: Kukes
     tr: Kukës ili
     uk: Кукес
     ur: صوبہ کوکس
     vi: Kukës
+    ceb: Qarku i Kukësit
+    zh: 庫克斯州
+    sq: Qarku i Kukësit
+    ccp: "\U00011107\U0001112A\U00011107\U0001112C\U0001110C\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Kukës
+    be: Кукес
+    bs: Okrug Kukës
+    mk: Кукуш
+    'no': Kukës
+    cy: Sir Kukës
+    da: Kukës
+    he: מחוז קוקס
+    id: County Kukës
+    sr: Округ Кукес
+    sr_Latn: Okrug Kukes
+  comments:
+  type: county
 '08':
+  name: Lezhë
+  code: '08'
+  unofficial_names:
+  geo:
+    latitude: 41.78607299999999
+    longitude: 19.6460758
+    min_latitude: 41.7682711
+    min_longitude: 19.6120548
+    max_latitude: 41.8086206
+    max_longitude: 19.6730233
   translations:
     ar: مقاطعة لجه
     be: Лежа
@@ -810,11 +542,39 @@ VL:
     ru: Лежа
     sk: Lezhë
     sv: Lezhë prefektur
+    tk: Leža
     tr: Leç ili
     uk: Лежа
     ur: صوبہ لژہ
     vi: Lezhë
+    ceb: Qarku i Lezhës
+    zh: 列澤州
+    sq: Qarku i Lezhës
+    ccp: "\U00011123\U00011127\U0001110F\U0001112C \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Lezhë
+    hu: Lezha megye
+    mn: Лежа хошуу
+    bs: Okrug Lješ
+    mk: Леска
+    'no': Lezhë
+    cy: Sir Lezhë
+    da: Lezhë
+    id: County Lezhë
+    sr: Округ Љеш
+    sr_Latn: Okrug Lješ
+  comments:
+  type: county
 '09':
+  name: Dibër
+  code: '09'
+  unofficial_names:
+  geo:
+    latitude: 41.5888163
+    longitude: 20.2355647
+    min_latitude: 41.26974
+    min_longitude: 19.778668
+    max_latitude: 41.899441
+    max_longitude: 20.583229
   translations:
     ar: مقاطعة ديبر
     bg: Дебър
@@ -848,11 +608,38 @@ VL:
     ru: Дибра
     sk: Dibër
     sv: Dibër prefektur
+    tk: Dibra
     tr: Debre ili
     uk: Дібер
     ur: صوبہ دیبر
     vi: Dibër
+    ceb: Qarku i Dibrës
+    zh: 第巴爾州
+    sq: Qarku i Dibrës
+    ccp: "\U00011113\U0001112D\U0001111D\U00011122\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Dibër
+    pa: ਡਿਬਰ ਕਾਉਂਟੀ
+    bs: Okrug Dibr
+    mk: Дебар
+    'no': Dibër
+    cy: Sir Dibër
+    da: Dibër
+    id: County Dibër
+    sr: Округ Дибер
+    sr_Latn: Okrug Diber
+  comments:
+  type: county
 '10':
+  name: Shkodër
+  code: '10'
+  unofficial_names:
+  geo:
+    latitude: 42.0692985
+    longitude: 19.5032559
+    min_latitude: 42.0324324
+    min_longitude: 19.3796252
+    max_latitude: 42.0965346
+    max_longitude: 19.537983
   translations:
     ar: مقاطعة شكودر
     be: Шкодэр
@@ -885,11 +672,42 @@ VL:
     ru: Шкодер
     sk: Shkodër
     sv: Shkodër prefektur
+    tk: Şkodra
     tr: İşkodra ili
     uk: Шкодер
     ur: صوبہ شکودر
     vi: Shkodër
+    ceb: Qarku i Shkodrës
+    sr_Latn: Okrug Skadar
+    zh: 士科德州
+    sq: Qarku i Shkodrës
+    ccp: "\U00011107\U0001112E\U00011113\U00011122\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    sr: Округ Скадар
+    ga: Contae Shkodër
+    hu: Shkodra megye
+    mn: Шкодер хошуу
+    bs: Okrug Skadar
+    mk: Скадар
+    'no': Shkodër
+    cy: Sir Shkodër
+    id: County Shkodër
+    lv: Škodras ķarka
+  comments:
+  type: county
 '11':
+  name: Tiranë
+  code: '11'
+  unofficial_names:
+  - Tiranë
+  - Tirana
+  - Tirana
+  geo:
+    latitude: 41.3275459
+    longitude: 19.8186982
+    min_latitude: 41.29512330000001
+    min_longitude: 19.7535682
+    max_latitude: 41.36684109999999
+    max_longitude: 19.8820782
   translations:
     ar: مقاطعة تيرانا
     be: вобласць Тырана
@@ -922,11 +740,42 @@ VL:
     sk: Tirana
     sv: Tiranë prefektur
     th: มณฑลติรานา
+    tk: Tirana
     tr: Tiran ili
     uk: Тирана
     ur: صوبہ تیرانا
     vi: Tirana
+    lv: Tirānas ķarka
+    ceb: Qarku i Tiranës
+    zh: 地拉那州
+    sq: Qarku i Tiranës
+    ccp: "\U00011111\U00011128\U00011122\U00011127\U0001111A \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Tiranë
+    hu: Tirana megye
+    az: Tirana vilayəti
+    mn: Тиран хошуу
+    bs: Okrug Tirana
+    mk: Тирана
+    'no': Tiranë
+    cy: Sir Tirana
+    da: Tirana
+    id: County Tiranë
+    ka: ტირანის ოლქი
+    sr: Округ Тирана
+    sr_Latn: Okrug Tirana
+  comments:
+  type: county
 '12':
+  name: Vlorë
+  code: '12'
+  unofficial_names:
+  geo:
+    latitude: 40.465
+    longitude: 19.485
+    min_latitude: 40.4103918
+    min_longitude: 19.4530106
+    max_latitude: 40.4912342
+    max_longitude: 19.5100021
   translations:
     ar: مقاطعة فلوره
     be: Вобласць Влёра
@@ -971,7 +820,23 @@ VL:
     ta: வல்லோர் கவுண்டி
     te: లోర్ కౌంటీ
     th: เทศมณฑลวโลเร
+    tk: Wlýora
     tr: Avlonya ili
     uk: Вльора
     ur: صوبہ ولورہ
     vi: Vlorë
+    lv: Vļoras apgabals
+    ceb: Qarku i Vlorës
+    zh: 夫羅勒州
+    sq: Qarku i Vlorës
+    ccp: "\U0001111E\U00011133\U00011123\U0001112E\U00011122\U0001112C \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
+    ga: Contae Vlorë
+    bs: Okrug Vlora
+    mk: Валона
+    'no': Vlorë
+    cy: Sir Vlorë
+    he: ולורה
+    sr: Округ Валона
+    sr_Latn: Okrug Valona
+  comments:
+  type: county

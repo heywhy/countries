@@ -1,5 +1,51 @@
 ---
+AV:
+  name: Avannaata Kommunia
+  code: AV
+  unofficial_names:
+  geo:
+  translations:
+    en: Avannaata Kommunia
+    ar: أفناتا
+    ca: Avannaata
+    cs: Avannaata
+    da: Avannaata Kommune
+    de: Avannaata Kommunia
+    es: Avannaata
+    et: Avannaata
+    fa: آواناتا
+    fi: Avannaata
+    fr: Avannaata
+    he: אוואנאאטה
+    hy: Ավանաատա
+    id: Avannaata
+    it: Avannaata
+    ja: アヴァンナータ
+    ko: 아반나타
+    mk: Аваната
+    nl: Avannaata
+    ru: Аванаата
+    sr: Северни Гренланд
+    sr_Latn: Severni Grenland
+    sv: Avannaata
+    tr: Avannaata
+    uk: Аваната
+    ur: آوانآتا
+    vi: Avannaata
+    zh: 阿万纳塔
+  comments:
+  type: municipality
 KU:
+  name: Kujalleq
+  code: KU
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: كوياليك
     be: Куялек
@@ -43,50 +89,28 @@ KU:
     ur: کوجالیق
     vi: Kujalleq
     zh: 库雅雷哥
-QA:
-  translations:
-    ar: كاسويتسوب
-    bn: কুয়াসুইটসুপ
-    ca: Qaasuitsup
-    cs: Severní Grónsko
-    da: Qaasuitsup Kommune
-    de: Qaasuitsup Kommunia
-    el: Καασουίτσουπ
-    en: Qaasuitsup
-    es: Qaasuitsup
-    et: Qaasuitsup
-    eu: Qaasuitsup
-    fi: Qaasuitsup
-    fr: Qaasuitsup
-    gu: કાસ્યુટ્સપ
-    hi: काझवित्सप
-    hy: Քաասուիտսուպ
-    id: Qaasuitsup
-    is: Qaasuitsup
-    it: Qaasuitsup
-    ja: カースートスップ
-    ka: კაასუიტსუპი
-    kn: ಕ್ವಾಸುಸ್ಯಪ್ಅಪ್
-    ko: 카수이추프
-    mr: क्यूसुटुप्स
-    ms: Qaasuitsup
-    nb: Qaasuitsoq
-    nl: Qaasuitsup
-    pl: Qaasuitsup
-    pt: Qaasuitsup
-    ro: Qaasuitsup
-    ru: Каасуитсуп
-    si: කුආසුට්ස්අප්
-    sr: Касуитсуп
-    sv: Qaasuitsup
-    ta: கிராசுவிட்சுப்
-    te: ఖాసూట్సప్
-    th: เทศบาลเคาแอสสูทซับ
-    tr: Qaasuitsup
-    uk: Каасуїтсуп
-    ur: قاسویتسوپ
-    vi: Qaasuitsup
+    lv: Kujaleka
+    ceb: Kujalleq (munisipyo)
+    sr_Latn: Kujalek
+    lt: Kujalekas
+    ccp: "\U00011107\U0001112A\U0001110E\U00011123\U0001112C\U00011107\U00011134"
+    mk: Кујалек
+    'no': Kujalleq
+    fa: کوجالق
+    he: מחוז כויאשק
+  comments:
+  type: municipality
 QE:
+  name: Qeqqata
+  code: QE
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: كيكاتا
     bn: কুয়েকাটা
@@ -128,7 +152,62 @@ QE:
     uk: Кекката
     ur: قیقاتا
     vi: Qeqqata
+    lv: Kekata
+    ceb: Qeqqata
+    sr_Latn: Kekata
+    lt: Kekata
+    zh: 凯克卡塔
+    ccp: "\U00011107\U0001112C\U00011107\U00011111"
+    mk: Кеката
+    'no': Qeqqata
+    be: Кеката
+    fa: ققاتا
+    he: מחוז קקאטה
+  comments:
+  type: municipality
+QT:
+  name: Kommune Qeqertalik
+  code: QT
+  unofficial_names:
+  geo:
+  translations:
+    en: Kommune Qeqertalik
+    ar: ككرتليك
+    ca: Qeqertalik
+    cs: Qeqertalik
+    da: Qeqertalik Kommune
+    de: Kommune Qeqertalik
+    es: Qeqertalik
+    et: Qeqertalik
+    fi: Qeqertalik
+    fr: Qeqertalik
+    id: Qeqertalik
+    is: Qeqertalik
+    it: Qeqertalik
+    ja: ケケタリク
+    ko: 케케르탈리크
+    mk: Кекерталик
+    nl: Qeqertalik
+    ru: Кекерталик
+    sr: Кекерталик
+    sr_Latn: Kekertalik
+    sv: Qeqertalik
+    tr: Qeqertalik
+    uk: Кекерталік
+    ur: قیقیرتالیک
+  comments:
+  type: municipality
 SM:
+  name: Sermersooq
+  code: SM
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: سيرمرسوك
     bn: সার্মারসুক
@@ -171,3 +250,16 @@ SM:
     uk: Сермерсоок
     ur: سیرمیرسوق
     vi: Sermersooq
+    lv: Sermersooka
+    ceb: Sermersooq (munisipyo)
+    sr_Latn: Sermersok
+    lt: Semersukas
+    zh: 瑟莫蘇克
+    ccp: "\U00011125\U00011122\U00011134\U0001111F\U00011122\U00011134\U00011125\U0001112A\U00011107\U00011134"
+    mk: Сермерсок
+    'no': Sermersooq
+    be: Сермерсок
+    fa: سرمرسوک
+    he: מחוז סרמרסוק
+  comments:
+  type: municipality

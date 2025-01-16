@@ -1,6 +1,5 @@
 ---
 UA:
-  continent: Europe
   address_format: |-
     {{recipient}}
     {{street}}
@@ -9,30 +8,48 @@ UA:
     {{country}}
   alpha2: UA
   alpha3: UKR
+  continent: Europe
   country_code: '380'
+  currency_code: UAH
+  distance_unit: KM
+  gec: UP
+  geo:
+    latitude: 48.379433
+    longitude: 31.1655799
+    max_latitude: 52.3793713
+    max_longitude: 40.2204802
+    min_latitude: 44.2924
+    min_longitude: 22.137159
+    bounds:
+      northeast:
+        lat: 52.3793713
+        lng: 40.2204802
+      southwest:
+        lat: 44.2924
+        lng: 22.137159
   international_prefix: '810'
   ioc: UKR
-  gec: UP
-  name: Ukraine
+  iso_long_name: Ukraine
+  iso_short_name: Ukraine
+  languages_official:
+  - uk
+  languages_spoken:
+  - uk
   national_destination_code_lengths:
   - 2
   national_number_lengths:
   - 8
   - 9
   national_prefix: '8'
-  number: '804'
-  region: Europe
-  subregion: Eastern Europe
-  world_region: EMEA
-  un_locode: UA
   nationality: Ukrainian
-  vat_rates:
-    standard: 20
-    reduced:
-      - 7
-    super_reduced: 
-    parking: 
+  number: '804'
   postal_code: true
+  postal_code_format: "\\d{5}"
+  region: Europe
+  start_of_week: monday
+  subregion: Eastern Europe
+  un_locode: UA
+  un_member: true
   unofficial_names:
   - Ukraine
   - Ucrania
@@ -41,25 +58,11 @@ UA:
   - Украина
   - Україна
   - Украіна
-  languages_official:
-  - uk
-  languages_spoken:
-  - uk
-  geo:
-    latitude: 48.379433
-    latitude_dec: '48.92656326293945'
-    longitude: 31.16558
-    longitude_dec: '31.47578239440918'
-    max_latitude: 52.37958099999999
-    max_longitude: 40.2285809
-    min_latitude: 44.2924
-    min_longitude: 22.137159
-    bounds:
-      northeast:
-        lat: 52.37958099999999
-        lng: 40.2285809
-      southwest:
-        lat: 44.2924
-        lng: 22.137159
-  currency_code: UAH
-  start_of_week: monday
+  vat_rates:
+    standard: 20
+    reduced:
+    - 7
+    super_reduced:
+    parking:
+  vehicle_registration_code: UA
+  world_region: EMEA

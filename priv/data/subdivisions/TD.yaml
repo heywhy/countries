@@ -1,6 +1,15 @@
 ---
 BA:
+  name: Batha
+  code: BA
   unofficial_names: Batha
+  geo:
+    latitude: 13.9371775
+    longitude: 18.4276047
+    min_latitude: 12.1039549
+    min_longitude: 16.9447559
+    max_latitude: 16.076306
+    max_longitude: 20.3562929
   translations:
     en: Batha
     ar: منطقة البطحة
@@ -41,28 +50,146 @@ BA:
     ur: باثا علاقہ
     vi: Khu vực Batha
     zh: 巴塔区
+    lv: Batas reģions
+    ceb: Batha Region
+    ccp: "\U0001111D\U00011117"
+    ka: ბათის რეგიონი
+    'no': Batha
+    ca: Regió de Batha
+    fa: استان بطحه
+  comments:
+  type: province
+BG:
+  name: بحر الغزال
+  code: BG
+  unofficial_names:
   geo:
-    latitude: 13.9371775
-    longitude: 18.4276047
-    min_latitude: 12.1039549
-    min_longitude: 16.9447559
-    max_latitude: 16.076306
-    max_longitude: 20.3562929
-  name: Batha
-BET:
-  unofficial_names: Borkou-Ennedi-Tibesti
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
-    en: Borkou-Ennedi-Tibesti
+    ar: بحر الغزال
+    bg: Бар ел Газел
+    bn: বার এল গাজেল অঞ্চল
+    cs: Barh El Gazel
+    da: Barh El Gazel
+    de: Region Barh El Gazel
+    el: Μπαχρ ελ Γκαζέλ
+    en: Bahr el Gazel
+    es: Región de Barh El Gazel
+    eu: Barh El Gazel
+    fi: Barh el Gazel
+    fr: Barh El Gazel
+    gu: બાહર અલ ગેઝલ પ્રદેશ
+    hi: बहल एल गेज़ेल क्षेत्र
+    id: Wilayah Bahr el Gazel
+    it: regione di Barh El Gazel
+    ja: バル・エル＝ガゼル州
+    kn: ಬಹರ್ ಎಲ್ ಗಸೆಲ್ ಪ್ರದೇಶ
+    ko: 바르엘가젤 주
+    lt: Bahr El Gazelio regionas
+    mr: बहल एल गाझेल प्रदेश
+    ms: Bahr el Gazel Region
+    nb: Bahr el Gazel region
+    nl: Bahr el Gazel Region
+    pl: Region Bahr El Gazel
+    pt: Barh El Gazel
+    ro: Regiunea Barh el Ghazel
+    ru: Бахр-эль-Газаль
+    si: බහර් එල් ගසෙල් කලාපය
+    sv: Bahr el Gazel (region)
+    ta: பார் எல் கஸில் பகுதி
+    te: బహర్ ఎల్ గాజెల్ ప్రాంతం
+    th: บาฮ์ เอล กาเซล
+    tr: Bahr el Gazel Bölgesi
+    uk: Бахр-ель-Газаль
+    ur: بحر الغزال علاقہ
+    vi: Khu vực Bahr el Gazel
+    lv: Bahrelgazalas reģions
+    ceb: Barh el Gazel
+    zh: 加扎勒河區
+    ccp: "\U0001111D\U00011126\U00011134\U00011122\U00011134 \U00011103\U0001112C\U00011123\U00011134
+      \U00011109\U0001110E\U0001112C\U00011123\U00011134"
+    ka: ბაჰრ-ელ-გაზელის რეგიონი
+    'no': Bahr el Gazel region
+    ca: Bahr el Gazel
+    fa: بخش بحر غزل
+  comments:
+  type: province
+BO:
+  name: منطقة بوركو
+  code: BO
+  unofficial_names:
   geo:
-    latitude: 17.8688845
-    longitude: 18.8076195
-    min_latitude: 15.2738331
-    min_longitude: 15.505546
-    max_latitude: 22.064452
-    max_longitude: 21.02631
-  name: Borkou-Ennedi-Tibesti
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: منطقة بوركو
+    bn: বুরকু অঞ্চল
+    ca: Borku
+    cs: Borkou
+    da: Borkou
+    de: Region Borkou
+    el: Μπόρκου
+    en: Borkou
+    es: Región de Borkou
+    eu: Borkou
+    fi: Borkou
+    fr: Borkou
+    gu: બૉર્કાઉ પ્રદેશ
+    hi: बोर्कू प्रदेश
+    hy: Բորկու
+    id: Wilayah Borkou
+    it: regione di Borkou
+    ja: ボルク州
+    kn: ಬೊರ್ಕೊ ಪ್ರದೇಶ
+    ko: 보르쿠 주
+    lt: Borku regionas
+    mr: बोरोकू प्रांत
+    ms: Borkou Region
+    nb: Borkou Region
+    nl: Borkou Region
+    pl: Region Borku
+    pt: Região Borkou
+    ro: Regiunea Borkou
+    ru: Борку
+    si: බොර්කොවූ කලාපය
+    sv: Borkou (region)
+    ta: போர்கோவு பகுதி
+    te: బోర్కోవ్ ప్రాంతం
+    th: แถบบอคูย์
+    tr: Borkou Bölgesi
+    uk: Борку
+    ur: بورکؤ علاقہ
+    vi: Khu vực Borkou
+    lv: Borku reģions
+    ceb: Borkou Region
+    zh: 博爾庫區
+    ccp: "\U0001111D\U0001112E\U00011122\U00011134\U00011107\U0001112F"
+    ka: ბორკუს რეგიონი
+    'no': Borkou Region
+    fa: استان بورکو
+    he: בורקו
+  comments:
+  type: province
 CB:
+  name: Chari-Baguirmi
+  code: CB
   unofficial_names: Chari-Baguirmi
+  geo:
+    latitude: 11.2564207
+    longitude: 16.1580937
+    min_latitude: 9.802192
+    min_longitude: 14.8912919
+    max_latitude: 12.379939
+    max_longitude: 17.506004
   translations:
     en: Chari-Baguirmi
     ar: منطقة كانم
@@ -82,6 +209,7 @@ CB:
     hi: चारी-बगुरनी क्षेत्र
     id: Region Chari-Baguirmi
     it: regione di Chari-Baguirmi
+    ja: シャリ＝バギルミ州
     kn: ಚರಿ-ಬಗ್ಯುರಿಮಿ ಪ್ರದೇಶ
     ko: 샤리바기르미 주
     lt: Šario–Bagirmio regionas
@@ -101,16 +229,85 @@ CB:
     tr: Chari-Baguirmi Bölgesi
     ur: شاری-باگیرمی علاقہ
     vi: Khu vực Chari-Baguirmi
+    lv: Šari-Bagirmi reģions
+    ceb: Chari-Baguirmi Region
+    zh: 沙里-巴吉尔米区
+    ccp: "\U0001110C\U00011122\U00011128-Chari-Baguirmi"
+    ka: შარი-ბაგირმის რეგიონი
+    he: צ׳ארי-בגוירמי
+    uk: Регіон Шарі-Багірмі
+    'no': Chari-Baguirmi
+  comments:
+  type: province
+EE:
+  name: إنيدي الشرقية
+  code: EE
+  unofficial_names:
   geo:
-    latitude: 11.2564207
-    longitude: 16.1580937
-    min_latitude: 9.802192
-    min_longitude: 14.8912919
-    max_latitude: 12.379939
-    max_longitude: 17.506004
-  name: Chari-Baguirmi
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    en: Ennedi-Est
+    fr: Ennedi Est
+    it: Regione di Ennedi Est
+    ja: 東エネディ州
+    ur: انیدی-مشرقی علاقہ
+    ar: إنيدي الشرقية
+    ru: Восточный Эннеди
+    ccp: "\U00011103\U00011128\U0001111A\U0001112C\U00011113\U00011128-\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011134"
+    ka: აღმოსავლეთი ენედის რეგიონი
+    es: Ennedi Est
+    ceb: Ennedi-Est
+    de: Ennedi Est
+    et: Ida-Ennedi piirkond
+    he: אנדי-מזרח
+    hi: एन्नेदी पूर्व (प्रदेश)
+  comments:
+  type: province
+EO:
+  name: إنيدي الغربية
+  code: EO
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    en: Ennedi-Ouest
+    es: Ennedi Ouest
+    fr: Ennedi Ouest
+    it: Regione di Ennedi Ovest
+    ja: 西エネディ州
+    ur: انیدی-مغربی علاقہ
+    ar: إنيدي الغربية
+    zh: 西恩內迪區
+    ru: Западный Эннеди
+    ccp: "\U00011103\U00011128\U0001111A\U0001112C\U00011113\U00011128-\U00011103\U0001112E\U00011120\U0001112C\U0001110C\U00011134\U00011111\U00011134"
+    ka: დასავლეთი ენედის რეგიონი
+    ceb: Ennedi-Ouest
+    de: Ennedi Ouest
+    he: אנדי-מערב
+    hi: एन्नेदी पश्चिम (प्रदेश)
+  comments:
+  type: province
 GR:
+  name: Guéra
+  code: GR
   unofficial_names: Guéra
+  geo:
+    latitude: 11.1219015
+    longitude: 18.4276047
+    min_latitude: 9.8482861
+    min_longitude: 17.2903469
+    max_latitude: 12.990278
+    max_longitude: 20.192167
   translations:
     en: Guéra
     ar: منطقة قيرا
@@ -149,16 +346,27 @@ GR:
     tr: Guéra Bölgesi
     ur: گویرا علاقہ
     vi: Khu vực Guera
-  geo:
-    latitude: 11.1219015
-    longitude: 18.4276047
-    min_latitude: 9.8482861
-    min_longitude: 17.2903469
-    max_latitude: 12.990278
-    max_longitude: 20.192167
-  name: Guéra
+    lv: Geras reģions
+    ceb: Guera Region
+    zh: 蓋拉區
+    ccp: "\U00011109\U0001112A\U00011120\U0001112C\U00011122"
+    ka: გერის რეგიონი
+    uk: Регіон Мбарара
+    'no': Guéra
+    ca: Regió de Guéra
+  comments:
+  type: province
 HL:
+  name: Hadjer Lamis
+  code: HL
   unofficial_names: Hadjer Lamis
+  geo:
+    latitude: 12.4577273
+    longitude: 16.7234639
+    min_latitude: 11.4313499
+    min_longitude: 14.550512
+    max_latitude: 13.3501059
+    max_longitude: 17.6553859
   translations:
     en: Hadjer-Lamis
     ar: منطقة حجر لميس
@@ -177,6 +385,7 @@ HL:
     hi: हद्जर-लामिस क्षेत्र
     id: Region Hadjer-Lamis
     it: regione di Hadjer-Lamis
+    ja: ハジェル＝ラミ州
     kn: ಹಡ್ಜೆರ್-ಲಾಮಿಸ್ ಪ್ರದೇಶ
     ko: 하제르라미 주
     lt: Hadžero–Lamiso regionas
@@ -196,16 +405,28 @@ HL:
     tr: Hadjer-Lamis Bölgesi
     ur: حجر-لامیس علاقہ
     vi: Khu vực Hadjer-Lamis
-  geo:
-    latitude: 12.4577273
-    longitude: 16.7234639
-    min_latitude: 11.4313499
-    min_longitude: 14.550512
-    max_latitude: 13.3501059
-    max_longitude: 17.6553859
-  name: Hadjer Lamis
+    lv: Hadžēras-Lami reģions
+    ceb: Hadjer-Lamis
+    zh: 哈傑爾-拉密區
+    ccp: "\U00011126\U00011116\U00011134\U0001110E\U0001112C\U00011122\U00011134-\U00011123\U0001111F\U00011128\U0001110C\U00011134"
+    ka: ჰაჯერ-ლამისის რეგიონი
+    uk: Регіон Гаджер-Ламіс
+    'no': Hadjer-Lamis
+    ca: Regió d’Hadjer-Lamis
+    fa: بخش حجر لمیس
+  comments:
+  type: province
 KA:
+  name: Kanem
+  code: KA
   unofficial_names: Kanem
+  geo:
+    latitude: 14.8781262
+    longitude: 15.4068079
+    min_latitude: 13.117372
+    min_longitude: 13.633162
+    max_latitude: 16.8978711
+    max_longitude: 16.7248479
   translations:
     en: Kanem
     ar: منطقة كانم²
@@ -244,16 +465,27 @@ KA:
     tr: Kanem Bölgesi
     ur: کانیم علاقہ
     vi: Khu vực Kanem
-  geo:
-    latitude: 14.8781262
-    longitude: 15.4068079
-    min_latitude: 13.117372
-    min_longitude: 13.633162
-    max_latitude: 16.8978711
-    max_longitude: 16.7248479
-  name: Kanem
+    lv: Kanemas reģions
+    ceb: Kanem Region
+    zh: 加奈姆區
+    ccp: "\U00011107\U0001111A\U0001112C\U0001111F\U00011134"
+    ka: კანემის რეგიონი
+    uk: Регіон Канем
+    'no': Kanem
+    be: Канем (рэгіён)
+  comments:
+  type: province
 LC:
+  name: Lac
+  code: LC
   unofficial_names: Lac
+  geo:
+    latitude: 13.6915377
+    longitude: 14.1001326
+    min_latitude: 12.9456311
+    min_longitude: 13.4734749
+    max_latitude: 14.5104809
+    max_longitude: 15.5492499
   translations:
     en: Lac
     ar: منطقة البحيرة
@@ -291,16 +523,28 @@ LC:
     tr: Lac Bölgesi
     ur: لاک ریجن
     vi: Khu vực Lac
-  geo:
-    latitude: 13.6915377
-    longitude: 14.1001326
-    min_latitude: 12.9456311
-    min_longitude: 13.4734749
-    max_latitude: 14.5104809
-    max_longitude: 15.5492499
-  name: Lac
+    lv: Lakas reģions
+    ceb: Lac Region
+    zh: 湖區
+    ccp: "\U00011123\U0001112C\U00011107\U00011134"
+    ka: ლაკის რეგიონი
+    uk: Регіон Лак
+    'no': Lac
+    ca: Regió de Lac
+    fa: بخش بحیره
+  comments:
+  type: province
 LO:
+  name: Logone-Occidental
+  code: LO
   unofficial_names: Logone-Occidental
+  geo:
+    latitude: 8.759675999999999
+    longitude: 15.876004
+    min_latitude: 8.244755
+    min_longitude: 15.2746969
+    max_latitude: 9.208981999999999
+    max_longitude: 16.5759211
   translations:
     en: Logone Occidental
     ar: منطقة لوقون الغربي
@@ -338,16 +582,27 @@ LO:
     uk: Західний Логон
     ur: لوگونے مغربی علاقہ
     vi: Khu vực Logone Occidental
-  geo:
-    latitude: 8.759675999999999
-    longitude: 15.876004
-    min_latitude: 8.244755
-    min_longitude: 15.2746969
-    max_latitude: 9.208981999999999
-    max_longitude: 16.5759211
-  name: Logone-Occidental
+    lv: Rietumlogones reģions
+    ceb: Logone Occidental Region
+    zh: 西洛貢區
+    ccp: "\U00011123\U00011127\U00011109\U0001112E\U0001111A\U00011134 \U00011103\U00011127\U00011107\U00011134\U00011125\U00011128\U00011113\U0001112C\U0001111A\U00011134\U00011111\U00011123\U00011134"
+    ka: დასავლეთი ლოგონის რეგიონი
+    'no': Logone Occidental
+    ca: Regió de Logone Occidental
+    he: לוגון מערב
+  comments:
+  type: province
 LR:
+  name: Logone-Oriental
+  code: LR
   unofficial_names: Logone-Oriental
+  geo:
+    latitude: 8.3149949
+    longitude: 16.3463791
+    min_latitude: 7.4410681
+    min_longitude: 15.230739
+    max_latitude: 9.115038
+    max_longitude: 17.2695311
   translations:
     en: Logone Oriental
     ar: منطقة لوقون الشرقي
@@ -386,16 +641,25 @@ LR:
     uk: Східний Логон (префектура)
     ur: لوگونے مشرقی علاقہ
     vi: Khu vực Logone Oriental
-  geo:
-    latitude: 8.3149949
-    longitude: 16.3463791
-    min_latitude: 7.4410681
-    min_longitude: 15.230739
-    max_latitude: 9.115038
-    max_longitude: 17.2695311
-  name: Logone-Oriental
+    lv: Austrumlogones reģions
+    zh: 東洛貢區
+    ccp: "\U00011123\U00011127\U00011109\U0001112E\U0001111A\U00011134 \U00011103\U00011127\U00011122\U00011128\U00011120\U0001112C\U0001111A\U00011134\U00011111\U00011123\U00011134"
+    ka: აღმოსავლეთი ლოგონის რეგიონი
+    'no': Logone Oriental
+    ca: Regió de Logone Oriental
+  comments:
+  type: province
 MA:
+  name: Mandoul
+  code: MA
   unofficial_names: Mandoul
+  geo:
+    latitude: 8.603091
+    longitude: 17.4795173
+    min_latitude: 7.785258
+    min_longitude: 17.0344641
+    max_latitude: 9.598262
+    max_longitude: 18.164068
   translations:
     en: Mandoul
     ar: منطقة ماندول
@@ -433,16 +697,28 @@ MA:
     tr: Mandoul Bölgesi
     ur: ماندؤل علاقہ
     vi: Khu vực Mandoul
-  geo:
-    latitude: 8.603091
-    longitude: 17.4795173
-    min_latitude: 7.785258
-    min_longitude: 17.0344641
-    max_latitude: 9.598262
-    max_longitude: 18.164068
-  name: Mandoul
+    lv: Mandūlas reģions
+    ceb: Mandoul
+    zh: 芒杜爾區
+    ccp: "\U0001111F\U0001111A\U00011134\U00011113\U0001112F\U00011123\U00011134"
+    ka: მანდულის რეგიონი
+    uk: Регіон Мандуль
+    'no': Mandoul
+    ca: Regió de Mandoul
+    fa: ناحیه ماندول
+  comments:
+  type: province
 MC:
+  name: Moyen-Chari
+  code: MC
   unofficial_names: Moyen-Chari
+  geo:
+    latitude: 9.0639998
+    longitude: 18.4276047
+    min_latitude: 8.0147168
+    min_longitude: 17.3586501
+    max_latitude: 10.5414589
+    max_longitude: 19.927143
   translations:
     en: Moyen-Chari
     ar: منطقة شاري الأوسط
@@ -481,16 +757,29 @@ MC:
     uk: Середнє Шарі
     ur: موین-شاری علاقہ
     vi: Khu vực Moyen-Chari
-  geo:
-    latitude: 9.0639998
-    longitude: 18.4276047
-    min_latitude: 8.0147168
-    min_longitude: 17.3586501
-    max_latitude: 10.5414589
-    max_longitude: 19.927143
-  name: Moyen-Chari
+    lv: Vidusšari reģions
+    ceb: Moyen-Chari Region
+    zh: 中沙里區
+    ccp: "\U0001111F\U00011127\U00011120\U0001112C\U0001111A\U00011134-\U0001110C\U00011122\U00011128"
+    ka: შუა შარის რეგიონი
+    'no': Moyen-Chari
+    ca: Regió de Moyen-Chari
+    fa: بخش میانی شاری
+    ha: Moyen-Chari (yanki)
+    ha_NE: Moyen-Chari (yanki)
+  comments:
+  type: province
 ME:
+  name: Mayo-Kébbi-Est
+  code: ME
   unofficial_names: Mayo-Kébbi-Est
+  geo:
+    latitude: 9.4046039
+    longitude: 14.8454619
+    min_latitude: 8.5243641
+    min_longitude: 14.0194639
+    max_latitude: 10.0102089
+    max_longitude: 15.44772
   translations:
     en: Mayo-Kebbi Est
     ar: منطقة مايو كيبي الشرقي
@@ -528,16 +817,28 @@ ME:
     tr: Mayo-Kebbi Est Bölgesi
     ur: مایو-کیبی مشرقی علاقہ
     vi: Khu vực Mayo-Kebbi Est
-  geo:
-    latitude: 9.4046039
-    longitude: 14.8454619
-    min_latitude: 8.5243641
-    min_longitude: 14.0194639
-    max_latitude: 10.0102089
-    max_longitude: 15.44772
-  name: Mayo-Kébbi-Est
+    lv: Austrumu Majo Kebi reģions
+    ceb: Mayo-Kebbi East Region
+    zh: 東凱比河區
+    ccp: "\U0001111F\U00011127\U00011120-\U00011107\U0001112C\U0001111D\U00011133\U00011126\U00011128
+      \U00011103\U00011128\U0001110C\U00011134\U00011111\U00011134"
+    ka: აღმოსავლეთი მაიო-კების რეგიონი
+    uk: Регіон Східний Майо-Кебі
+    'no': Mayo-Kebbi Est
+    fa: مایو کیبی شرقی
+  comments:
+  type: province
 MO:
+  name: Mayo-Kébbi-Ouest
+  code: MO
   unofficial_names: Mayo-Kébbi-Ouest
+  geo:
+    latitude: 10.4113014
+    longitude: 15.5943388
+    min_latitude: 9.188032
+    min_longitude: 14.949498
+    max_latitude: 11.181067
+    max_longitude: 16.2150691
   translations:
     en: Mayo-Kebbi Ouest
     ar: منطقة مايو كيبي الغربي
@@ -575,16 +876,29 @@ MO:
     tr: Mayo-Kebbi Ouest Bölgesi
     ur: مایو-کیبی مغربی علاقہ
     vi: Khu vực Mayo-Kebbi Ouest
-  geo:
-    latitude: 10.4113014
-    longitude: 15.5943388
-    min_latitude: 9.188032
-    min_longitude: 14.949498
-    max_latitude: 11.181067
-    max_longitude: 16.2150691
-  name: Mayo-Kébbi-Ouest
+    lv: Rietumu Majo Kebi reģions
+    ceb: Mayo-Kebbi West Region
+    zh: 西凱比河區
+    ccp: "\U0001111F\U00011127\U00011120-\U00011107\U0001112C\U0001111D\U00011133\U00011126\U00011128
+      \U00011103\U0001112E\U00011120\U0001112C\U0001110C\U00011134\U00011111\U00011134"
+    ka: დასავლეთი მაიო-კების რეგიონი
+    uk: Регіон Західний Майо-Кебі
+    'no': Mayo-Kebbi Ouest
+    ca: Regió de Mayo-Kebbi Oest
+    fa: ناحیه مایو-کبی اوست
+  comments:
+  type: province
 ND:
+  name: Ndjamena
+  code: ND
   unofficial_names: Ndjamena
+  geo:
+    latitude: 12.113056
+    longitude: 15.049167
+    min_latitude: 12.0603346
+    min_longitude: 14.9664874
+    max_latitude: 12.1801019
+    max_longitude: 15.1484305
   translations:
     en: N’Djamena
     af: N’Djamena
@@ -643,16 +957,44 @@ ND:
     uk: Нджамена
     ur: اینجامینا
     vi: N’Djamena
-  geo:
-    latitude: 12.113056
-    longitude: 15.049167
-    min_latitude: 12.0603346
-    min_longitude: 14.9664874
-    max_latitude: 12.1801019
-    max_longitude: 15.1484305
-  name: Ndjamena
+    cy: N’Djamena
+    ceb: N’Djamena
+    sr_Latn: Ndžamena
+    zh: 恩賈梅納
+    bn: ন’জামিনা
+    yue_Hans: 恩贾梅纳
+    jv: N’Djamena
+    sq: Nxhamena
+    ccp: "\U0001111A‘ \U0001110E\U0001111F\U0001112C\U0001111A"
+    ga: N’Djamena
+    ky: Нжамена
+    ha: Ndjamena
+    so: Nijamiina
+    pa: ਨਿਜਾਮੀਨਾ
+    kk: Нджамена
+    ml: ൻഡ്ജാമെന
+    yue: 恩賈梅納
+    yo: N’Djamena
+    uz: Njamena
+    bs: N’Djamena
+    mk: Нџамена
+    ha_NE: Ndjamena
+    'no': N’Djamena
+    yo_BJ: N’Djamena
+    ps: انجامنا
+  comments:
+  type: province
 OD:
+  name: Ouaddaï
+  code: OD
   unofficial_names: Ouaddaï
+  geo:
+    latitude: 13.748476
+    longitude: 20.7122465
+    min_latitude: 12.636083
+    min_longitude: 20.0267009
+    max_latitude: 14.3643509
+    max_longitude: 22.284214
   translations:
     en: Ouaddaï
     ar: منطقة وداي
@@ -691,16 +1033,28 @@ OD:
     tr: Ouaddaï Bölgesi
     ur: اوادای علاقہ
     vi: Khu vực Ouaddai
-  geo:
-    latitude: 13.748476
-    longitude: 20.7122465
-    min_latitude: 12.636083
-    min_longitude: 20.0267009
-    max_latitude: 14.3643509
-    max_longitude: 22.284214
-  name: Ouaddaï
+    lv: Vadaji reģions
+    ceb: Ouaddai Region
+    zh: 瓦達伊區
+    ccp: "\U00011103\U0001112F\U00011120\U00011113\U00011133\U00011126\U0001112D"
+    ka: უადაის რეგიონი
+    uk: Ваддай
+    'no': Ouaddaï
+    ha: Yankin Ouaddai
+    ha_NE: Yankin Ouaddai
+  comments:
+  type: province
 SA:
+  name: Salamat
+  code: SA
   unofficial_names: Salamat
+  geo:
+    latitude: 10.9691601
+    longitude: 20.7122465
+    min_latitude: 9.060796
+    min_longitude: 18.8384811
+    max_latitude: 12.088373
+    max_longitude: 22.362142
   translations:
     en: Salamat
     ar: منطقة سلامات
@@ -738,16 +1092,87 @@ SA:
     tr: Salamat Bölgesi
     ur: سلامات علاقہ
     vi: Khu vực Salamat
+    lv: Salamatas reģions
+    ceb: Salamat Region
+    zh: 萨拉马特区
+    ccp: "\U00011125\U00011123\U0001111F\U00011127\U00011116\U00011134"
+    ka: სალამატის რეგიონი
+    uk: Регіон Саламат
+    cs: Salamat
+    'no': Salamat
+    ca: Regió de Salamat
+    fa: استان سلامات
+  comments:
+  type: province
+SI:
+  name: منطقة سيلا
+  code: SI
+  unofficial_names:
   geo:
-    latitude: 10.9691601
-    longitude: 20.7122465
-    min_latitude: 9.060796
-    min_longitude: 18.8384811
-    max_latitude: 12.088373
-    max_longitude: 22.362142
-  name: Salamat
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: منطقة سيلا
+    bg: Сила
+    bn: সিলা অঞ্চল
+    da: Sila
+    de: Region Sila
+    el: Σίλα
+    en: Sila
+    es: Región de Sila
+    eu: Sila
+    fi: Sila
+    fr: Sila
+    gu: સિલા પ્રદેશ
+    hi: सिला क्षेत्र
+    id: Wilayah Sila
+    it: regione del Sila
+    ja: シラ州
+    kn: ಸಿಲಾ ಪ್ರದೇಶ
+    ko: 실라 주
+    lt: Silos regionas
+    mr: शिला प्रदेश
+    ms: Sila Region
+    nb: Sila region
+    nl: Sila Region
+    pl: Region Sila
+    pt: Região Sila
+    ro: Regiunea Sila
+    ru: Сила
+    si: සිලා කලාපය
+    sv: Sila (region)
+    ta: சிலா பகுதி
+    te: సిలా ప్రాంతం
+    th: ซิลา
+    tr: Sila Bölgesi
+    ur: سیلا علاقہ
+    vi: Khu vực Sila
+    lv: Silas reģions
+    zh: 西拉區
+    ccp: "\U00011125\U00011128\U00011123"
+    ka: სილის რეგიონი
+    uk: Регіон Сіла
+    'no': Sila region
+    ceb: Sila (rehiyon)
+    fa: ناحیه سیلا
+    he: סילה
+  comments:
+  type: province
 TA:
+  name: Tandjilé
+  code: TA
   unofficial_names: Tandjilé
+  geo:
+    latitude: 9.6625729
+    longitude: 16.7234639
+    min_latitude: 9.006821
+    min_longitude: 15.438418
+    max_latitude: 10.222793
+    max_longitude: 17.552968
   translations:
     en: Tandjilé
     ar: منطقة تانجلي
@@ -785,16 +1210,85 @@ TA:
     tr: Tandjilé Bölgesi
     ur: تانجیلے علاقہ
     vi: Khu vực Tandjilé
+    lv: Tandžiles reģions
+    zh: 坦吉萊區
+    ccp: "\U00011111\U0001111A\U00011134\U0001110E\U0001112D\U00011123\U00011134"
+    ka: ტანჯილეს რეგიონი
+    uk: Регіон Танджиле
+    'no': Tandjilé
+    ca: Regió de Tandjilé
+  comments:
+  type: province
+TI:
+  name: منطقة تبستي
+  code: TI
+  unofficial_names:
   geo:
-    latitude: 9.6625729
-    longitude: 16.7234639
-    min_latitude: 9.006821
-    min_longitude: 15.438418
-    max_latitude: 10.222793
-    max_longitude: 17.552968
-  name: Tandjilé
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: منطقة تبستي
+    bg: Тибести
+    bn: তিবেস্টি অঞ্চল
+    da: Tibesti
+    de: Region Tibesti
+    el: Τιμπέστι
+    en: Tibesti
+    es: Región de Tibesti
+    fi: Tibesti
+    fr: Tibesti
+    gu: તિબેસ્ટી પ્રદેશ
+    hi: तिबेस्टी क्षेत्र
+    id: Wilayah Tibesti
+    it: regione di Tibesti
+    ja: ティベスティ州
+    kn: ಟಿಬೆಸ್ತಿ ಪ್ರದೇಶ
+    ko: 티베스티 주
+    lt: Tibesčio regionas
+    mr: तिबेस्टी प्रदेश
+    ms: Tibesti Region
+    nb: Tibesti Region
+    nl: Tibesti Region
+    pl: Region Tibesti
+    pt: Região de Tibesti
+    ro: Regiunea Tibesti
+    ru: Тибести
+    si: ඉට්බෙස්ටි ප්‍රාන්තය
+    sv: Tibesti (region)
+    ta: டிபேஸ்டி பகுதி
+    te: టిబెస్టి ప్రాంతం
+    th: เขตทิเบสตี
+    tr: Tibesti Bölgesi
+    ur: تیبستی علاقہ
+    vi: Khu vựcTibesti
+    lv: Tībestī reģions
+    ceb: Tibesti Region
+    zh: 提貝斯提區
+    ccp: "\U00011111\U00011128\U0001111D\U0001112C\U0001110C\U00011134\U00011111\U00011128"
+    ka: ტიბესტის რეგიონი
+    eu: Tibesti
+    uk: Регіон Тібесті
+    'no': Tibesti Region
+    ca: Regió de Tibesti
+    fa: تیبستی
+    gl: Rexión de Tibesti
+  comments:
+  type: province
 WF:
+  name: Wadi Fira
+  code: WF
   unofficial_names: Wadi Fira
+  geo:
+    latitude: 15.0892416
+    longitude: 21.4752851
+    min_latitude: 13.85626
+    min_longitude: 20.035872
+    max_latitude: 15.9035701
+    max_longitude: 23.0038449
   translations:
     en: Wadi Fira
     ar: منطقة وادي فيرا
@@ -833,177 +1327,13 @@ WF:
     uk: Ваді-Фіра
     ur: وادی فیرا علاقہ
     vi: Khu vực Wadi Fira
-  geo:
-    latitude: 15.0892416
-    longitude: 21.4752851
-    min_latitude: 13.85626
-    min_longitude: 20.035872
-    max_latitude: 15.9035701
-    max_longitude: 23.0038449
-  name: Wadi Fira
-BG:
-  translations:
-    ar: بحر الغزال
-    bg: Бар ел Газел
-    bn: বার এল গাজেল অঞ্চল
-    cs: Barh El Gazel
-    da: Barh El Gazel
-    de: Region Barh El Gazel
-    el: Μπαχρ ελ Γκαζέλ
-    en: Bahr el Gazel
-    es: Región de Barh El Gazel
-    eu: Barh El Gazel
-    fi: Barh el Gazel
-    fr: Barh El Gazel
-    gu: બાહર અલ ગેઝલ પ્રદેશ
-    hi: बहल एल गेज़ेल क्षेत्र
-    id: Wilayah Bahr el Gazel
-    it: regione di Barh El Gazel
-    kn: ಬಹರ್ ಎಲ್ ಗಸೆಲ್ ಪ್ರದೇಶ
-    ko: 바르엘가젤 주
-    lt: Bahr El Gazelio regionas
-    mr: बहल एल गाझेल प्रदेश
-    ms: Bahr el Gazel Region
-    nb: Bahr el Gazel region
-    nl: Bahr el Gazel Region
-    pl: Region Bahr El Gazel
-    pt: Barh El Gazel
-    ro: Regiunea Barh el Ghazel
-    ru: Бахр-эль-Газаль
-    si: බහර් එල් ගසෙල් කලාපය
-    sv: Bahr el Gazel (region)
-    ta: பார் எல் கஸில் பகுதி
-    te: బహర్ ఎల్ గాజెల్ ప్రాంతం
-    th: บาฮ์ เอล กาเซล
-    tr: Bahr el Gazel Bölgesi
-    uk: Бахр-ель-Газаль
-    ur: بحر الغزال علاقہ
-    vi: Khu vực Bahr el Gazel
-BO:
-  translations:
-    ar: منطقة بوركو
-    bn: বুরকু অঞ্চল
-    ca: Borku
-    cs: Borkou
-    da: Borkou
-    de: Region Borkou
-    el: Μπόρκου
-    en: Borkou
-    es: Región de Borkou
-    eu: Borkou
-    fi: Borkou
-    fr: Borkou
-    gu: બૉર્કાઉ પ્રદેશ
-    hi: बोर्कू प्रदेश
-    hy: Բորկու
-    id: Wilayah Borkou
-    it: regione di Borkou
-    ja: ボルク州
-    kn: ಬೊರ್ಕೊ ಪ್ರದೇಶ
-    ko: 보르쿠 주
-    lt: Borku regionas
-    mr: बोरोकू प्रांत
-    ms: Borkou Region
-    nb: Borkou Region
-    nl: Borkou Region
-    pl: Region Borku
-    pt: Região Borkou
-    ro: Regiunea Borkou
-    ru: Борку
-    si: බොර්කොවූ කලාපය
-    sv: Borkou (region)
-    ta: போர்கோவு பகுதி
-    te: బోర్కోవ్ ప్రాంతం
-    th: แถบบอคูย์
-    tr: Borkou Bölgesi
-    uk: Борку
-    ur: بورکؤ علاقہ
-    vi: Khu vực Borkou
-SI:
-  translations:
-    ar: منطقة سيلا
-    bg: Сила
-    bn: সিলা অঞ্চল
-    da: Sila
-    de: Region Sila
-    el: Σίλα
-    en: Sila
-    es: Región de Sila
-    eu: Sila
-    fi: Sila
-    fr: Sila
-    gu: સિલા પ્રદેશ
-    hi: सिला क्षेत्र
-    id: Wilayah Sila
-    it: regione del Sila
-    ja: シラ州
-    kn: ಸಿಲಾ ಪ್ರದೇಶ
-    ko: 실라 주
-    lt: Silos regionas
-    mr: शिला प्रदेश
-    ms: Sila Region
-    nb: Sila region
-    nl: Sila Region
-    pl: Region Sila
-    pt: Região Sila
-    ro: Regiunea Sila
-    ru: Сила
-    si: සිලා කලාපය
-    sv: Sila (region)
-    ta: சிலா பகுதி
-    te: సిలా ప్రాంతం
-    th: ซิลา
-    tr: Sila Bölgesi
-    ur: سیلا علاقہ
-    vi: Khu vực Sila
-TI:
-  translations:
-    ar: منطقة تبستي
-    bg: Тибести
-    bn: তিবেস্টি অঞ্চল
-    da: Tibesti
-    de: Region Tibesti
-    el: Τιμπέστι
-    en: Tibesti
-    es: Región de Tibesti
-    fi: Tibesti
-    fr: Tibesti
-    gu: તિબેસ્ટી પ્રદેશ
-    hi: तिबेस्टी क्षेत्र
-    id: Wilayah Tibesti
-    it: regione di Tibesti
-    ja: ティベスティ州
-    kn: ಟಿಬೆಸ್ತಿ ಪ್ರದೇಶ
-    ko: 티베스티 주
-    lt: Tibesčio regionas
-    mr: तिबेस्टी प्रदेश
-    ms: Tibesti Region
-    nb: Tibesti Region
-    nl: Tibesti Region
-    pl: Region Tibesti
-    pt: Região de Tibesti
-    ro: Regiunea Tibesti
-    ru: Тибести
-    si: ඉට්බෙස්ටි ප්‍රාන්තය
-    sv: Tibesti (region)
-    ta: டிபேஸ்டி பகுதி
-    te: టిబెస్టి ప్రాంతం
-    th: เขตทิเบสตี
-    tr: Tibesti Bölgesi
-    ur: تیبستی علاقہ
-    vi: Khu vựcTibesti
-EE:
-  translations:
-    en: Ennedi-Est
-    fr: Ennedi Est
-    it: Regione di Ennedi Est
-    ja: 東エネディ州
-    ur: انیدی-مشرقی علاقہ
-EO:
-  translations:
-    en: Ennedi-Ouest
-    es: Ennedi Ouest
-    fr: Ennedi Ouest
-    it: Regione di Ennedi Ovest
-    ja: 西エネディ州
-    ur: انیدی-مغربی علاقہ
+    lv: Vādī Firas reģions
+    zh: 瓦迪菲拉區
+    ccp: "\U00011124\U00011113\U00011128 \U0001111C\U00011128\U00011122"
+    ka: უადი-ფირის რეგიონი
+    'no': Wadi Fira
+    ca: Wadi Fira
+    cs: Wadi Fira
+    fa: بخش وادی فیرا
+  comments:
+  type: province

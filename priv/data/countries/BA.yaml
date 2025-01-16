@@ -1,6 +1,5 @@
 ---
 BA:
-  continent: Europe
   address_format: |-
     {{recipient}}
     {{street}}
@@ -8,33 +7,29 @@ BA:
     {{country}}
   alpha2: BA
   alpha3: BIH
+  continent: Europe
   country_code: '387'
+  currency_code: BAM
+  distance_unit: KM
+  gec: BK
+  geo:
+    latitude: 43.915886
+    longitude: 17.679076
+    max_latitude: 45.2766262
+    max_longitude: 19.6237016
+    min_latitude: 42.5564808
+    min_longitude: 15.7223665
+    bounds:
+      northeast:
+        lat: 45.2766262
+        lng: 19.6237016
+      southwest:
+        lat: 42.5564808
+        lng: 15.7223665
   international_prefix: '00'
   ioc: BIH
-  gec: BK
-  name: Bosnia and Herzegovina
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 8
-  national_prefix: '0'
-  number: '070'
-  region: Europe
-  subregion: Southern Europe
-  world_region: EMEA
-  un_locode: BA
-  nationality: Bosnian, Herzegovinian
-  postal_code: true
-  unofficial_names:
-  - Bosnia and Herzegovina
-  - Bosnien und Herzegowina
-  - Bosnie et Herzégovine
-  - Bosnia y Herzegovina
-  - ボスニア・ヘルツェゴビナ
-  - Bosnië en Herzegovina
-  - Bosnia Herzegovina
-  - Bosnia I Hercegovína
-  - Босна и Херцеговина
+  iso_long_name: Bosnia and Herzegovina
+  iso_short_name: Bosnia and Herzegovina
   languages_official:
   - bs
   - hr
@@ -43,21 +38,27 @@ BA:
   - bs
   - hr
   - sr
-  geo:
-    latitude: 43.915886
-    latitude_dec: '44.16533279418945'
-    longitude: 17.679076
-    longitude_dec: '17.790241241455078'
-    max_latitude: 45.2766262
-    max_longitude: 19.621935
-    min_latitude: 42.5564516
-    min_longitude: 15.7223665
-    bounds:
-      northeast:
-        lat: 45.2766262
-        lng: 19.621935
-      southwest:
-        lat: 42.5564516
-        lng: 15.7223665
-  currency_code: BAM
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 8
+  national_prefix: '0'
+  nationality: Bosnian, Herzegovinian
+  number: '070'
+  postal_code: true
+  postal_code_format: "\\d{5}"
+  region: Europe
   start_of_week: monday
+  subregion: Southern Europe
+  un_locode: BA
+  un_member: true
+  unofficial_names:
+  - Bosnia and Herzegovina
+  - Bosnien und Herzegowina
+  - Bosnie et Herzégovine
+  - Bosnia y Herzegovina
+  - ボスニア・ヘルツェゴビナ
+  - Bosnië en Herzegovina
+  - Bosnia Herzegovina
+  vehicle_registration_code: BIH
+  world_region: EMEA

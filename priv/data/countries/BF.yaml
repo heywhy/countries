@@ -1,49 +1,51 @@
 ---
 BF:
-  continent: Africa
   alpha2: BF
   alpha3: BFA
+  continent: Africa
   country_code: '226'
+  currency_code: XOF
+  distance_unit: KM
+  gec: UV
+  geo:
+    latitude: 12.238333
+    longitude: -1.561593
+    max_latitude: 15.0840397
+    max_longitude: 2.4043596
+    min_latitude: 9.4104717
+    min_longitude: -5.5132416
+    bounds:
+      northeast:
+        lat: 15.0840397
+        lng: 2.4043596
+      southwest:
+        lat: 9.4104717
+        lng: -5.5132416
   international_prefix: '00'
   ioc: BUR
-  gec: UV
-  name: Burkina Faso
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 8
-  national_prefix: None
-  number: '854'
-  region: Africa
-  subregion: Western Africa
-  world_region: EMEA
-  un_locode: BF
-  nationality: Burkinabe
-  postal_code: false
-  unofficial_names:
-  - Burkina Faso
-  - ブルキナファソ
+  iso_long_name: Burkina Faso
+  iso_short_name: Burkina Faso
   languages_official:
   - fr
   - ff
   languages_spoken:
   - fr
   - ff
-  geo:
-    latitude: 12.238333
-    latitude_dec: '12.284985542297363'
-    longitude: -1.561593
-    longitude_dec: "-1.745560646057129"
-    max_latitude: 15.0840032
-    max_longitude: 2.4043598
-    min_latitude: 9.4104719
-    min_longitude: -5.5157196
-    bounds:
-      northeast:
-        lat: 15.0840032
-        lng: 2.4043598
-      southwest:
-        lat: 9.4104719
-        lng: -5.5157196
-  currency_code: XOF
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 8
+  national_prefix: None
+  nationality: Burkinabe
+  number: '854'
+  postal_code: false
+  region: Africa
   start_of_week: monday
+  subregion: Western Africa
+  un_locode: BF
+  un_member: true
+  unofficial_names:
+  - Burkina Faso
+  - ブルキナファソ
+  vehicle_registration_code: BF
+  world_region: EMEA

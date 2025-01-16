@@ -1,6 +1,15 @@
 ---
 AB:
+  name: Alba
+  code: AB
   unofficial_names: Alba
+  geo:
+    latitude: 46.1558924
+    longitude: 23.5556121
+    min_latitude: 45.467659
+    min_longitude: 22.6724509
+    max_latitude: 46.569062
+    max_longitude: 24.2515318
   translations:
     en: Alba
     ar: إقليم ألبا
@@ -51,17 +60,30 @@ AB:
     ur: البا کاؤنٹی
     vi: Alba
     zh: 阿爾巴縣
-  geo:
-    latitude: 46.1558924
-    longitude: 23.5556121
-    min_latitude: 45.467659
-    min_longitude: 22.6724509
-    max_latitude: 46.569062
-    max_longitude: 24.2515318
-  name: Alba
+    lv: Albas žudecs
+    ceb: Județul Alba
+    sr_Latn: Alba
+    sq: Qarku Alba
+    ccp: "\U00011103\U00011123\U00011134\U0001111D"
+    be: жудзец Алба
+    bs: Alba (okrug)
+    mk: Алба
+    'no': Alba
+    az: Alba (judets)
+  comments:
+  type: department
 AG:
+  name: Arges
+  code: AG
   unofficial_names:
   - Arges
+  geo:
+    latitude: 45.0722527
+    longitude: 24.8142726
+    min_latitude: 44.366297
+    min_longitude: 24.427089
+    max_latitude: 45.610782
+    max_longitude: 25.325839
   translations:
     en: Argeș
     ar: مقاطعة أرغيس
@@ -111,16 +133,31 @@ AG:
     uk: Арджеш
     ur: آرجش کاؤنٹی
     vi: Argeş
-  geo:
-    latitude: 45.0722527
-    longitude: 24.8142726
-    min_latitude: 44.366297
-    min_longitude: 24.427089
-    max_latitude: 45.610782
-    max_longitude: 25.325839
-  name: Arges
+    lv: Ardžešas žudecs
+    ceb: Județul Argeș
+    sr_Latn: Arđeš
+    zh: 阿爾傑什縣
+    sq: Qarku Argeș
+    ccp: "\U00011103\U00011122\U00011134\U0001110E\U0001112C\U0001110C\U00011134"
+    mk: Арџеш
+    'no': Argeș
+    az: Ardjeş
+    bs: Argeș (okrug)
+    eu: Argeş konderria
+    hy: Արջեշ
+  comments:
+  type: department
 AR:
+  name: Arad
+  code: AR
   unofficial_names: Arad
+  geo:
+    latitude: 46.166667
+    longitude: 21.316667
+    min_latitude: 46.1286903
+    min_longitude: 21.230371
+    max_latitude: 46.2217118
+    max_longitude: 21.3823449
   translations:
     en: Arad
     ar: مقاطعة أراد
@@ -171,21 +208,35 @@ AR:
     uk: Арад
     ur: آراد کاؤنٹی
     vi: Arad
-  geo:
-    latitude: 46.166667
-    longitude: 21.316667
-    min_latitude: 46.1286903
-    min_longitude: 21.230371
-    max_latitude: 46.2217118
-    max_longitude: 21.3823449
-  name: Arad
+    lv: Aradas žudecs
+    ceb: Arad (lalawigan)
+    sr_Latn: Arad
+    zh: 阿拉德縣
+    sq: Qarku Arad
+    ccp: "\U00011103\U00011122\U00011116\U00011134"
+    mk: Арад
+    'no': Arad
+    az: Arad (judets)
+    bs: Arad (okrug)
+    cy: Sir Arad
+  comments:
+  type: department
 B:
+  name: Bucuresti
+  code: B
   unofficial_names:
   - Bucuresti
   - Bucureşti
   - Bukarest
   - Bucarest
   - Bucarest
+  geo:
+    latitude: 44.4267674
+    longitude: 26.1025384
+    min_latitude: 44.3342445
+    min_longitude: 25.9637001
+    max_latitude: 44.541407
+    max_longitude: 26.225575
   translations:
     en: Bucharest
     af: Boekarest
@@ -248,17 +299,43 @@ B:
     uk: Бухарест
     ur: بخارسٹ
     vi: Bucharest
-  geo:
-    latitude: 44.4267674
-    longitude: 26.1025384
-    min_latitude: 44.3342445
-    min_longitude: 25.9637001
-    max_latitude: 44.541407
-    max_longitude: 26.225575
-  name: Bucuresti
+    cy: Bwcarést
+    ceb: București (lalawigan sa Rumanya)
+    sr_Latn: Bukurešt
+    zh: 布加勒斯特
+    yue_Hans: 布加勒斯特
+    jv: Bukarès
+    sq: Bukureshti
+    ccp: "\U0001111D\U0001112A\U00011107\U00011122\U0001112C\U0001110C\U00011134\U00011111\U00011134"
+    ga: Búcairist
+    ky: Бухарест
+    so: Buqarest
+    pa: ਬੁਖ਼ਾਰੈਸਟ
+    kk: Бухарест
+    yue: 布加勒斯特
+    my: ဗူးခရက်မြို့
+    yo: Bucharest
+    uz: Buharest
+    bs: Bukurešt
+    mk: Букурешт
+    'no': București
+    yo_BJ: Bucharest
+    ha: Bukarest
+    ha_NE: Bukarest
+  comments:
+  type: municipality
 BC:
+  name: Bacau
+  code: BC
   unofficial_names:
   - Bacau
+  geo:
+    latitude: 46.583333
+    longitude: 26.916667
+    min_latitude: 46.5073649
+    min_longitude: 26.8629241
+    max_latitude: 46.6207201
+    max_longitude: 26.9547951
   translations:
     en: Bacău
     ar: إقليم باكاو
@@ -299,16 +376,34 @@ BC:
     uk: Бакеу
     ur: باکئو کاؤنٹی
     vi: Bacău
-  geo:
-    latitude: 46.583333
-    longitude: 26.916667
-    min_latitude: 46.5073649
-    min_longitude: 26.8629241
-    max_latitude: 46.6207201
-    max_longitude: 26.9547951
-  name: Bacau
+    ceb: Județul Bacău
+    sr_Latn: Bakau
+    zh: 巴克烏縣
+    sq: Qarku Bacău
+    ccp: "\U0001111D\U00011107\U0001112C\U00011105\U0001112A"
+    mk: Бакау
+    'no': Bacău
+    az: Bakeu judetsi
+    bs: Bacău (okrug)
+    cy: Sir Bacău
+    el: Τζουντέτς του Μπακάου
+    eu: Bacău konderria
+    hy: Բակեու
+    lv: Bakeu žudecs
+    th: เทศมณฑลบาเกิว
+  comments:
+  type: department
 BH:
+  name: Bihor
+  code: BH
   unofficial_names: Bihor
+  geo:
+    latitude: 47.01575159999999
+    longitude: 22.172266
+    min_latitude: 46.38481789999999
+    min_longitude: 21.427627
+    max_latitude: 47.607922
+    max_longitude: 22.816566
   translations:
     en: Bihor
     ar: مقاطعة بيهور
@@ -358,17 +453,32 @@ BH:
     uk: Біхор
     ur: بیہور کاؤنٹی
     vi: Bihor
-  geo:
-    latitude: 47.01575159999999
-    longitude: 22.172266
-    min_latitude: 46.38481789999999
-    min_longitude: 21.427627
-    max_latitude: 47.607922
-    max_longitude: 22.816566
-  name: Bihor
+    lv: Bihoras žudecs
+    ceb: Bihor (lalawigan)
+    sr_Latn: Bihor
+    zh: 比霍爾縣
+    sq: Qarku Bihor
+    ccp: "\U0001111D\U00011128\U00011126\U0001112E\U00011122\U00011134"
+    mk: Бихор
+    'no': Bihor
+    az: Bihor judeçi
+    be: жудзец Біхар
+    bs: Bihor (okrug)
+    cy: Sir Bihor
+  comments:
+  type: department
 BN:
+  name: Bistrita-Nasaud
+  code: BN
   unofficial_names:
   - Bistrita-Nasaud
+  geo:
+    latitude: 47.2486107
+    longitude: 24.5322814
+    min_latitude: 46.7517591
+    min_longitude: 23.9229529
+    max_latitude: 47.6071391
+    max_longitude: 25.0916189
   translations:
     en: Bistriţa-Năsăud
     ar: مقاطعة بيستريتا-ناسود
@@ -393,6 +503,7 @@ BN:
     hu: Beszterce-Naszód megye
     id: Provinsi Bistriţa-Năsăud
     it: distretto di Bistrița-Năsăud
+    ja: ビストリツァ＝ナサウド県
     ka: ბისტრიცა-ნესეუდის ჟუდეცი
     kn: ಬಿಸ್ಟ್ರಿಟಾ-ನಾಸೌಡ್ ಕೌಂಟಿ
     ko: 비스트리차너서우드 주
@@ -417,17 +528,32 @@ BN:
     uk: Бистриця-Несеуд
     ur: بیستریتسا-ناسائود کاؤنٹی
     vi: Bistriţa-Năsăud
-  geo:
-    latitude: 47.2486107
-    longitude: 24.5322814
-    min_latitude: 46.7517591
-    min_longitude: 23.9229529
-    max_latitude: 47.6071391
-    max_longitude: 25.0916189
-  name: Bistrita-Nasaud
+    lv: Bistricas-Neseudas žudecs
+    ceb: Județul Bistrița-Năsăud
+    sr_Latn: Bistrica-Nasaud
+    zh: 比斯特里察-訥瑟烏德縣
+    sq: Qarku Bistrița-Năsăud
+    ccp: "\U0001111D\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U00011128\U00011111-\U0001111A\U00011125\U00011105\U0001112A\U00011116\U00011134"
+    mk: Бистрица-Насауд
+    'no': Bistrița-Năsăud
+    az: Bistritsa-Neseud (judets)
+    be: жудзец Бістрыца-Нэсэуд
+    bs: Bistrița-Năsăud (okrug)
+    cy: Sir Bistrița-Năsăud
+  comments:
+  type: department
 BR:
+  name: Braila
+  code: BR
   unofficial_names:
   - Braila
+  geo:
+    latitude: 45.269194
+    longitude: 27.957472
+    min_latitude: 45.1678028
+    min_longitude: 27.8928493
+    max_latitude: 45.3137327
+    max_longitude: 28.0004168
   translations:
     en: Brăila
     ar: مقاطعة برايلا
@@ -476,17 +602,31 @@ BR:
     uk: Бреїла
     ur: برئیلا کاؤنٹی
     vi: Hạt Brăila
-  geo:
-    latitude: 45.269194
-    longitude: 27.957472
-    min_latitude: 45.1678028
-    min_longitude: 27.8928493
-    max_latitude: 45.3137327
-    max_longitude: 28.0004168
-  name: Braila
+    lv: Breilas žudecs
+    ceb: Județul Brăila
+    sr_Latn: Braila
+    zh: 布勒伊拉縣
+    sq: Qarku Brăila
+    ccp: "\U0001111D\U00011133\U00011122\U0001112D\U00011123\U00011134"
+    mk: Браила
+    'no': Brăila
+    az: Breila (judets)
+    bs: Brăila (okrug)
+    eu: Brăila konderria
+  comments:
+  type: department
 BT:
+  name: Botosani
+  code: BT
   unofficial_names:
   - Botosani
+  geo:
+    latitude: 47.748611
+    longitude: 26.669444
+    min_latitude: 47.7045958
+    min_longitude: 26.609519
+    max_latitude: 47.7705485
+    max_longitude: 26.709298
   translations:
     en: Botoşani
     ar: إقليم بوتوشان
@@ -538,17 +678,32 @@ BT:
     uk: Ботошань
     ur: بوتوشانی کاؤنٹی
     vi: Botoşani
-  geo:
-    latitude: 47.748611
-    longitude: 26.669444
-    min_latitude: 47.7045958
-    min_longitude: 26.609519
-    max_latitude: 47.7705485
-    max_longitude: 26.709298
-  name: Botosani
+    lv: Botošanu žudecs
+    ceb: Județul Botoșani
+    sr_Latn: Botošani
+    zh: 博托沙尼縣
+    sq: Qarku Botoșani
+    ccp: "\U0001111D\U0001112E\U00011111\U0001112E\U00011125\U0001111A\U00011128"
+    mk: Ботошан
+    'no': Botoșani
+    az: Botoşani (judets)
+    bs: Botoșani (okrug)
+    cy: Sir Botoșani
+    eu: Botoşani konderria
+  comments:
+  type: department
 BV:
+  name: Brasov
+  code: BV
   unofficial_names:
   - Brasov
+  geo:
+    latitude: 45.666667
+    longitude: 25.616667
+    min_latitude: 45.5828542
+    min_longitude: 25.514449
+    max_latitude: 45.72210200000001
+    max_longitude: 25.6784767
   translations:
     en: Braşov
     ar: مقاطعة براسوف
@@ -596,17 +751,34 @@ BV:
     uk: Брашов
     ur: براشوو کاؤنٹی
     vi: Brașov
-  geo:
-    latitude: 45.666667
-    longitude: 25.616667
-    min_latitude: 45.5828542
-    min_longitude: 25.514449
-    max_latitude: 45.72210200000001
-    max_longitude: 25.6784767
-  name: Brasov
+    lv: Brasovas apgabals
+    ceb: Județul Brașov
+    sr_Latn: Brašov
+    zh: 布拉索夫縣
+    sq: Qarku Brașov
+    ccp: "\U0001111D\U00011133\U00011122\U00011125\U0001112E\U0001111B\U00011134"
+    mk: Брашов
+    'no': Brașov
+    az: Braşov (judets)
+    be: жудзец Брашоў
+    bs: Brașov (okrug)
+    cy: Sir Brașov
+    eu: Braşov konderria
+    he: בראשוב
+  comments:
+  type: department
 BZ:
+  name: Buzau
+  code: BZ
   unofficial_names:
   - Buzau
+  geo:
+    latitude: 45.166667
+    longitude: 26.816667
+    min_latitude: 45.1162977
+    min_longitude: 26.7563438
+    max_latitude: 45.1814771
+    max_longitude: 26.8720435
   translations:
     en: Buzău
     ar: إقليم بوزاو
@@ -655,16 +827,31 @@ BZ:
     uk: Бузеу
     ur: بوزاو کاؤنٹی
     vi: Hạt Buzau
-  geo:
-    latitude: 45.166667
-    longitude: 26.816667
-    min_latitude: 45.1162977
-    min_longitude: 26.7563438
-    max_latitude: 45.1814771
-    max_longitude: 26.8720435
-  name: Buzau
+    lv: Buzeu žudecs
+    ceb: Județul Buzău
+    sr_Latn: Buzau
+    zh: 布澤烏縣
+    ccp: "\U0001111D\U0001112A\U0001110E\U00011105\U0001112A"
+    mk: Бузау
+    'no': Buzău
+    az: Buzeu (judets)
+    be: жудзец Бузэу
+    bs: Buzău (okrug)
+    cy: Sir Buzău
+    ga: Contae Buzău
+  comments:
+  type: department
 CJ:
+  name: Cluj
+  code: CJ
   unofficial_names: Cluj
+  geo:
+    latitude: 46.766667
+    longitude: 23.583333
+    min_latitude: 46.7054762
+    min_longitude: 23.522544
+    max_latitude: 46.8612951
+    max_longitude: 23.7104809
   translations:
     en: Cluj
     ar: مقاطعة كلوج
@@ -716,17 +903,30 @@ CJ:
     uk: Клуж
     ur: کلوژ کاؤنٹی
     vi: Hạt Cluj
-  geo:
-    latitude: 46.766667
-    longitude: 23.583333
-    min_latitude: 46.7054762
-    min_longitude: 23.522544
-    max_latitude: 46.8612951
-    max_longitude: 23.7104809
-  name: Cluj
+    ceb: Județul Cluj
+    sr_Latn: Kluž
+    zh: 克魯日縣
+    ccp: "\U00011107\U00011133\U00011123\U0001112A\U0001110C\U00011134"
+    mk: Клуж
+    'no': Cluj
+    az: Kluj judetsi
+    bs: Cluj (okrug)
+    cy: Sir Cluj
+    hy: Կլուժ
+  comments:
+  type: department
 CL:
+  name: Calarasi
+  code: CL
   unofficial_names:
   - Calarasi
+  geo:
+    latitude: 44.2
+    longitude: 27.333333
+    min_latitude: 44.1794956
+    min_longitude: 27.277003
+    max_latitude: 44.23818929999999
+    max_longitude: 27.3725225
   translations:
     en: Călărași
     ar: مقاطعة كالاراسي
@@ -774,17 +974,32 @@ CL:
     uk: Келераш
     ur: کالاراشی کاؤنٹی
     vi: Hạt Calarasi
-  geo:
-    latitude: 44.2
-    longitude: 27.333333
-    min_latitude: 44.1794956
-    min_longitude: 27.277003
-    max_latitude: 44.23818929999999
-    max_longitude: 27.3725225
-  name: Calarasi
+    lv: Kelerašu žudecs
+    ceb: Județul Călărași
+    sr_Latn: Kalaraši
+    zh: 克勒拉希縣
+    ccp: "\U00011107\U00011133\U00011120\U00011123\U00011122\U00011125\U00011128"
+    be: жудзец Кэлэрашы
+    mk: Калараш
+    'no': Călărași
+    az: Keleraşi
+    bs: Călărași (okrug)
+    cy: Sir Călărași
+    eu: Călăraşi konderria
+  comments:
+  type: department
 CS:
+  name: Caras-Severin
+  code: CS
   unofficial_names:
   - Caras-Severin
+  geo:
+    latitude: 45.1139646
+    longitude: 22.0740993
+    min_latitude: 44.589462
+    min_longitude: 21.3522489
+    max_latitude: 45.67003099999999
+    max_longitude: 22.7100121
   translations:
     en: Caraș-Severin
     ar: مقاطعة كاراس-سيفيرين
@@ -807,6 +1022,7 @@ CS:
     hu: Krassó-Szörény megye
     id: Provinsi Caraş-Severin
     it: distretto di Caraș-Severin
+    ja: カラシュ＝セヴェリン県
     ka: კარაშ-სევერინის ჟუდეცი
     kn: ಕಾರಾಸ್-ಸೆವೆರಿನ್ ಕೌಂಟಿ
     ko: 카라슈세베린 주
@@ -831,18 +1047,33 @@ CS:
     uk: Караш-Северін
     ur: کاراش-سیویرین کاؤنٹی
     vi: Hạt Caras-Severin
-  geo:
-    latitude: 45.1139646
-    longitude: 22.0740993
-    min_latitude: 44.589462
-    min_longitude: 21.3522489
-    max_latitude: 45.67003099999999
-    max_longitude: 22.7100121
-  name: Caras-Severin
+    lv: Karašas-Severinas žudecs
+    ceb: Județul Caraș-Severin
+    sr_Latn: Karaš-Severin
+    zh: 卡拉什-塞維林縣
+    ccp: "\U00011107\U00011122\U0001110C\U00011134-\U00011125\U0001112C\U0001111E\U0001112C\U00011122\U00011128\U0001111A\U00011134"
+    be: жудзец Караш-Северын
+    mk: Караш-Северин
+    'no': Caraș-Severin
+    az: Karaş-Severin (judets)
+    bs: Caraș-Severin (okrug)
+    cy: Sir Caraș-Severin
+    eu: Caraş-Severin konderria
+  comments:
+  type: department
 CT:
+  name: Constanta
+  code: CT
   unofficial_names:
   - Constanta
   - Konstanza
+  geo:
+    latitude: 44.173333
+    longitude: 28.638333
+    min_latitude: 44.0842815
+    min_longitude: 28.5510205
+    max_latitude: 44.2782744
+    max_longitude: 28.7076575
   translations:
     en: Constanța
     ar: إقليم كونستانتسا
@@ -890,16 +1121,32 @@ CT:
     uk: Констанца
     ur: کونستانتسا کاؤنٹی
     vi: Constanta
-  geo:
-    latitude: 44.173333
-    longitude: 28.638333
-    min_latitude: 44.0842815
-    min_longitude: 28.5510205
-    max_latitude: 44.2782744
-    max_longitude: 28.7076575
-  name: Constanta
+    lv: Konstancas žudecs
+    ceb: Constanța
+    sr_Latn: Konstanca
+    zh: 康斯坦察縣
+    ccp: "\U00011107\U00011127\U0001111A\U00011134\U00011111\U0001111A\U00011134\U00011111"
+    be: Канстанца
+    mk: Констанца
+    'no': Constanța
+    az: Konstantsa
+    bs: Constanța (okrug)
+    cy: Sir Constanța
+    eu: Constanţa konderria
+    he: מחוז קונסטנצה
+  comments:
+  type: department
 CV:
+  name: Covasna
+  code: CV
   unofficial_names: Covasna
+  geo:
+    latitude: 45.849167
+    longitude: 26.185278
+    min_latitude: 45.83421149999999
+    min_longitude: 26.1405088
+    max_latitude: 45.8621916
+    max_longitude: 26.2171125
   translations:
     en: Covasna
     ar: مقاطعة كوفاسنا
@@ -947,19 +1194,33 @@ CV:
     uk: Ковасна
     ur: کوواسنا کاؤنٹی
     vi: Hạt Covasna
-  geo:
-    latitude: 45.849167
-    longitude: 26.185278
-    min_latitude: 45.83421149999999
-    min_longitude: 26.1405088
-    max_latitude: 45.8621916
-    max_longitude: 26.2171125
-  name: Covasna
+    lv: Kovasnas žudecs
+    ceb: Covasna
+    sr_Latn: Kovasna
+    zh: 科瓦斯納縣
+    ccp: "\U00011107\U0001112E\U0001111E\U0001110C\U00011134\U0001111A"
+    'no': Covasna
+    az: Kovasna
+    bs: Covasna (okrug)
+    cy: Sir Covasna
+    eu: Covasna konderria
+    he: קובאסנה (מחוז)
+  comments:
+  type: department
 DB:
+  name: Dâmbovita
+  code: DB
   unofficial_names:
   - Dambovita
   - Dimbovita
   - Dîmboviţa
+  geo:
+    latitude: 44.9289893
+    longitude: 25.425385
+    min_latitude: 44.403276
+    min_longitude: 25.124594
+    max_latitude: 45.440805
+    max_longitude: 25.992037
   translations:
     en: Dâmbovița
     ar: مقاطعة دامبوفيتا
@@ -1008,16 +1269,30 @@ DB:
     uk: Димбовіца
     ur: دیمبوویتسا کاؤنٹی
     vi: Hạt Dambovita
-  geo:
-    latitude: 44.9289893
-    longitude: 25.425385
-    min_latitude: 44.403276
-    min_longitude: 25.124594
-    max_latitude: 45.440805
-    max_longitude: 25.992037
-  name: Dâmbovita
+    lv: Dimbovicas žudecs
+    ceb: Județul Dâmbovița
+    sr_Latn: Dambovica
+    zh: 登博維察縣
+    ccp: "\U00011113\U0001111F\U00011134\U0001111D\U0001112E\U0001111E\U00011128\U00011111"
+    be: жудзец Дымбавіца
+    'no': Dâmbovița
+    az: Dımboviça
+    bs: Dâmbovița (okrug)
+    cy: Sir Dâmbovița
+    eu: Dâmboviţa konderria
+  comments:
+  type: department
 DJ:
+  name: Dolj
+  code: DJ
   unofficial_names: Dolj
+  geo:
+    latitude: 44.1623022
+    longitude: 23.6325054
+    min_latitude: 43.699738
+    min_longitude: 22.8383393
+    max_latitude: 44.728214
+    max_longitude: 24.2646289
   translations:
     en: Dolj
     ar: مقاطعة دولج
@@ -1066,16 +1341,30 @@ DJ:
     uk: Долж
     ur: دولژ کاؤنٹی
     vi: Hạt Dolj
-  geo:
-    latitude: 44.1623022
-    longitude: 23.6325054
-    min_latitude: 43.699738
-    min_longitude: 22.8383393
-    max_latitude: 44.728214
-    max_longitude: 24.2646289
-  name: Dolj
+    lv: Dolžas žudecs
+    ceb: Dolj
+    sr_Latn: Dolž
+    zh: 多爾日縣
+    ccp: "\U00011118\U0001112E\U00011123\U00011134"
+    be: жудзец Долж
+    'no': Dolj
+    az: Dolj (judets)
+    bs: Dolj (okrug)
+    cy: Sir Dolj
+    eu: Dolj konderria
+  comments:
+  type: department
 GJ:
+  name: Gorj
+  code: GJ
   unofficial_names: Gorj
+  geo:
+    latitude: 44.94855949999999
+    longitude: 23.2427079
+    min_latitude: 44.568317
+    min_longitude: 22.5596509
+    max_latitude: 45.3546451
+    max_longitude: 23.8601481
   translations:
     en: Gorj
     ar: مقاطعة غورج
@@ -1125,18 +1414,31 @@ GJ:
     uk: Горж
     ur: گورژ کاؤنٹی
     vi: Hạt Gorj
-  geo:
-    latitude: 44.94855949999999
-    longitude: 23.2427079
-    min_latitude: 44.568317
-    min_longitude: 22.5596509
-    max_latitude: 45.3546451
-    max_longitude: 23.8601481
-  name: Gorj
+    lv: Goržas žudecs
+    ceb: Gorj
+    sr_Latn: Gorž
+    zh: 戈爾日縣
+    ccp: "\U00011109\U0001112E\U00011122\U00011134"
+    'no': Gorj
+    az: Qorj (judets)
+    bs: Gorj (okrug)
+    cy: Sir Gorj
+    eu: Gorj konderria
+  comments:
+  type: department
 GL:
+  name: Galati
+  code: GL
   unofficial_names:
   - Galati
   - Galatz
+  geo:
+    latitude: 45.423333
+    longitude: 28.0425
+    min_latitude: 45.3905241
+    min_longitude: 27.9515362
+    max_latitude: 45.484793
+    max_longitude: 28.1434536
   translations:
     en: Galați
     ar: إقليم غالاتس
@@ -1185,16 +1487,30 @@ GL:
     uk: Галац
     ur: گالاتسی کاؤنٹی
     vi: Hạt Galati
-  geo:
-    latitude: 45.423333
-    longitude: 28.0425
-    min_latitude: 45.3905241
-    min_longitude: 27.9515362
-    max_latitude: 45.484793
-    max_longitude: 28.1434536
-  name: Galati
+    lv: Galacas žudecs
+    ceb: Județul Galați
+    sr_Latn: Galac
+    zh: 加拉茨縣
+    ccp: "\U00011109\U00011123\U00011111\U00011128"
+    be: Галац
+    'no': Galați
+    az: Qalats (judets)
+    bs: Galați (okrug)
+    cy: Sir Galați
+    eu: Galaţi konderria
+  comments:
+  type: department
 GR:
+  name: Giurgiu
+  code: GR
   unofficial_names: Giurgiu
+  geo:
+    latitude: 43.900833
+    longitude: 25.973889
+    min_latitude: 43.8592715
+    min_longitude: 25.8950758
+    max_latitude: 43.9360169
+    max_longitude: 26.0299587
   translations:
     en: Giurgiu
     ar: مقاطعة جورجيو
@@ -1242,16 +1558,31 @@ GR:
     uk: Джурджу
     ur: جیورجو کاؤنٹی
     vi: Hạt Giurgiu
-  geo:
-    latitude: 43.900833
-    longitude: 25.973889
-    min_latitude: 43.8592715
-    min_longitude: 25.8950758
-    max_latitude: 43.9360169
-    max_longitude: 26.0299587
-  name: Giurgiu
+    lv: Džurdžu žudecs
+    ceb: Giurgiu
+    sr_Latn: Đurđu
+    zh: 久爾久縣
+    ccp: "\U0001110E\U00011128\U00011120\U00011122\U00011134\U0001110E\U00011128\U00011105\U0001112A"
+    'no': Giurgiu
+    az: Curcu (judets)
+    be: жудзец Джурджу
+    bs: Giurgiu (okrug)
+    cy: Sir Giurgiu
+    eu: Giurgiu konderria
+    mk: Џурџу
+  comments:
+  type: department
 HD:
+  name: Hunedoara
+  code: HD
   unofficial_names: Hunedoara
+  geo:
+    latitude: 45.76972199999999
+    longitude: 22.920278
+    min_latitude: 45.7303145
+    min_longitude: 22.8775477
+    max_latitude: 45.7960152
+    max_longitude: 22.9378867
   translations:
     en: Hunedoara
     ar: مقاطعة هوندوارا
@@ -1300,16 +1631,30 @@ HD:
     uk: Хунедоара
     ur: ہونےدوارا کاؤنٹی
     vi: Hạt Hunedoara
-  geo:
-    latitude: 45.76972199999999
-    longitude: 22.920278
-    min_latitude: 45.7303145
-    min_longitude: 22.8775477
-    max_latitude: 45.7960152
-    max_longitude: 22.9378867
-  name: Hunedoara
+    lv: Hunedoaras žudecs
+    ceb: Hunedoara (lalawigan)
+    sr_Latn: Hunedoara
+    zh: 胡內多阿拉縣
+    sq: Qarku Hunedoara
+    ccp: "\U00011126\U0001112A\U0001111A\U0001112C\U00011113\U0001112E\U00011120\U00011122"
+    'no': Hunedoara
+    bs: Hunedoara (okrug)
+    cy: Sir Hunedoara
+    eu: Hunedoara konderria
+    hy: Հունեդոարա
+  comments:
+  type: department
 HR:
+  name: Harghita
+  code: HR
   unofficial_names: Harghita
+  geo:
+    latitude: 46.4928507
+    longitude: 25.6456696
+    min_latitude: 46.118927
+    min_longitude: 24.838758
+    max_latitude: 47.182226
+    max_longitude: 26.2926781
   translations:
     en: Harghita
     ar: مقاطعة هارغيتا
@@ -1357,17 +1702,31 @@ HR:
     uk: Харгіта
     ur: ہارگیتا کاؤنٹی
     vi: Hạt Harghita
-  geo:
-    latitude: 46.4928507
-    longitude: 25.6456696
-    min_latitude: 46.118927
-    min_longitude: 24.838758
-    max_latitude: 47.182226
-    max_longitude: 26.2926781
-  name: Harghita
+    lv: Hargitas žudecs
+    ceb: Harghita
+    sr_Latn: Hargita
+    zh: 哈爾吉塔縣
+    ccp: "\U00011126\U00011122\U00011134\U0001110A\U00011128\U00011111"
+    'no': Harghita
+    az: Hargita judeçi
+    be: жудзец Харгіта
+    bs: Harghita (okrug)
+    cy: Sir Harghita
+    eu: Harghita konderria
+  comments:
+  type: department
 IF:
+  name: Ilfov
+  code: IF
   unofficial_names:
   - Sectorul Agricol Ilfov
+  geo:
+    latitude: 44.535548
+    longitude: 26.2324886
+    min_latitude: 44.21543
+    min_longitude: 25.823766
+    max_latitude: 44.767888
+    max_longitude: 26.454579
   translations:
     en: Ilfov
     ar: مقاطعة إلفوف
@@ -1415,17 +1774,31 @@ IF:
     uk: Ілфов
     ur: الیفوف کاؤنٹی
     vi: Hạt Ilfov
-  geo:
-    latitude: 44.535548
-    longitude: 26.2324886
-    min_latitude: 44.21543
-    min_longitude: 25.823766
-    max_latitude: 44.767888
-    max_longitude: 26.454579
-  name: Ilfov
+    lv: Ilfovas žudecs
+    ceb: Ilfov
+    sr_Latn: Ilfov
+    zh: 伊爾福夫縣
+    ccp: "\U00011103\U00011128\U00011123\U00011134\U0001111C\U0001112E\U0001111B\U00011134"
+    'no': Ilfov
+    az: İlfov (judets)
+    bs: Ilfov (okrug)
+    cy: Sir Ilfov
+    eu: Ilfov konderria
+    he: מחוז אילפוב
+  comments:
+  type: department
 IL:
+  name: Ialomita
+  code: IL
   unofficial_names:
   - Ialomita
+  geo:
+    latitude: 44.603133
+    longitude: 27.3789914
+    min_latitude: 44.330837
+    min_longitude: 26.300869
+    max_latitude: 44.86406700000001
+    max_longitude: 28.1100249
   translations:
     en: Ialomița
     ar: مقاطعة إيالوميتا
@@ -1473,20 +1846,33 @@ IL:
     uk: Яломіца
     ur: یالومیتسا کاؤنٹی
     vi: Hạt Ialomita
-  geo:
-    latitude: 44.603133
-    longitude: 27.3789914
-    min_latitude: 44.330837
-    min_longitude: 26.300869
-    max_latitude: 44.86406700000001
-    max_longitude: 28.1100249
-  name: Ialomita
+    lv: Jalomicas žudecs
+    ceb: Județul Ialomița
+    sr_Latn: Jalomica
+    zh: 雅洛米察縣
+    ccp: "\U00011103\U0001112D\U00011103\U00011123\U0001112E\U0001111F\U00011128\U00011111"
+    'no': Ialomiţa
+    be: жудзец Яламіца
+    bs: Ialomița (okrug)
+    cy: Sir Ialomița
+    eu: Ialomiţa konderria
+  comments:
+  type: department
 IS:
+  name: Iasi
+  code: IS
   unofficial_names:
   - Iasi
   - Jasch
   - Jassy
   - Yassy
+  geo:
+    latitude: 47.156944
+    longitude: 27.590278
+    min_latitude: 47.08483709999999
+    min_longitude: 27.4769569
+    max_latitude: 47.2274375
+    max_longitude: 27.6969839
   translations:
     en: Iași
     ar: إقليم ياش
@@ -1536,17 +1922,32 @@ IS:
     uk: Ясси
     ur: یاشی کاؤنٹی
     vi: Hạt Iasi
-  geo:
-    latitude: 47.156944
-    longitude: 27.590278
-    min_latitude: 47.08483709999999
-    min_longitude: 27.4769569
-    max_latitude: 47.2274375
-    max_longitude: 27.6969839
-  name: Iasi
+    lv: Jasu žudecs
+    ceb: Județul Iași
+    sr_Latn: Jaši
+    zh: 雅西縣
+    ccp: "\U00011103\U0001112D\U00011103\U00011125\U00011128"
+    mk: Јаш
+    'no': Iași
+    bs: Iași (okrug)
+    cy: Sir Iași
+    eu: Iași konderria
+    ga: Contae Iași
+    hy: Յասի շրջան
+  comments:
+  type: department
 MH:
+  name: Mehedinti
+  code: MH
   unofficial_names:
   - Mehedinti
+  geo:
+    latitude: 44.5515053
+    longitude: 22.9044157
+    min_latitude: 44.0983461
+    min_longitude: 22.0000145
+    max_latitude: 45.108286
+    max_longitude: 23.458584
   translations:
     en: Mehedinți
     ar: مقاطعة ميهيدينتي
@@ -1594,17 +1995,31 @@ MH:
     uk: Мехедінць
     ur: میہیدینتسی کاؤنٹی
     vi: Hạt Mehedinti
-  geo:
-    latitude: 44.5515053
-    longitude: 22.9044157
-    min_latitude: 44.0983461
-    min_longitude: 22.0000145
-    max_latitude: 45.108286
-    max_longitude: 23.458584
-  name: Mehedinti
+    lv: Mehedincu žudecs
+    ceb: Județul Mehedinți
+    sr_Latn: Mehedinci
+    zh: 梅赫丁茨縣
+    ccp: "\U0001111F\U0001112C\U00011126\U0001112C\U00011113\U00011128\U0001111A\U00011134\U00011111\U00011128"
+    be: жудзец Мехедынцы
+    'no': Mehedinți
+    az: Mexedintsi
+    bs: Mehedinți (okrug)
+    cy: Sir Mehedinți
+    eu: Mehedinţi konderria
+  comments:
+  type: department
 MM:
+  name: Maramures
+  code: MM
   unofficial_names:
   - Maramures
+  geo:
+    latitude: 47.6737598
+    longitude: 23.7456285
+    min_latitude: 47.324372
+    min_longitude: 22.965186
+    max_latitude: 48.020276
+    max_longitude: 25.0557001
   translations:
     en: Maramureş
     be: жудзец Марамурэш
@@ -1642,17 +2057,36 @@ MM:
     tr: Maramureș ili
     uk: Марамуреш
     ur: ماراموریش کاؤنٹی
-  geo:
-    latitude: 47.6737598
-    longitude: 23.7456285
-    min_latitude: 47.324372
-    min_longitude: 22.965186
-    max_latitude: 48.020276
-    max_longitude: 25.0557001
-  name: Maramures
+    sr_Latn: Maramureš
+    zh: 馬拉穆列什縣
+    hi: मारमुरेस काउंटी
+    ccp: "\U0001111F\U00011122\U0001111F\U0001112A\U00011122\U0001112C\U0001110C\U00011134"
+    'no': Maramureș
+    ar: مقاطعة مارامورس
+    az: Maramureş
+    bs: Maramureș (okrug)
+    ceb: Județul Maramureș
+    cy: Sir Maramureș
+    el: Τζουντέτς του Μαραμούρες
+    eu: Maramureş konderria
+    ga: Contae Maramureș
+    hy: Մարամուրեշ
+    sl: okrožje Maramureș
+    th: เทศมณฑลมารามูเรช
+  comments:
+  type: department
 MS:
+  name: Mures
+  code: MS
   unofficial_names:
   - Mures
+  geo:
+    latitude: 46.5569904
+    longitude: 24.6723215
+    min_latitude: 46.075015
+    min_longitude: 23.9577359
+    max_latitude: 47.143799
+    max_longitude: 25.3139161
   translations:
     en: Mureş
     ar: مقاطعة موريس
@@ -1700,17 +2134,31 @@ MS:
     uk: Муреш
     ur: موریش کاؤنٹی
     vi: Hạt Mures
-  geo:
-    latitude: 46.5569904
-    longitude: 24.6723215
-    min_latitude: 46.075015
-    min_longitude: 23.9577359
-    max_latitude: 47.143799
-    max_longitude: 25.3139161
-  name: Mures
+    lv: Murešas žudecs
+    ceb: Județul Mureș
+    sr_Latn: Mureš
+    zh: 穆列什縣
+    ccp: "\U0001111F\U0001112A\U00011122\U0001112C\U0001110C\U00011134"
+    'no': Mureș
+    az: Mureş
+    bs: Mureș (okrug)
+    cy: Sir Mureș
+    eu: Mureş konderria
+    hy: Մուրեշ
+  comments:
+  type: department
 NT:
+  name: Neamt
+  code: NT
   unofficial_names:
   - Neamt
+  geo:
+    latitude: 46.9758685
+    longitude: 26.3818764
+    min_latitude: 46.640951
+    min_longitude: 25.6630821
+    max_latitude: 47.337545
+    max_longitude: 27.246063
   translations:
     en: Neamţ
     ar: مقاطعة نيامتس
@@ -1758,16 +2206,33 @@ NT:
     uk: Нямц
     ur: نامتس کاؤنٹی
     vi: Hạt Neamt
-  geo:
-    latitude: 46.9758685
-    longitude: 26.3818764
-    min_latitude: 46.640951
-    min_longitude: 25.6630821
-    max_latitude: 47.337545
-    max_longitude: 27.246063
-  name: Neamt
+    lv: Njamcas žudecs
+    ceb: Județul Neamț
+    sr_Latn: Njamc
+    zh: 尼亞姆茨縣
+    ccp: "\U0001111A\U00011128\U0001111F\U00011134\U00011111\U00011134"
+    he: ניאמץ
+    'no': Neamț
+    az: Nyamts (judets)
+    be: жудзец Нямц
+    bs: Neamț (okrug)
+    cy: Sir Neamț
+    eu: Neamţ konderria
+    hy: Նյամց
+    mk: Њамц
+  comments:
+  type: department
 OT:
+  name: Olt
+  code: OT
   unofficial_names: Olt
+  geo:
+    latitude: 44.200797
+    longitude: 24.5022981
+    min_latitude: 43.6820435
+    min_longitude: 23.881877
+    max_latitude: 44.896967
+    max_longitude: 24.8545519
   translations:
     en: Olt
     ar: مقاطعة أولت
@@ -1816,16 +2281,28 @@ OT:
     uk: Олт
     ur: اولت کاؤنٹی
     vi: Hạt Olt
-  geo:
-    latitude: 44.200797
-    longitude: 24.5022981
-    min_latitude: 43.6820435
-    min_longitude: 23.881877
-    max_latitude: 44.896967
-    max_longitude: 24.8545519
-  name: Olt
+    lv: Oltas žudecs
+    ceb: Olt (lalawigan)
+    sr_Latn: Olt
+    zh: 奧爾特縣
+    ccp: "\U00011103\U00011127\U00011123\U00011134\U00011111\U00011134"
+    'no': Olt
+    bs: Olt (okrug)
+    cy: Sir Olt
+    eu: Olt konderria
+  comments:
+  type: department
 PH:
+  name: Prahova
+  code: PH
   unofficial_names: Prahova
+  geo:
+    latitude: 45.08919059999999
+    longitude: 26.0829312
+    min_latitude: 44.692479
+    min_longitude: 25.4514369
+    max_latitude: 45.5147729
+    max_longitude: 26.6054759
   translations:
     en: Prahova
     ar: مقاطعة يراهوفا
@@ -1874,16 +2351,28 @@ PH:
     uk: Прахова
     ur: پراہوا کاؤنٹی
     vi: Hạt Prahova
-  geo:
-    latitude: 45.08919059999999
-    longitude: 26.0829312
-    min_latitude: 44.692479
-    min_longitude: 25.4514369
-    max_latitude: 45.5147729
-    max_longitude: 26.6054759
-  name: Prahova
+    lv: Prahovas žudecs
+    sr_Latn: Prahova
+    zh: 普拉霍瓦縣
+    ccp: "\U0001111B\U00011133\U00011122\U00011127\U00011126\U0001112E\U0001111E"
+    'no': Prahova
+    bs: Prahova (okrug)
+    ceb: Prahova (lalawigan)
+    cy: Sir Prahova
+    eu: Prahova konderria
+  comments:
+  type: department
 SB:
+  name: Sibiu
+  code: SB
   unofficial_names: Sibiu
+  geo:
+    latitude: 45.792784
+    longitude: 24.152069
+    min_latitude: 45.72439780000001
+    min_longitude: 24.0631485
+    max_latitude: 45.8415964
+    max_longitude: 24.2165279
   translations:
     en: Sibiu
     ar: مقاطعة سيبيو
@@ -1933,17 +2422,32 @@ SB:
     uk: Сібіу
     ur: سیبیو کاؤنٹی
     vi: Hạt Sibiu
-  geo:
-    latitude: 45.792784
-    longitude: 24.152069
-    min_latitude: 45.72439780000001
-    min_longitude: 24.0631485
-    max_latitude: 45.8415964
-    max_longitude: 24.2165279
-  name: Sibiu
+    lv: Sibiu žudecs
+    ceb: Județul Sibiu
+    sr_Latn: Sibinj
+    zh: 錫比烏縣
+    ccp: "\U00011125\U00011128\U0001111D\U00011128\U00011105\U0001112A"
+    be: жудзец Сібіу
+    mk: Сибиу
+    'no': Sibiu
+    az: Sibiu
+    bs: Sibiu (okrug)
+    cy: Sir Sibiu
+    hy: Սիբիու
+  comments:
+  type: department
 SJ:
+  name: Salaj
+  code: SJ
   unofficial_names:
   - Salaj
+  geo:
+    latitude: 47.2090813
+    longitude: 23.2121901
+    min_latitude: 46.854099
+    min_longitude: 22.493326
+    max_latitude: 47.460111
+    max_longitude: 23.8409952
   translations:
     en: Sălaj
     ar: مقاطعة سالاج
@@ -1992,16 +2496,29 @@ SJ:
     uk: Селаж
     ur: سالاژ کاؤنٹی
     vi: Hạt Salaj
-  geo:
-    latitude: 47.2090813
-    longitude: 23.2121901
-    min_latitude: 46.854099
-    min_longitude: 22.493326
-    max_latitude: 47.460111
-    max_longitude: 23.8409952
-  name: Salaj
+    lv: Selažas žudecs
+    ceb: Județul Sălaj
+    sr_Latn: Salaž
+    zh: 瑟拉日縣
+    ccp: "\U00011125\U00011123\U0001110C\U00011134"
+    be: жудзец Сэлаж
+    'no': Sălaj
+    bs: Sălaj (okrug)
+    cy: Sir Sălaj
+    eu: Sălaj konderria
+  comments:
+  type: department
 SM:
+  name: Satu Mare
+  code: SM
   unofficial_names: Satu Mare
+  geo:
+    latitude: 47.79
+    longitude: 22.89
+    min_latitude: 47.71166729999999
+    min_longitude: 22.7901506
+    max_latitude: 47.8945642
+    max_longitude: 22.9771327
   translations:
     en: Satu Mare
     ar: مقاطعة ساتو ماري
@@ -2050,16 +2567,30 @@ SM:
     uk: Сату-Маре
     ur: ساتو مارے کاؤنٹی
     vi: Hạt Satu Mare
-  geo:
-    latitude: 47.79
-    longitude: 22.89
-    min_latitude: 47.71166729999999
-    min_longitude: 22.7901506
-    max_latitude: 47.8945642
-    max_longitude: 22.9771327
-  name: Satu Mare
+    lv: Satumares žudecs
+    ceb: Satu Mare
+    sr_Latn: Satu Mare
+    zh: 薩圖馬雷縣
+    ccp: "\U00011125\U00011111\U0001112A \U0001111F\U0001112C\U00011120\U00011122\U00011134"
+    hy: Սատու Մարե
+    be: жудзец Сату-Марэ
+    'no': Satu Mare
+    bs: Satu Mare (okrug)
+    cy: Sir Satu Mare
+    eu: Satu Mare konderria
+  comments:
+  type: department
 SV:
+  name: Suceava
+  code: SV
   unofficial_names: Suceava
+  geo:
+    latitude: 47.65138899999999
+    longitude: 26.255556
+    min_latitude: 47.6085356
+    min_longitude: 26.2014914
+    max_latitude: 47.7191674
+    max_longitude: 26.3217187
   translations:
     en: Suceava
     ar: إقليم سوتشيافا
@@ -2110,16 +2641,31 @@ SV:
     uk: Сучава
     ur: سوچاوا کاؤنٹی
     vi: Hạt Suceava
-  geo:
-    latitude: 47.65138899999999
-    longitude: 26.255556
-    min_latitude: 47.6085356
-    min_longitude: 26.2014914
-    max_latitude: 47.7191674
-    max_longitude: 26.3217187
-  name: Suceava
+    lv: Sučavas žudecs
+    ceb: Suceava (lalawigan)
+    sr_Latn: Sučava
+    zh: 蘇恰瓦縣
+    ccp: "\U00011125\U0001112A\U0001110C\U00011128\U0001111E"
+    'no': Suceava
+    az: Suçava (judets)
+    bs: Suceava (okrug)
+    cy: Sir Suceava
+    ga: Contae Suceava
+    hy: Սուչավա
+    sl: Okrožje Suceava
+  comments:
+  type: department
 TL:
+  name: Tulcea
+  code: TL
   unofficial_names: Tulcea
+  geo:
+    latitude: 45.1716165
+    longitude: 28.7914439
+    min_latitude: 45.1574314
+    min_longitude: 28.7479162
+    max_latitude: 45.2010679
+    max_longitude: 28.8334142
   translations:
     en: Tulcea
     ar: مقاطعة تولسيا
@@ -2168,17 +2714,33 @@ TL:
     uk: Тульча
     ur: تولچا کاؤنٹی
     vi: Hạt Tulcea
-  geo:
-    latitude: 45.1716165
-    longitude: 28.7914439
-    min_latitude: 45.1574314
-    min_longitude: 28.7479162
-    max_latitude: 45.2010679
-    max_longitude: 28.8334142
-  name: Tulcea
+    lv: Tulčas žudecs
+    ceb: Tulcea
+    sr_Latn: Tulča
+    zh: 圖爾恰縣
+    ccp: "\U00011111\U0001112A\U00011123\U00011134\U00011125\U00011128"
+    be: жудзец Тулча
+    'no': Tulcea
+    az: Tulça
+    bs: Tulcea (okrug)
+    cy: Sir Tulcea
+    eu: Tulcea konderria
+    hy: Տուլչա
+    sl: okrožje Tulcea
+  comments:
+  type: department
 TM:
+  name: Timis
+  code: TM
   unofficial_names:
   - Timis
+  geo:
+    latitude: 45.8138902
+    longitude: 21.3331055
+    min_latitude: 45.1918419
+    min_longitude: 20.2617593
+    max_latitude: 46.18994
+    max_longitude: 22.5461279
   translations:
     en: Timiș
     ar: مقاطعة تيميش
@@ -2228,16 +2790,31 @@ TM:
     uk: Тіміш
     ur: تیمیش کاؤنٹی
     vi: Hạt Timis
-  geo:
-    latitude: 45.8138902
-    longitude: 21.3331055
-    min_latitude: 45.1918419
-    min_longitude: 20.2617593
-    max_latitude: 46.18994
-    max_longitude: 22.5461279
-  name: Timis
+    lv: Timišas žudecs
+    ceb: Județul Timiș
+    sr_Latn: Timiš
+    zh: 蒂米什縣
+    sq: Qarku Timiș
+    ccp: "\U00011111\U0001112D\U0001111F\U00011128\U0001110C\U00011134"
+    mk: Тимиш
+    'no': Timiș
+    bs: Timiș (okrug)
+    cy: Sir Timiș
+    eu: Timiş konderria
+    hy: Տիմիշ
+  comments:
+  type: department
 TR:
+  name: Teleorman
+  code: TR
   unofficial_names: Teleorman
+  geo:
+    latitude: 44.0160491
+    longitude: 25.2986628
+    min_latitude: 43.6186193
+    min_longitude: 24.585499
+    max_latitude: 44.518081
+    max_longitude: 25.713873
   translations:
     en: Teleorman
     ar: مقاطعة تيلورمان
@@ -2285,17 +2862,31 @@ TR:
     uk: Телеорман
     ur: تیلیاورمان کاؤنٹی
     vi: Hạt Teleorman
-  geo:
-    latitude: 44.0160491
-    longitude: 25.2986628
-    min_latitude: 43.6186193
-    min_longitude: 24.585499
-    max_latitude: 44.518081
-    max_longitude: 25.713873
-  name: Teleorman
+    lv: Teleormanas žudecs
+    ceb: Teleorman
+    sr_Latn: Teleorman
+    zh: 特列奧爾曼縣
+    ccp: "\U00011111\U0001112C\U00011123\U00011128\U00011120\U0001112E\U00011122\U00011134\U0001111F\U0001111A\U00011134"
+    he: טלאורמן (מחוז)
+    be: жудзец Тэлеарман
+    'no': Teleorman
+    bs: Teleorman (okrug)
+    cy: Sir Teleorman
+    eu: Teleorman konderria
+  comments:
+  type: department
 VL:
+  name: Vâlcea
+  code: VL
   unofficial_names:
   - Vîlcea
+  geo:
+    latitude: 45.07980509999999
+    longitude: 24.0835282
+    min_latitude: 44.49141210000001
+    min_longitude: 23.5770419
+    max_latitude: 45.587699
+    max_longitude: 24.5211
   translations:
     en: Vâlcea
     ar: مقاطعة فالسيا
@@ -2344,16 +2935,31 @@ VL:
     uk: Вилчя
     ur: ویلچا کاؤنٹی
     vi: Hạt Vâlcea
-  geo:
-    latitude: 45.07980509999999
-    longitude: 24.0835282
-    min_latitude: 44.49141210000001
-    min_longitude: 23.5770419
-    max_latitude: 45.587699
-    max_longitude: 24.5211
-  name: Vâlcea
+    lv: Vilčas žudecs
+    ceb: Județul Vâlcea
+    sr_Latn: Valča
+    zh: 沃爾恰縣
+    ccp: "\U0001111E\U00011127\U00011123\U00011134\U00011125\U00011128"
+    be: жудзец Вылча
+    'no': Vâlcea
+    az: Vılça judetsi
+    bs: Vâlcea (okrug)
+    cy: Sir Vâlcea
+    eu: Vâlcea konderria
+    hy: Վիլչա
+  comments:
+  type: department
 VN:
+  name: Vrancea
+  code: VN
   unofficial_names: Vrancea
+  geo:
+    latitude: 45.81348759999999
+    longitude: 27.0657531
+    min_latitude: 45.366076
+    min_longitude: 26.3742352
+    max_latitude: 46.204405
+    max_longitude: 27.558525
   translations:
     en: Vrancea
     ar: إقليم فرنتشيا
@@ -2403,16 +3009,29 @@ VN:
     uk: Вранчя
     ur: ورانچا کاؤنٹی
     vi: Vrancea
-  geo:
-    latitude: 45.81348759999999
-    longitude: 27.0657531
-    min_latitude: 45.366076
-    min_longitude: 26.3742352
-    max_latitude: 46.204405
-    max_longitude: 27.558525
-  name: Vrancea
+    lv: Vrančas žudecs
+    ceb: Vrancea
+    sr_Latn: Vranča
+    zh: 弗朗恰縣
+    ccp: "\U0001111E\U00011133\U00011122\U0001111A\U00011134\U00011125\U00011128"
+    'no': Vrancea
+    az: Vrança (judets)
+    bs: Vrancea (okrug)
+    cy: Sir Vrancea
+    he: מחוז ורנצ׳אה
+  comments:
+  type: department
 VS:
+  name: Vaslui
+  code: VS
   unofficial_names: Vaslui
+  geo:
+    latitude: 46.638333
+    longitude: 27.729167
+    min_latitude: 46.6157827
+    min_longitude: 27.707777
+    max_latitude: 46.6689939
+    max_longitude: 27.7493192
   translations:
     en: Vaslui
     ar: إقليم فاسلوي
@@ -2462,11 +3081,16 @@ VS:
     uk: Васлуй
     ur: واسلوی کاؤنٹی
     vi: Hạt Vaslui
-  geo:
-    latitude: 46.638333
-    longitude: 27.729167
-    min_latitude: 46.6157827
-    min_longitude: 27.707777
-    max_latitude: 46.6689939
-    max_longitude: 27.7493192
-  name: Vaslui
+    lv: Vaslujas žudecs
+    ceb: Vaslui
+    sr_Latn: Vasluj
+    zh: 瓦斯盧伊縣
+    ccp: "\U0001111E\U0001110C\U00011134\U00011123\U0001112D\U0001112A"
+    mk: Васлуј
+    'no': Vaslui
+    az: Vasluy judetsi
+    bs: Vaslui (okrug)
+    cy: Sir Vaslui
+    eu: Vaslui konderria
+  comments:
+  type: department

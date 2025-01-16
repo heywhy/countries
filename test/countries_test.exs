@@ -5,7 +5,7 @@ defmodule CountriesTest do
   describe "all/0" do
     test "get all countries" do
       countries = Countries.all()
-      assert Enum.count(countries) == 250
+      assert Enum.count(countries) == 249
     end
   end
 
@@ -74,7 +74,7 @@ defmodule CountriesTest do
       assert Enum.count(countries) == 59
 
       countries = Countries.filter_by(:national_destination_code_lengths, "2")
-      assert Enum.count(countries) == 200
+      assert Enum.count(countries) == 199
     end
   end
 
@@ -84,8 +84,5 @@ defmodule CountriesTest do
 
     country = List.first(Countries.filter_by(:alpha2, "AD"))
     assert Enum.count(Countries.Subdivisions.all(country)) == 7
-
-    country = List.first(Countries.filter_by(:alpha2, "AI"))
-    assert Enum.count(Countries.Subdivisions.all(country)) == 14
   end
 end

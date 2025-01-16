@@ -24,11 +24,14 @@ defmodule Countries.Loader do
   end
 
   defp convert_country([{_, country_data}]) do
-    Enum.reduce(country_data, %Country{}, fn {attribute, value}, country ->
-      with attribute = List.to_atom(attribute) do
-        Map.put(country, attribute, convert_value(attribute, value))
-      end
-    end)
+    country =
+      Enum.reduce(country_data, %Country{}, fn {attribute, value}, country ->
+        attribute = List.to_atom(attribute)
+
+        %{country | attribute => convert_value(attribute, value)}
+      end)
+
+    %{country | name: country.iso_short_name}
   end
 
   @do_not_convert ~w[national_number_lengths national_destination_code_lengths]a
@@ -50,7 +53,7 @@ defmodule Countries.Loader do
     do: to_map(values)
 
   defp convert_value(attribute, value)
-       when is_list(value) and not (attribute in @do_not_convert),
+       when is_list(value) and attribute not in @do_not_convert,
        do: to_string(value)
 
   defp convert_value(_, value),

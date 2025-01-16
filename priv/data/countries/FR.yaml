@@ -1,6 +1,5 @@
 ---
 FR:
-  continent: Europe
   address_format: |-
     {{recipient}}
     {{street}}
@@ -8,33 +7,52 @@ FR:
     {{country}}
   alpha2: FR
   alpha3: FRA
+  continent: Europe
   country_code: '33'
+  currency_code: EUR
+  distance_unit: KM
+  eea_member: true
+  eu_member: true
+  g20_member: true
+  g7_member: true
+  gec: FR
+  geo:
+    latitude: 46.227638
+    longitude: 2.213749
+    max_latitude: 51.1241999
+    max_longitude: 9.6624999
+    min_latitude: 41.31433
+    min_longitude: -5.5591
+    bounds:
+      northeast:
+        lat: 51.1241999
+        lng: 9.6624999
+      southwest:
+        lat: 41.31433
+        lng: -5.5591
   international_prefix: '00'
   ioc: FRA
-  gec: FR
-  name: France
+  iso_long_name: The French Republic
+  iso_short_name: France
+  languages_official:
+  - fr
+  languages_spoken:
+  - fr
   national_destination_code_lengths:
   - 1
   national_number_lengths:
   - 9
   - 10
   national_prefix: '0'
-  number: '250'
-  region: Europe
-  subregion: Western Europe
-  world_region: EMEA
-  un_locode: FR
   nationality: French
-  eu_member: true
-  eea_member: true
-  vat_rates:
-    standard: 20
-    reduced:
-    - 5.5
-    - 10
-    super_reduced: 2.1
-    parking: 
+  number: '250'
   postal_code: true
+  postal_code_format: "\\d{2} ?\\d{3}"
+  region: Europe
+  start_of_week: monday
+  subregion: Western Europe
+  un_locode: FR
+  un_member: true
   unofficial_names:
   - France
   - Frankreich
@@ -42,25 +60,12 @@ FR:
   - フランス
   - Frankrijk
   - Francia
-  languages_official:
-  - fr
-  languages_spoken:
-  - fr
-  geo:
-    latitude: 46.227638
-    latitude_dec: '46.63727951049805'
-    longitude: 2.213749
-    longitude_dec: '2.3382623195648193'
-    max_latitude: 51.1241999
-    max_longitude: 9.6624999
-    min_latitude: 41.3253001
-    min_longitude: -5.5591
-    bounds:
-      northeast:
-        lat: 51.1241999
-        lng: 9.6624999
-      southwest:
-        lat: 41.3253001
-        lng: -5.5591
-  currency_code: EUR
-  start_of_week: monday
+  vat_rates:
+    standard: 20
+    reduced:
+    - 5.5
+    - 10
+    super_reduced: 2.1
+    parking:
+  vehicle_registration_code: F
+  world_region: EMEA

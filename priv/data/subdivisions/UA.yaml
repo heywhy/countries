@@ -1,10 +1,19 @@
 ---
 '05':
+  name: Vinnyts'ka Oblast'
+  code: '05'
   unofficial_names:
   - Vinnica
   - Vinnitsa
   - Vinnytska
   - Vinnytsya
+  geo:
+    latitude: 49.233083
+    longitude: 28.468217
+    min_latitude: 48.064971
+    min_longitude: 27.37479
+    max_latitude: 49.889537
+    max_longitude: 30.022071
   translations:
     en: Vinnychchyna
     af: Winnitsja-oblast
@@ -56,23 +65,37 @@
     ta: வின்னிட்ஸ்யா ஒப்ளாஸ்ட்
     te: విన్నిట్సియా ఓబ్లాస్ట్
     th: จังหวัดซานมีเกล
+    tk: Winnitsa
     tr: Vinnitsa Oblastı
     uk: Вінницька область
     ur: وینیتسیا اوبلاست
     vi: Vinnytsia
     zh: 文尼察州
-  geo:
-    latitude: 49.233083
-    longitude: 28.468217
-    min_latitude: 48.064971
-    min_longitude: 27.37479
-    max_latitude: 49.889537
-    max_longitude: 30.022071
-  name: Vinnyts'ka Oblast'
+    ceb: Vinnyts’ka Oblast’
+    sr_Latn: Vinička oblast
+    ccp: "\U0001111E\U00011128\U0001111A\U00011133\U00011126\U00011128\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    ky: Винница облусу
+    uz: Vinnitsa viloyati
+    bs: Vinička oblast
+    mk: Виницка област
+    'no': Vinnytsia oblast
+    yue: 文尼察州
+    yue_Hans: 文尼察州
+  comments:
+  type: region
 '07':
+  name: Volyns'ka Oblast'
+  code: '07'
   unofficial_names:
   - Volyn
   - Volynska
+  geo:
+    latitude: 50.74723299999999
+    longitude: 25.325383
+    min_latitude: 50.2871931
+    min_longitude: 23.603933
+    max_latitude: 51.969238
+    max_longitude: 26.1062831
   translations:
     en: Volyn
     af: Wolhinië-oblast
@@ -122,26 +145,42 @@
     ta: வோலின் ஒப்ளாஸ்ட்
     te: వోలిన్ ఓబ్లాస్ట్
     th: โวลน์ โอแบลส
+    tk: Wolyn
     tr: Volın Oblastı
     uk: Волинська область
     ur: ولین اوبلاست
     vi: Volyn
     zh: 沃倫州
-  geo:
-    latitude: 50.74723299999999
-    longitude: 25.325383
-    min_latitude: 50.2871931
-    min_longitude: 23.603933
-    max_latitude: 51.969238
-    max_longitude: 26.1062831
-  name: Volyns'ka Oblast'
+    ceb: Volyns’ka Oblast’
+    sr_Latn: Volinjska oblast
+    ccp: "\U0001111E\U0001112E\U00011123\U00011128\U00011120\U0001111A\U00011134"
+    ky: Волынь областы
+    uz: Volin viloyati
+    bs: Volinjska oblast
+    mk: Волинска област
+    'no': Volyn oblast
+    sd: وولن اوبلاسٽ
+    sl: Volinska oblast
+    yue: 沃倫州
+    yue_Hans: 沃伦州
+  comments:
+  type: region
 '09':
+  name: Luhans'ka Oblast'
+  code: '09'
   unofficial_names:
   - Lugansk
   - Luhanska
   - Luhansʿk
   - Voroshilovgrad
   - Vorošilovgrad
+  geo:
+    latitude: 48.574041
+    longitude: 39.307815
+    min_latitude: 47.825031
+    min_longitude: 37.83751609999999
+    max_latitude: 50.088428
+    max_longitude: 40.2275119
   translations:
     en: Luhanshchyna
     af: Loehansk-oblast
@@ -192,25 +231,42 @@
     ta: லுஹான்ஸ்க் ஒப்ளாஸ்ட்
     te: లూహాంక్స్ ఓబ్లాస్ట్
     th: ลูฮันซก อบลาส
+    tk: Lugansk
     tr: Luhansk Oblastı
     uk: Луганська область
     ur: لوہانسک اوبلاست
     vi: Luhansk
     zh: 盧甘斯克州
-  geo:
-    latitude: 48.574041
-    longitude: 39.307815
-    min_latitude: 47.825031
-    min_longitude: 37.83751609999999
-    max_latitude: 50.088428
-    max_longitude: 40.2275119
-  name: Luhans'ka Oblast'
+    ceb: Luhans’ka Oblast’
+    sr_Latn: Luganska oblast
+    ccp: "\U00011123\U0001112A\U00011126\U0001111A\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
+    ga: Cúige Luhansk
+    ky: Луганск областы
+    uz: Lugansk viloyati
+    mk: Луганска област
+    'no': Luhansk oblast
+    bs: Luganska oblast
+    is: Lúhanska Oblast
+    sq: Rajoni i Luhanskut
+    yue: 盧甘斯克州
+    yue_Hans: 卢甘斯克州
+  comments:
+  type: region
 '12':
+  name: Dnipropetrovs'ka Oblast'
+  code: '12'
   unofficial_names:
   - Dnepropetrovsk
   - Dnipropetrovsk
   - Dnipropetrovska
   - Dnjepropetrovsk
+  geo:
+    latitude: 48.464717
+    longitude: 35.046183
+    min_latitude: 47.481922
+    min_longitude: 32.959522
+    max_latitude: 49.193473
+    max_longitude: 36.9364431
   translations:
     en: Dnipropetrovshchyna
     af: Dnipropetrofsk-oblast
@@ -261,24 +317,38 @@
     ta: டணிப்ரோபெட்ரோவ்ஸ்க் ஒப்ளாஸ்ட்
     te: డినెప్రొపెట్రోవస్క్ ఓబ్లాస్ట్
     th: ดเนโปรเปตรอฟสก์ โอบลาส
+    tk: Dnepropetrowsk
     tr: Dnipropetrovsk Oblastı
     uk: Дніпропетровська область
     ur: دنیپروپیترووسک اوبلاست
     vi: Dnipropetrovsk
     zh: 第聂伯罗彼得罗夫斯克州
-  geo:
-    latitude: 48.464717
-    longitude: 35.046183
-    min_latitude: 47.481922
-    min_longitude: 32.959522
-    max_latitude: 49.193473
-    max_longitude: 36.9364431
-  name: Dnipropetrovs'ka Oblast'
+    ceb: Dnipropetrovska Oblast’
+    sr_Latn: Dnjepropetrovska oblast
+    ccp: "\U00011113\U00011128\U0001111B\U00011133\U00011122\U00011127\U0001111B\U0001112C\U00011111\U00011133\U00011122\U0001112E\U0001111B\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
+    uz: Dnepropetrovsk viloyati
+    bs: Dnjipropetrovska oblast
+    mk: Днепропетровска област
+    'no': Dnipropetrovsk oblast
+    is: Dníprópetrovskfylki
+    yue: 第聶伯羅彼得羅夫斯克州
+    yue_Hans: 第聂伯罗彼得罗夫斯克州
+  comments:
+  type: region
 '14':
+  name: Donets'ka Oblast'
+  code: '14'
   unofficial_names:
   - Doneck
   - Donetska
   - Donetsʿka
+  geo:
+    latitude: 48.015883
+    longitude: 37.80285
+    min_latitude: 46.867733
+    min_longitude: 36.541492
+    max_latitude: 49.236797
+    max_longitude: 39.09210179999999
   translations:
     en: Donechchyna
     af: Donetsk-oblast
@@ -328,23 +398,39 @@
     ta: டநிட்ஸ்க் ஒப்ளாஸ்ட்
     te: డానెస్క్
     th: โดเนตสค์
+    tk: Donetsk
     tr: Donetsk Oblastı
     uk: Донецька область
     ur: دونیتسک اوبلاست
     vi: Donetsk (tỉnh)
     zh: 顿涅茨克州
-  geo:
-    latitude: 48.015883
-    longitude: 37.80285
-    min_latitude: 46.867733
-    min_longitude: 36.541492
-    max_latitude: 49.236797
-    max_longitude: 39.09210179999999
-  name: Donets'ka Oblast'
+    ceb: Donets’ka Oblast’
+    sr_Latn: Donječka oblast
+    yue_Hans: 顿涅茨克州
+    ccp: "\U00011113\U0001112E\U0001111A\U0001112C\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
+    yue: 頓涅茨克州
+    uz: Donetsk viloyati
+    mk: Донечка област
+    'no': Donetsk oblast
+    bs: Donjecka oblast
+    is: Donetska Oblast
+    kk: Донецк облысы
+    sl: Donecka oblast
+  comments:
+  type: region
 '18':
+  name: Zhytomyrs'ka Oblast'
+  code: '18'
   unofficial_names:
   - Zhitomir
   - Zhytomyrska
+  geo:
+    latitude: 50.25465
+    longitude: 28.658667
+    min_latitude: 49.58293099999999
+    min_longitude: 27.1897231
+    max_latitude: 51.6818959
+    max_longitude: 29.7354618
   translations:
     en: Zhytomyrshchyna
     af: Sjitomir-oblast
@@ -395,24 +481,39 @@
     ta: ழயடோமிர் ஒப்ளாஸ்ட்
     te: జైటోమిర్ ఓబ్లాస్ట్
     th: ไซทอม เบลส
+    tk: Žitomir
     tr: Jitomir Oblastı
     uk: Житомирська область
     ur: ژیتومیر اوبلاست
     vi: Zhytomyr
     zh: 日托米爾州
-  geo:
-    latitude: 50.25465
-    longitude: 28.658667
-    min_latitude: 49.58293099999999
-    min_longitude: 27.1897231
-    max_latitude: 51.6818959
-    max_longitude: 29.7354618
-  name: Zhytomyrs'ka Oblast'
+    cy: Zhytomyr Oblast
+    ceb: Zhytomyrs’ka Oblast’
+    sr_Latn: Žitomirska oblast
+    ccp: "\U0001110E\U0001112D\U00011111\U0001112E\U0001111F\U00011128\U00011120\U00011122\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
+    uz: Jitomir viloyati
+    bs: Žitomirska oblast
+    mk: Житомирска област
+    'no': Zjytomyr oblast
+    sl: Žitomirska oblast
+    yue: 日托米爾州
+    yue_Hans: 日托米尔州
+  comments:
+  type: region
 '21':
+  name: Zakarpats'ka Oblast'
+  code: '21'
   unofficial_names:
   - Transcarpathia
   - Zakarpatska
   - Zakarpatsʿka Oblast
+  geo:
+    latitude: 48.6208
+    longitude: 22.287883
+    min_latitude: 47.896507
+    min_longitude: 22.135906
+    max_latitude: 49.09755699999999
+    max_longitude: 24.627378
   translations:
     en: Zakarpattia
     af: Transkarpatië-oblast
@@ -462,25 +563,40 @@
     ta: சக்கர்பட்டிய ஓப்ளாஸ்ட்
     te: జకార్పాటియా ఓబ్లాస్ట్
     th: มณฑลซาคาร์แพทเทีย
+    tk: Zakarpatýe
     tr: Zakarpatya Oblastı
     uk: Закарпатська область
     ur: زاکارپتیا اوبلاست
     vi: Vùng Zakarpattia
     zh: 外喀爾巴阡州
-  geo:
-    latitude: 48.6208
-    longitude: 22.287883
-    min_latitude: 47.896507
-    min_longitude: 22.135906
-    max_latitude: 49.09755699999999
-    max_longitude: 24.627378
-  name: Zakarpats'ka Oblast'
+    ceb: Zakarpattia Oblast
+    sr_Latn: Zakarpatska oblast
+    ccp: "\U0001110E\U00011107\U00011122\U00011134\U0001111B\U00011111\U00011133\U00011126\U00011128\U00011120"
+    ky: Закарпатье
+    uz: Zakarpatye viloyati
+    bs: Zakarpatska oblast
+    mk: Закарпатска област
+    'no': Zakarpattja oblast
+    gl: Óblast de Zakarpatia
+    yue: 外喀爾巴阡州
+    yue_Hans: 外喀尔巴阡州
+  comments:
+  type: region
 '23':
+  name: Zaporiz'ka Oblast'
+  code: '23'
   unofficial_names:
   - Zaporizhzhya
   - Zaporizka
   - Zaporozhye
   - Zaporožje
+  geo:
+    latitude: 47.8388
+    longitude: 35.139567
+    min_latitude: 46.2642371
+    min_longitude: 34.245512
+    max_latitude: 48.14402
+    max_longitude: 37.2450479
   translations:
     en: Zaporizhzhya
     af: Saporisja-oblast
@@ -531,24 +647,39 @@
     ta: சபோரிலலயா ஒப்ளாஸ்ட்
     te: జాపొరీజిహియా ఓబ్లాస్ట్
     th: รัฐซานควน
+    tk: Zaporožýe
     tr: Zaporijya Oblastı
     uk: Запорізька область
     ur: زابروژیا اوبلاست
     vi: Zaporizhia
     zh: 扎波羅熱州
-  geo:
-    latitude: 47.8388
-    longitude: 35.139567
-    min_latitude: 46.2642371
-    min_longitude: 34.245512
-    max_latitude: 48.14402
-    max_longitude: 37.2450479
-  name: Zaporiz'ka Oblast'
+    ceb: Zaporiz’ka Oblast’
+    sr_Latn: Zaporoška oblast
+    ccp: "\U0001110E\U0001111B\U0001112E\U00011122\U00011128\U0001110E\U00011133\U0001110E\U00011128\U00011120"
+    ga: Cúige Zaporizhia
+    uz: Zaporijya viloyati
+    bs: Zaporiška oblast
+    mk: Запорошка област
+    'no': Zaporizjzja oblast
+    sl: Zaporoška oblast
+    yue: 扎波羅熱州
+    yue_Hans: 扎波罗热州
+  comments:
+  type: region
 '26':
+  name: Ivano-Frankivs'ka Oblast'
+  code: '26'
   unofficial_names:
   - Ivano-Frankivsk
   - Ivano-Frankivska
   - Ivano-Frankovsk
+  geo:
+    latitude: 48.922633
+    longitude: 24.711117
+    min_latitude: 47.724266
+    min_longitude: 23.545547
+    max_latitude: 49.559585
+    max_longitude: 25.6529901
   translations:
     en: Prykarpattia
     af: Iwano-Frankifsk-oblast
@@ -576,6 +707,7 @@
     hy: Իվանո-Ֆրանկովսկի մարզ
     id: Oblast Ivano-Frankivsk
     it: Oblast’ di Ivano-Frankivs’k
+    ja: イヴァーノ＝フランキーウシク州
     ka: ივანო-ფრანკოვსკის ოლქი
     kn: ಇವಾನೋ-ಫ್ರಾಂಕಿವ್ಸ್ಕ್ ಒಬ್ಲಾಸ್ಟ್
     ko: 이바노프란키우스크 주
@@ -597,26 +729,39 @@
     ta: இவனோ -பிரான்கிவ்ஸ்க் ஒப்ளாஸ்ட்
     te: ఇవానో-ఫ్రాంకివస్క్ ఓబ్లాస్ట్
     th: อีวาโนฟรังคีฟสค์
+    tk: Iwano-Frankowsk
     tr: İvano-Frankivsk Oblastı
     uk: Івано-Франківська область
     ur: ایوانو-فرانکیوسک اوبلاست
     vi: Ivano-Frankivsk
     zh: 伊万诺-弗兰科夫斯克州
-  geo:
-    latitude: 48.922633
-    longitude: 24.711117
-    min_latitude: 47.724266
-    min_longitude: 23.545547
-    max_latitude: 49.559585
-    max_longitude: 25.6529901
-  name: Ivano-Frankivs'ka Oblast'
+    ceb: Ivano-Frankivs’ka Oblast’
+    sr_Latn: Ivano-Frankivska oblast
+    ccp: "\U0001111B\U00011133\U00011122\U0001112D\U00011107\U00011122\U00011134\U0001111B\U00011111\U00011133\U00011126\U00011128\U00011120"
+    uz: Ivano-frankivsk viloyati
+    bs: Ivano-Frankivska oblast
+    mk: Ивано-Франковска област
+    'no': Ivano-Frankivsk oblast
+    yue: 伊萬諾-弗蘭科夫斯克州
+    yue_Hans: 伊万诺-弗兰科夫斯克州
+  comments:
+  type: region
 '30':
+  name: Kyïv
+  code: '30'
   unofficial_names:
   - Kyiv
   - Kyyiv
   - Kiev
+  geo:
+    latitude: 50.4501
+    longitude: 30.5234
+    min_latitude: 50.213273
+    min_longitude: 30.2394401
+    max_latitude: 50.590798
+    max_longitude: 30.825941
   translations:
-    en: Kiev
+    en: Kyiv
     af: Kiëf
     am: ኪየቭ
     ar: كييف
@@ -678,18 +823,46 @@
     vi: Kiev
     zh: 基輔
     zu: IKiyevi
-  geo:
-    latitude: 50.4501
-    longitude: 30.5234
-    min_latitude: 50.213273
-    min_longitude: 30.2394401
-    max_latitude: 50.590798
-    max_longitude: 30.825941
-  name: Kyïv
+    cy: Kiev
+    ceb: Kiev
+    sr_Latn: Kijev
+    yue_Hans: 基辅
+    jv: Kiev
+    sq: Kievi
+    ccp: "\U00011107\U00011128\U00011120\U0001112C\U0001111B\U00011134"
+    ga: Cív
+    ky: Киев
+    pa: ਕੀਵ
+    kk: Киев
+    yue: 基輔
+    my: ကီးယက်မြို့
+    yo: Kiev
+    uz: Kiyev
+    bs: Kijev
+    mk: Киев
+    'no': Kiev
+    yo_BJ: Kiev
+    ha: Kiev
+    ha_NE: Kiev
+    km: កៀវ
+    lo: ຄີຟ
+    ne: किभ
+    sd: ڪيف
+  comments:
+  type: city
 '32':
+  name: Kyïvs'ka Oblast'
+  code: '32'
   unofficial_names:
   - Kyyivsʿka Oblast
   - Kyyivsʿka Oblastʿ
+  geo:
+    latitude: 50.0529506
+    longitude: 30.7667133
+    min_latitude: 49.1791191
+    min_longitude: 29.2664181
+    max_latitude: 51.554014
+    max_longitude: 32.160736
   translations:
     en: Kyivshchyna
     af: Kiëf-oblast
@@ -739,24 +912,39 @@
     ta: கிளிவ் ஒப்ளாஸ்ட்
     te: ఖ్యివ్
     th: เมืองหลวงเคียฟ
+    tk: Kiýew oblasty
     tr: Kiev Oblastı
     uk: Київська область
     ur: کیف اوبلاست
     vi: Kiev²
     zh: 基辅州
-  geo:
-    latitude: 50.0529506
-    longitude: 30.7667133
-    min_latitude: 49.1791191
-    min_longitude: 29.2664181
-    max_latitude: 51.554014
-    max_longitude: 32.160736
-  name: Kyïvs'ka Oblast'
+    ceb: Kyiv Oblast
+    sr_Latn: Kijevska oblast
+    ccp: "\U00011107\U00011128\U00011120\U00011105\U0001112A\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    uz: Kiyev viloyati
+    bs: Kijevska oblast
+    mk: Киевска област
+    'no': Kiev oblast
+    kk: Киев облысы
+    sl: Kijevska oblast
+    yue: 基輔州
+    yue_Hans: 基辅州
+  comments:
+  type: region
 '35':
+  name: Kirovohrads'ka Oblast'
+  code: '35'
   unofficial_names:
   - Kirovograd
   - Kirovohrad
   - Kirovohradska
+  geo:
+    latitude: 48.50793300000001
+    longitude: 32.262317
+    min_latitude: 47.749134
+    min_longitude: 29.749174
+    max_latitude: 49.1651489
+    max_longitude: 33.8891529
   translations:
     en: Kirovohradschyna
     af: Kirowohrad-oblast
@@ -806,23 +994,37 @@
     ta: கிரோவோஹ்ராட் ஒப்ளாஸ்ட்
     te: కిరోవోహ్రాడ్ ఓబ్లాస్ట్
     th: จังหวัดคีโรโวฮราด
+    tk: Kirowograd
     tr: Kirovograd Oblastı
     uk: Кіровоградська область
     ur: کیرووہراد اوبلاست
     vi: Kirovohrad
     zh: 基洛夫格勒州
-  geo:
-    latitude: 48.50793300000001
-    longitude: 32.262317
-    min_latitude: 47.749134
-    min_longitude: 29.749174
-    max_latitude: 49.1651489
-    max_longitude: 33.8891529
-  name: Kirovohrads'ka Oblast'
+    ceb: Kirovohrads’ka Oblast’
+    sr_Latn: Kirovogradska oblast
+    ccp: "\U00011107\U00011128\U00011122\U0001112E\U0001111E\U0001112E\U00011126\U00011134\U00011122\U00011116\U00011134\U0001110C\U00011128\U0001111A"
+    uz: Kirovograd viloyati
+    bs: Kirovogradska oblast
+    mk: Кировоградска област
+    'no': Kirovohrad oblast
+    sl: Kirovogradska oblast
+    yue: 基洛沃格勒州
+    yue_Hans: 基洛沃格勒州
+  comments:
+  type: region
 '40':
+  name: Sevastopol'
+  code: '40'
   unofficial_names:
   - Sebastopol
   - Sevastopol
+  geo:
+    latitude: 44.61665
+    longitude: 33.525367
+    min_latitude: 44.387115
+    min_longitude: 33.3785472
+    max_latitude: 44.841316
+    max_longitude: 33.897497
   translations:
     en: Sevastopol
     af: Sewastopol
@@ -882,18 +1084,37 @@
     ur: سواستوپول
     vi: Sevastopol
     zh: 塞瓦斯托波爾
-  geo:
-    latitude: 44.61665
-    longitude: 33.525367
-    min_latitude: 44.387115
-    min_longitude: 33.3785472
-    max_latitude: 44.841316
-    max_longitude: 33.897497
-  name: Sevastopol'
+    cy: Sevastopol
+    ceb: Sevastopol
+    sr_Latn: Sevastopolj
+    yue_Hans: 塞凡堡
+    ccp: "\U00011125\U0001112C\U0001111E\U0001110C\U00011134\U00011111\U0001112E\U0001111B\U0001112E\U00011123\U00011134"
+    ky: Севастополь
+    pa: ਸੇਵਾਸਤੋਪੋਲ
+    yue: 塞凡堡
+    my: ဆီပတ်စတိုပိုမြို့
+    uz: Sevastopol
+    bs: Sevastopolj
+    mk: Севастопол
+    'no': Sevastopol
+    ga: Sevastopol
+    kk: Ақиар
+    sd: سيواستوپول
+  comments:
+  type: city
 '43':
+  name: Respublika Krym
+  code: '43'
   unofficial_names:
   - Crimea
   - Krim
+  geo:
+    latitude: 44.952117
+    longitude: 34.102417
+    min_latitude: 44.3864399
+    min_longitude: 32.4792759
+    max_latitude: 46.2291611
+    max_longitude: 36.6467392
   translations:
     en: Crimea
     af: Outonome Republiek van Krim
@@ -941,24 +1162,43 @@
     ta: கிரிமியா தன்னாட்சிக் குடியரசு
     te: క్రిమియా
     th: สาธารณรัฐปกครองตนเองไครเมีย
+    tk: Awtonom Respublikasy Krym
     tr: Kırım Özerk Cumhuriyeti
     uk: Автономна Республіка Крим
     ur: خود مختار جمہوریہ کریمیا
     vi: Cộng hòa Tự trị Krym
     zh: 克里米亚自治共和国
-  geo:
-    latitude: 44.952117
-    longitude: 34.102417
-    min_latitude: 44.3864399
-    min_longitude: 32.4792759
-    max_latitude: 46.2291611
-    max_longitude: 36.6467392
-  name: Respublika Krym
+    cy: Gweriniaeth Hunanlywodraethol y Crimea
+    ceb: Autonomous Republic of Crimea
+    sr_Latn: Autonomna Republika Krim
+    yue_Hans: 克里米亚自治共和国
+    jv: Republik Otonom Krimea
+    sq: Republika Autonome e Krimesë
+    ccp: "\U00011107\U00011133\U00011122\U00011128\U0001111F\U00011120"
+    ga: Poblacht Fhéinrialaitheach na Crimé
+    ky: Крым Республикасы
+    kk: Қырым Автономиялық Республикасы
+    yue: 克里米亞自治共和國
+    uz: Qrim Muxtor Respublikasi
+    bs: Autonomna Republika Krim
+    mk: Автономна Република Крим
+    'no': Den autonome republikken Krim
+  comments:
+  type: republic
 '46':
+  name: L'vivs'ka Oblast'
+  code: '46'
   unofficial_names:
   - Lvivska
   - Lvov
   - Lʿviv
+  geo:
+    latitude: 49.839683
+    longitude: 24.029717
+    min_latitude: 48.7189779
+    min_longitude: 22.6406759
+    max_latitude: 50.6488831
+    max_longitude: 25.426912
   translations:
     en: Lvivshchyna
     af: Lwif-oblast
@@ -1008,25 +1248,39 @@
     ta: லிவிவ் ஒப்ளாஸ்ட்
     te: లెవివ్ ఓబ్లాస్ట్
     th: ลิว อ๊ปลาส
+    tk: Lwiw sebiti
     tr: Lviv Oblastı
     uk: Львівська область
     ur: لویئو اوبلاست
     vi: Lviv
     zh: 利沃夫州
-  geo:
-    latitude: 49.839683
-    longitude: 24.029717
-    min_latitude: 48.7189779
-    min_longitude: 22.6406759
-    max_latitude: 50.6488831
-    max_longitude: 25.426912
-  name: L'vivs'ka Oblast'
+    ceb: L’vivs’ka Oblast’
+    sr_Latn: Lavovska oblast
+    ccp: "\U0001111E\U0001112D\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    uz: Lviv viloyati
+    bs: Lavovska oblast
+    mk: Лавовска област
+    'no': Lviv oblast
+    sl: Lvovska oblast
+    yue: 利維夫州
+    yue_Hans: 利维夫州
+  comments:
+  type: region
 '48':
+  name: Mykolaïvs'ka Oblast'
+  code: '48'
   unofficial_names:
   - Mykolayivsk
   - Mykolayivska
   - Nikolajev
   - Nikolayev
+  geo:
+    latitude: 46.975033
+    longitude: 31.994583
+    min_latitude: 46.36890890000001
+    min_longitude: 30.2075529
+    max_latitude: 48.2316741
+    max_longitude: 33.183647
   translations:
     en: Mykolayivschyna
     af: Mikolajif-oblast
@@ -1076,24 +1330,39 @@
     ta: மிக்கோளைவ் ஒப்ளாஸ்ட்
     te: మైకోలావ్ ఓబ్లాస్ట్
     th: จังหวัดนิโคลาเยฟ
+    tk: Nikolaýew
     tr: Mıkolayiv Oblastı
     uk: Миколаївська область
     ur: میکولائیو اوبلاست
     vi: Mykolaiv
     zh: 尼古拉耶夫州
-  geo:
-    latitude: 46.975033
-    longitude: 31.994583
-    min_latitude: 46.36890890000001
-    min_longitude: 30.2075529
-    max_latitude: 48.2316741
-    max_longitude: 33.183647
-  name: Mykolaïvs'ka Oblast'
+    ceb: Mykolayivs’ka Oblast’
+    sr_Latn: Mikolajivska oblast
+    ccp: "\U0001111F\U0001112D\U00011107\U0001112E\U00011123\U0001112C\U00011120\U00011128\U0001111B\U00011134\U0001110C\U00011128\U0001111A"
+    ky: Николаев областы
+    uz: Mikolayiv viloyati
+    bs: Mikolajivska oblast
+    mk: Николаевска област
+    'no': Mykolajiv oblast
+    gl: Rexión de Mykolaiv
+    yue: 尼古拉耶夫州
+    yue_Hans: 尼古拉耶夫州
+  comments:
+  type: region
 '51':
+  name: Odes'ka Oblast'
+  code: '51'
   unofficial_names:
   - Odesa
   - Odeska
   - Odessa
+  geo:
+    latitude: 46.484583
+    longitude: 30.7326
+    min_latitude: 45.204082
+    min_longitude: 28.211238
+    max_latitude: 48.233306
+    max_longitude: 31.305305
   translations:
     en: Odeshchyna
     af: Odessa-oblast
@@ -1144,23 +1413,38 @@
     ta: ஒடிசா ஒப்ளாஸ்ட்
     te: ఒడెస్సా ఓబ్లాస్ట్
     th: โอเดสซา
+    tk: Odessa
     tr: Odessa Oblastı
     uk: Одеська область
     ur: اودیسا اوبلاست
     vi: Odessa
     zh: 敖德萨州
-  geo:
-    latitude: 46.484583
-    longitude: 30.7326
-    min_latitude: 45.204082
-    min_longitude: 28.211238
-    max_latitude: 48.233306
-    max_longitude: 31.305305
-  name: Odes'ka Oblast'
+    ceb: Odes’ka Oblast’
+    sr_Latn: Odeška oblast
+    ccp: "\U00011103\U0001112E\U00011113\U0001112C\U0001110C\U00011134\U0001110C\U00011128\U0001111A"
+    sl: Odeška pokrajina
+    uz: Odessa viloyati
+    bs: Odeska oblast
+    mk: Одеска област
+    'no': Odessa oblast
+    ky: Одесса областы
+    yue: 奧迪沙州
+    yue_Hans: 奥迪沙州
+  comments:
+  type: region
 '53':
+  name: Poltavs'ka Oblast'
+  code: '53'
   unofficial_names:
   - Poltava
   - Poltavska
+  geo:
+    latitude: 49.58826699999999
+    longitude: 34.551417
+    min_latitude: 48.742984
+    min_longitude: 32.08674999999999
+    max_latitude: 50.5535039
+    max_longitude: 35.4904511
   translations:
     en: Poltavshchyna
     af: Poltawa-oblast
@@ -1211,25 +1495,40 @@
     ta: போல்ட்டாவா ஓப்ளாஸ்ட்
     te: పోల్టావా ఓబ్లాస్ట్
     th: มณฑลโพล์ทาวา
+    tk: Poltawa
     tr: Poltava Oblastı
     uk: Полтавська область
     ur: پولتاوا اوبلاست
     vi: Poltava
     zh: 波尔塔瓦州
-  geo:
-    latitude: 49.58826699999999
-    longitude: 34.551417
-    min_latitude: 48.742984
-    min_longitude: 32.08674999999999
-    max_latitude: 50.5535039
-    max_longitude: 35.4904511
-  name: Poltavs'ka Oblast'
+    ceb: Poltavs’ka Oblast’
+    sr_Latn: Poltavska oblast
+    ccp: "\U0001111B\U0001112E\U00011123\U00011134\U00011111\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    kk: Полтава облысы
+    uz: Poltava viloyati
+    bs: Poltavska oblast
+    mk: Полтавска област
+    'no': Poltava oblast
+    sl: Poltavska oblast
+    yue: 波爾塔瓦州
+    yue_Hans: 波尔塔瓦州
+  comments:
+  type: region
 '56':
+  name: Rivnens'ka Oblast'
+  code: '56'
   unofficial_names:
   - Rivne
   - Rivnenska
   - Rovno
   - Równe
+  geo:
+    latitude: 50.6199
+    longitude: 26.251617
+    min_latitude: 50.0043561
+    min_longitude: 25.0837821
+    max_latitude: 51.9498591
+    max_longitude: 27.729513
   translations:
     en: Rivnenshchyna
     af: Riwne-oblast
@@ -1278,23 +1577,38 @@
     ta: ரிவனே ஒப்ளாஸ்ட்
     te: రివ్నె ఓబ్లాస్ట్
     th: จังหวัดริฟเน
+    tk: Rowne
     tr: Rivne Oblastı
     uk: Рівненська область
     ur: ریونہ اوبلاست
     vi: Rivne
     zh: 羅夫諾州
-  geo:
-    latitude: 50.6199
-    longitude: 26.251617
-    min_latitude: 50.0043561
-    min_longitude: 25.0837821
-    max_latitude: 51.9498591
-    max_longitude: 27.729513
-  name: Rivnens'ka Oblast'
+    ceb: Rivnens’ka Oblast’
+    sr_Latn: Rivanjska oblast
+    ccp: "\U00011122\U00011128\U0001111B\U00011134\U0001111A\U0001112C\U0001111A\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    kk: Ровно облысы
+    uz: Rovno viloyati
+    bs: Rivanjska oblast
+    mk: Ровненска област
+    'no': Rivne oblast
+    hu: Rivnei terület
+    yue: 羅夫諾州
+    yue_Hans: 罗夫诺州
+  comments:
+  type: region
 '59':
+  name: Sums'ka Oblast'
+  code: '59'
   unofficial_names:
   - Sumska
   - Sumy
+  geo:
+    latitude: 50.9077
+    longitude: 34.7981
+    min_latitude: 50.109886
+    min_longitude: 32.943534
+    max_latitude: 52.367214
+    max_longitude: 35.6927141
   translations:
     en: Sumshchyna
     af: Soemi-oblast
@@ -1345,24 +1659,39 @@
     ta: சுமி ஒப்ளாஸ்ட்
     te: సుమీ ఓబ్లాస్ట్
     th: เขตปกครองซูมี
+    tk: Sumy
     tr: Sumi Oblastı
     uk: Сумська область
     ur: سومی اوبلاست
     vi: Sumi
     zh: 蘇梅州
-  geo:
-    latitude: 50.9077
-    longitude: 34.7981
-    min_latitude: 50.109886
-    min_longitude: 32.943534
-    max_latitude: 52.367214
-    max_longitude: 35.6927141
-  name: Sums'ka Oblast'
+    ceb: Sums’ka Oblast’
+    sr_Latn: Sumska oblast
+    ccp: "\U00011125\U0001111F\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    ga: Cúige Shumy
+    uz: Sumi viloyati
+    bs: Sumska oblast
+    mk: Сумска област
+    'no': Sumy oblast
+    is: Sumska oblast (hérað)
+    yue: 蘇梅州
+    yue_Hans: 苏梅州
+  comments:
+  type: region
 '61':
+  name: Ternopil's'ka Oblast'
+  code: '61'
   unofficial_names:
   - Ternopil
   - Ternopilska
   - Ternopol
+  geo:
+    latitude: 49.553517
+    longitude: 25.594767
+    min_latitude: 48.507534
+    min_longitude: 24.718486
+    max_latitude: 50.267215
+    max_longitude: 26.4434051
   translations:
     en: Ternopilshchyna
     af: Ternopil-oblast
@@ -1413,25 +1742,40 @@
     ta: டெர்னோபிள் ஒப்ளாஸ்ட்
     te: టెర్నోపోలి మున్సిపాలిటీ
     th: เทอโนพิล โอเบลส
+    tk: Ternopol
     tr: Ternopil Oblastı
     uk: Тернопільська область
     ur: تیرنوپیل اوبلاست
     vi: Ternopil
     zh: 捷爾諾波爾州
-  geo:
-    latitude: 49.553517
-    longitude: 25.594767
-    min_latitude: 48.507534
-    min_longitude: 24.718486
-    max_latitude: 50.267215
-    max_longitude: 26.4434051
-  name: Ternopil's'ka Oblast'
+    ceb: Ternopil’s’ka Oblast’
+    sr_Latn: Ternopoljska oblast
+    ccp: "\U00011111\U0001112C\U00011122\U00011134\U0001111A\U0001112E\U0001111B\U00011128\U00011123\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    uz: Ternopol viloyati
+    bs: Ternopiljska oblast
+    mk: Тернополска област
+    'no': Ternopil oblast
+    is: Ternopílska oblast
+    sl: Ternopilska oblast
+    yue: 捷爾諾波爾州
+    yue_Hans: 捷尔诺波尔州
+  comments:
+  type: region
 '63':
+  name: Kharkivs'ka Oblast'
+  code: '63'
   unofficial_names:
   - Harkov
   - Kharkiv
   - Kharkivska
   - Kharkov
+  geo:
+    latitude: 49.9935
+    longitude: 36.230383
+    min_latitude: 48.531375
+    min_longitude: 34.8563339
+    max_latitude: 50.459388
+    max_longitude: 38.09530609999999
   translations:
     en: Kharkivshchyna
     af: Charkif-oblast
@@ -1481,24 +1825,38 @@
     ta: கார்க்கிவ் ஒப்ளாஸ்ட்
     te: హార్కివ్ ఓబ్లాస్ట్
     th: คาร์คิฟ
+    tk: Harkow
     tr: Harkiv Oblastı
     uk: Харківська область
     ur: خارکیو اوبلاست
     vi: Kharkiv
     zh: 哈爾科夫州
-  geo:
-    latitude: 49.9935
-    longitude: 36.230383
-    min_latitude: 48.531375
-    min_longitude: 34.8563339
-    max_latitude: 50.459388
-    max_longitude: 38.09530609999999
-  name: Kharkivs'ka Oblast'
+    ceb: Kharkivs’ka Oblast’
+    sr_Latn: Harkovska oblast
+    ccp: "\U00011108\U00011122\U00011134\U00011107\U00011128\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    uz: Xarkiv viloyati
+    bs: Harkivska oblast
+    mk: Харковска област
+    'no': Kharkiv oblast
+    sl: Harkovska oblast
+    yue: 哈爾科夫州
+    yue_Hans: 哈尔科夫州
+  comments:
+  type: region
 '65':
+  name: Khersons'ka Oblast'
+  code: '65'
   unofficial_names:
   - Herson
   - Kherson
   - Khersonska
+  geo:
+    latitude: 46.635417
+    longitude: 32.616867
+    min_latitude: 45.7607072
+    min_longitude: 31.5124959
+    max_latitude: 47.600048
+    max_longitude: 35.281549
   translations:
     en: Khersonshchyna
     af: Cherson-oblast
@@ -1549,25 +1907,39 @@
     ta: க்ஹெர்சோன் ஒப்ளாஸ்ட்
     te: ఖెర్సన్ ఓబ్లాస్ట్
     th: มณฑลเคอร์ซัน
+    tk: Herson
     tr: Herson Oblastı
     uk: Херсонська область
     ur: خیرسون اوبلاست
     vi: Kherson
     zh: 赫尔松州
-  geo:
-    latitude: 46.635417
-    longitude: 32.616867
-    min_latitude: 45.7607072
-    min_longitude: 31.5124959
-    max_latitude: 47.600048
-    max_longitude: 35.281549
-  name: Khersons'ka Oblast'
+    ceb: Khersons’ka Oblast’
+    sr_Latn: Hersonska oblast
+    ccp: "\U00011108\U0001112C\U00011122\U00011134\U00011125\U0001112E\U0001111A\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    ga: Cúige Kherson
+    uz: Xerson viloyati
+    bs: Hersonska oblast
+    mk: Херсонска област
+    'no': Kherson oblast
+    yue: 赫爾松州
+    yue_Hans: 赫尔松州
+  comments:
+  type: region
 '68':
+  name: Khmel'nyts'ka Oblast'
+  code: '68'
   unofficial_names:
   - Hmelnickij
   - Khmelnitsky
   - Khmelnytska
   - Khmelnytskyy
+  geo:
+    latitude: 49.422983
+    longitude: 26.987133
+    min_latitude: 48.4516599
+    min_longitude: 26.1329989
+    max_latitude: 50.594764
+    max_longitude: 27.8984479
   translations:
     en: Khmelnychchyna
     af: Chmelnitski-oblast
@@ -1617,23 +1989,38 @@
     ta: க்ஹமெளனிட்ஸ்க் ஓப்ளாஸ்ட்
     te: ఖ్మెల్నిట్స్కీ ఓబ్లాస్ట్
     th: มณฑลฮเมลนิซกี
+    tk: Hmelnitskiý
     tr: Hmelnitski Oblastı
     uk: Хмельницька область
     ur: خمیلنیتسکی اوبلاست
     vi: Khmelnytskyi
     zh: 赫梅利尼茨基州
-  geo:
-    latitude: 49.422983
-    longitude: 26.987133
-    min_latitude: 48.4516599
-    min_longitude: 26.1329989
-    max_latitude: 50.594764
-    max_longitude: 27.8984479
-  name: Khmel'nyts'ka Oblast'
+    ceb: Khmel’nyts’ka Oblast’
+    sr_Latn: Hmeljnička oblast
+    ccp: "\U00011108\U00011127\U0001111F\U0001112C\U00011123\U00011134\U00011125\U00011128\U00011120\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    kk: Хмельницкий облысы
+    uz: Xmelnitskiy viloyati
+    bs: Hmeljnička oblast
+    mk: Хмелницка област
+    'no': Khmelnytskyj oblast
+    sd: کميل نٽسڪاء اوبلاسٽ
+    yue: 赫梅利尼茨基州
+    yue_Hans: 赫梅利尼茨基州
+  comments:
+  type: region
 '71':
+  name: Cherkas'ka Oblast'
+  code: '71'
   unofficial_names:
   - Cherkask
   - Cherkassy
+  geo:
+    latitude: 49.444433
+    longitude: 32.059767
+    min_latitude: 48.4519151
+    min_longitude: 29.6063949
+    max_latitude: 50.228656
+    max_longitude: 32.8737981
   translations:
     en: Cherkashchyna
     af: Tsjerkasi-oblast
@@ -1684,24 +2071,40 @@
     ta: சேர்க்கஸி ஒப்ளாஸ்ட்
     te: చెర్కేసీ ఓబ్లాస్ట్
     th: แคว้นปกครองเชียร์คาซี
+    tk: Çerkassy
     tr: Çerkası Oblastı
     uk: Черкаська область
     ur: چیرکاسی اوبلاست
     vi: Cherkasy
     zh: 切爾卡瑟州
-  geo:
-    latitude: 49.444433
-    longitude: 32.059767
-    min_latitude: 48.4519151
-    min_longitude: 29.6063949
-    max_latitude: 50.228656
-    max_longitude: 32.8737981
-  name: Cherkas'ka Oblast'
+    ceb: Cherkas’ka Oblast’
+    sr_Latn: Čerkaška oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U00011107\U0001110C\U00011134\U0001110C\U00011128\U0001111A"
+    ga: Cúige Cherkasy
+    sl: Čerkaška oblast
+    kk: Черкассы облысы
+    uz: Cherkasi viloyati
+    bs: Čerkaška oblast
+    mk: Черкаска област
+    'no': Tsjerkasy oblast
+    yue: 切爾卡瑟州
+    yue_Hans: 切尔卡瑟州
+  comments:
+  type: region
 '74':
+  name: Chernihivs'ka Oblast'
+  code: '74'
   unofficial_names:
   - Chernigov
   - Chernihiv
   - Černigov
+  geo:
+    latitude: 51.4982
+    longitude: 31.28935
+    min_latitude: 50.345535
+    min_longitude: 30.49716799999999
+    max_latitude: 52.379379
+    max_longitude: 33.5009611
   translations:
     en: Chernihivshchyna
     af: Tsjernihif-oblast
@@ -1751,20 +2154,27 @@
     ta: செர்னிஹிவ் ஒப்ளாஸ்ட்
     te: చెర్నివ్ ఓబ్లాస్ట్
     th: จังหวัดเชียร์นีฮิฟ
+    tk: Çernigow
     tr: Çernigov Oblastı
     uk: Чернігівська область
     ur: چیرنیہیو اوبلاست
     vi: Chernihiv
     zh: 切爾尼戈夫州
-  geo:
-    latitude: 51.4982
-    longitude: 31.28935
-    min_latitude: 50.345535
-    min_longitude: 30.49716799999999
-    max_latitude: 52.379379
-    max_longitude: 33.5009611
-  name: Chernihivs'ka Oblast'
+    ceb: Chernihivs’ka Oblast’
+    sr_Latn: Černigivska oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U0001111A\U00011128\U00011126\U00011128\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
+    uz: Chernigiv viloyati
+    bs: Černigivska oblast
+    mk: Черниговска област
+    'no': Tsjernihiv oblast
+    sl: Černigovska oblast
+    yue: 切爾尼戈夫州
+    yue_Hans: 切尔尼戈夫州
+  comments:
+  type: region
 '77':
+  name: Chernivets'ka Oblast'
+  code: '77'
   unofficial_names:
   - Cernăuţi
   - Chernivtsi
@@ -1773,6 +2183,13 @@
   - Czernowitz
   - Tschernowitz
   - Černovcy
+  geo:
+    latitude: 48.291683
+    longitude: 25.935217
+    min_latitude: 47.72516599999999
+    min_longitude: 24.908172
+    max_latitude: 48.6759141
+    max_longitude: 27.533325
   translations:
     en: Chernivtsi Oblast
     af: Tsjerniftsi-oblast
@@ -1822,16 +2239,22 @@
     ta: செர்னிவடசி ஓப்ளாஸ்ட்
     te: చెర్నివట్సీ ఓబ్లాస్ట్
     th: มณฑลเชอร์เนฟฟี
+    tl: Çernowtsy
     tr: Çernovtsi Oblastı
     uk: Чернівецька область
     ur: چیرنیوتسی اوبلاست
     vi: Chernivtsi
     zh: 切爾諾夫策州
-  geo:
-    latitude: 48.291683
-    longitude: 25.935217
-    min_latitude: 47.72516599999999
-    min_longitude: 24.908172
-    max_latitude: 48.6759141
-    max_longitude: 27.533325
-  name: Chernivets'ka Oblast'
+    ceb: Chernivets’ka Oblast’
+    sr_Latn: Černivačka oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U0001111A\U00011128\U0001111B\U00011134\U00011111\U00011134\U00011125\U00011128
+      \U00011103\U00011127\U0001111B\U00011134\U00011123\U0001110C\U00011134\U00011111\U00011134"
+    kk: Черновцы облысы
+    uz: Chernivsi viloyati
+    bs: Černivačka oblast
+    mk: Черновечка област
+    'no': Tsjernivtsi oblast
+    yue: 切爾諾夫策州
+    yue_Hans: 切尔诺夫策州
+  comments:
+  type: region

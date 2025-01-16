@@ -1,7 +1,16 @@
 ---
 AG:
+  name: Aargau (de)
+  code: AG
   unofficial_names:
   - Argovie
+  geo:
+    latitude: 47.3876664
+    longitude: 8.2554295
+    min_latitude: 47.13755
+    min_longitude: 7.713470099999999
+    max_latitude: 47.6209201
+    max_longitude: 8.455169999999999
   translations:
     en: Aargau
     af: Kanton Aargau
@@ -58,16 +67,34 @@ AG:
     ur: آرگاؤ
     vi: Aargau
     zh: 阿爾高州
-  geo:
-    latitude: 47.3876664
-    longitude: 8.2554295
-    min_latitude: 47.13755
-    min_longitude: 7.713470099999999
-    max_latitude: 47.6209201
-    max_longitude: 8.455169999999999
-  name: Aargau (de)
+    cy: Aargau
+    ceb: Kanton Aargau
+    sr_Latn: Kanton Argau
+    yue_Hans: 阿尔胶州
+    jv: Kanton Aargau
+    sq: Kantoni Aargau
+    ccp: "\U00011103\U00011122\U00011134\U00011109\U00011105\U0001112A"
+    kk: Аргау
+    yue: 阿爾膠州
+    bs: Aargau
+    mk: Аргау
+    'no': Aargau
+    az: Arqau
+    ga: cantún Aargau
+    ps: آرګاو
+  comments:
+  type: canton
 AI:
+  name: Appenzell Innerrhoden (de)
+  code: AI
   unofficial_names: Appenzell Innerrhoden (de)
+  geo:
+    latitude: 47.3161925
+    longitude: 9.4316573
+    min_latitude: 47.2339999
+    min_longitude: 9.309809999999999
+    max_latitude: 47.43874
+    max_longitude: 9.617479999999999
   translations:
     en: Appenzell Innerrhoden
     ar: كانتون أبينزيل إينرهودن
@@ -119,17 +146,38 @@ AI:
     uk: Аппенцелль — Іннерроден
     ur: اپینسیل انیررودن
     vi: Appenzell Innerrhoden
-  geo:
-    latitude: 47.3161925
-    longitude: 9.4316573
-    min_latitude: 47.2339999
-    min_longitude: 9.309809999999999
-    max_latitude: 47.43874
-    max_longitude: 9.617479999999999
-  name: Appenzell Innerrhoden (de)
+    cy: Appenzell Innerrhoden
+    ceb: Kanton Appenzell Innerrhoden
+    sr_Latn: Kanton Apencel Ineroden
+    zh: 內阿彭策爾州
+    yue_Hans: 内阿彭策州
+    jv: Kanton Appenzell Innerrhoden
+    sq: Kantoni Appenzell Innerrhoden
+    ccp: "\U00011103\U0001112C\U0001111B\U0001112C\U0001111A\U00011134\U0001110E\U0001112C\U00011123\U00011134
+      \U00011103\U00011128\U0001111A\U0001112C\U00011122\U00011134\U00011126\U0001112E\U00011113\U0001112C\U0001111A\U00011134"
+    kk: Аппенцелль-Иннерроден
+    yue: 內阿彭策州
+    bs: Appenzell Innerrhoden
+    mk: Апенцел Инероден
+    'no': Appenzell Innerrhoden
+    af: Kanton Appenzell Innerrhoden
+    ga: Appenzell Innerrhoden
+    hy: Ապենցել Իներռոդեն
+    ps: آفنڅل یننر هودن
+  comments:
+  type: canton
 AR:
+  name: Appenzell Ausserrhoden (de)
+  code: AR
   unofficial_names:
   - Appenzell-Ausser Rhoden
+  geo:
+    latitude: 47.366481
+    longitude: 9.3000916
+    min_latitude: 47.24695
+    min_longitude: 9.1910399
+    max_latitude: 47.4690301
+    max_longitude: 9.63088
   translations:
     en: Appenzell Ausserrhoden
     ar: كانتون أبينزيل أوسيرهودن
@@ -182,17 +230,38 @@ AR:
     uk: Аппенцелль — Ауссерроден
     ur: اپینسیل اوسیررودن
     vi: Appenzell Ausserrhoden
-  geo:
-    latitude: 47.366481
-    longitude: 9.3000916
-    min_latitude: 47.24695
-    min_longitude: 9.1910399
-    max_latitude: 47.4690301
-    max_longitude: 9.63088
-  name: Appenzell Ausserrhoden (de)
+    cy: Appenzell Ausserrhoden
+    ceb: Kanton Appenzell Ausserrhoden
+    sr_Latn: Kanton Apencel Auseroden
+    zh: 外阿彭策爾州
+    yue_Hans: 外阿彭策州
+    jv: Kanton Appenzell Ausserrhoden
+    sq: Kantoni Appenzell Ausserrhoden
+    ccp: "\U00011103\U0001112C\U0001111B\U0001112C\U0001111A\U00011134\U0001110E\U0001112C\U00011123\U00011134
+      \U00011103\U00011127\U00011105\U0001112A\U00011125\U0001112C\U00011122\U00011134\U00011126\U0001112E\U00011113\U0001112C\U0001111A\U00011134"
+    kk: Аппенцелль-Ауссерроден
+    yue: 外阿彭策州
+    bs: Appenzell Ausserrhoden
+    mk: Апенцел Аусероден
+    'no': Appenzell Ausserrhoden
+    af: Kanton Appenzell Ausserrhoden
+    ga: Appenzell Ausserrhoden
+    hy: Ապենցել Աուսերռոդեն
+    ps: آفنڅل اوزر هودن
+  comments:
+  type: canton
 BE:
+  name: Bern (de)
+  code: BE
   unofficial_names:
   - Berne
+  geo:
+    latitude: 46.9479222
+    longitude: 7.444608499999999
+    min_latitude: 46.9191499
+    min_longitude: 7.294230000000001
+    max_latitude: 46.99019
+    max_longitude: 7.495510099999999
   translations:
     en: Bern
     ar: كانتون برن
@@ -245,17 +314,36 @@ BE:
     uk: Берн
     ur: کینٹن برن
     vi: Bern
-  geo:
-    latitude: 46.9479222
-    longitude: 7.444608499999999
-    min_latitude: 46.9191499
-    min_longitude: 7.294230000000001
-    max_latitude: 46.99019
-    max_longitude: 7.495510099999999
-  name: Bern (de)
+    cy: Bern
+    ceb: Canton de Berne
+    sr_Latn: Kanton Bern
+    zh: 伯恩州
+    yue_Hans: 伯恩州
+    jv: Kanton Bern
+    ccp: "\U0001111D\U00011122\U00011133\U0001111A\U00011134"
+    kk: Берн
+    yue: 伯恩州
+    bs: Bern
+    mk: Берн
+    'no': Bern
+    af: Kanton Bern
+    ga: cantún Bern
+    hr: Bern (kanton)
+    hy: Բեռն
+  comments:
+  type: canton
 BL:
+  name: Basel-Landschaft (de)
+  code: BL
   unofficial_names:
   - Bâle-Campagne
+  geo:
+    latitude: 47.44181220000001
+    longitude: 7.7644002
+    min_latitude: 47.33792
+    min_longitude: 7.32527
+    max_latitude: 47.56441
+    max_longitude: 7.9618001
   translations:
     en: Basel-Landschaft
     ar: كانتون ريف بازل
@@ -282,6 +370,7 @@ BL:
     hy: Բազել-Լանդ
     id: Kanton Basel-Negeri
     it: Canton Basilea Campagna
+    ja: バーゼル＝ラント準州
     ka: ბაზელ-ლანდის კანტონი
     kn: ಬಸೆಲ್-ಲ್ಯಾಂಡ್
     ko: 바젤란트 주
@@ -307,21 +396,39 @@ BL:
     uk: Базель-Ланд
     ur: بازل-لاندشافت
     vi: Basel-Landschaft
-  geo:
-    latitude: 47.44181220000001
-    longitude: 7.7644002
-    min_latitude: 47.33792
-    min_longitude: 7.32527
-    max_latitude: 47.56441
-    max_longitude: 7.9618001
-  name: Basel-Landschaft (de)
+    cy: Basel Wledig
+    ceb: Kanton Basel-Landschaft
+    sr_Latn: Kanton Bazel-provincija
+    zh: 巴塞爾鄉村州
+    yue_Hans: 巴塞尔乡村州
+    jv: Basel-Landschaft
+    ccp: "\U0001111D\U00011125\U0001112C\U00011123\U00011134-\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U0001110C\U00011133\U00011120\U0001111C\U00011133\U00011111\U00011134"
+    kk: Базель-Ланд
+    yue: 巴塞爾鄉村州
+    bs: Basel-provincija
+    mk: Базел-краина
+    'no': Basel-Landschaft
+    af: Kanton Basel-Land
+    ga: Basel-Landschaft
+    ps: بازل
+  comments:
+  type: canton
 BS:
+  name: Basel-Stadt (de)
+  code: BS
   unofficial_names:
   - Basel
   - Basilea
   - Basle
   - Basel-Stadt
   - Bâle-Ville
+  geo:
+    latitude: 47.5674422
+    longitude: 7.597550699999999
+    min_latitude: 47.51931
+    min_longitude: 7.554819900000001
+    max_latitude: 47.5899201
+    max_longitude: 7.634099999999999
   translations:
     en: Basel-Stadt
     ar: كانتون مدينة بازل
@@ -346,6 +453,7 @@ BS:
     hu: Basel-Stadt kanton
     id: Kanton Basel-Kota
     it: Canton Basilea Città
+    ja: バーゼル＝シュタット準州
     ka: ბაზელ-შტადტის კანტონი
     kn: ಬಸೆಲ್-ಸ್ಟಾಡ್ಟ್
     ko: 바젤슈타트 주
@@ -370,17 +478,38 @@ BS:
     uk: Базель-Штадт
     ur: بازل-شتادت
     vi: Basel-Stadt
-  geo:
-    latitude: 47.5674422
-    longitude: 7.597550699999999
-    min_latitude: 47.51931
-    min_longitude: 7.554819900000001
-    max_latitude: 47.5899201
-    max_longitude: 7.634099999999999
-  name: Basel-Stadt (de)
+    cy: Basel Ddinesig
+    ceb: Kanton Basel-Stadt
+    sr_Latn: Kanton Bazel-grad
+    lt: Baselstadas
+    zh: 巴塞爾城市州
+    yue_Hans: 巴塞尔城市州
+    jv: Basel-Stadt
+    sq: Kantoni Basel-Stadt
+    ccp: "\U0001111D\U00011125\U0001112C\U00011123\U00011134-\U0001110C\U00011133\U00011111\U00011116\U00011134\U00011111\U00011134"
+    kk: Базель-Штадт
+    yue: 巴塞爾城市州
+    bs: Basel-grad
+    mk: Базел-град
+    'no': Basel-Stadt
+    af: Kanton Basel-Stadt
+    az: Bazel-Ştat kantonu
+    ga: Basel-Stadt
+    hy: Բազել Շտադտ
+  comments:
+  type: canton
 FR:
+  name: Fribourg (fr)
+  code: FR
   unofficial_names:
   - Freiburg
+  geo:
+    latitude: 46.8016663
+    longitude: 7.145568300000001
+    min_latitude: 46.78489
+    min_longitude: 7.1357
+    max_latitude: 46.82144
+    max_longitude: 7.1838299
   translations:
     en: Fribourg
     ar: كانتون فريبورغ
@@ -433,20 +562,39 @@ FR:
     uk: Фрібур
     ur: کینٹن فریبور
     vi: Fribourg
-  geo:
-    latitude: 46.8016663
-    longitude: 7.145568300000001
-    min_latitude: 46.78489
-    min_longitude: 7.1357
-    max_latitude: 46.82144
-    max_longitude: 7.1838299
-  name: Fribourg (fr)
+    cy: Fribourg
+    ceb: Canton de Fribourg
+    sr_Latn: Kanton Fribur
+    zh: 弗里堡州
+    yue_Hans: 傅赖堡州
+    jv: Kanton Fribourg
+    sq: Kantoni Fribourg
+    ccp: "\U0001111C\U00011133\U00011122\U00011128\U0001111D\U00011127\U00011122\U00011134\U00011109\U00011134"
+    kk: Фрибур
+    yue: 傅賴堡州
+    bs: Fribourg
+    mk: Фрибур
+    'no': Fribourg
+    af: Kanton Fribourg
+    ga: cantún Fribourg
+    hy: Ֆրիբուրգ
+  comments:
+  type: canton
 GE:
+  name: Genève (fr)
+  code: GE
   unofficial_names:
   - Ginevra
   - Genève
   - Genf
   - Ginebra
+  geo:
+    latitude: 46.1983922
+    longitude: 6.142296099999999
+    min_latitude: 46.17766
+    min_longitude: 6.1103201
+    max_latitude: 46.232399
+    max_longitude: 6.177856999999999
   translations:
     en: Geneva
     ar: كانتون جنيف
@@ -492,17 +640,38 @@ GE:
     uk: Женева
     ur: کینٹن جنیوا
     vi: Genève
-  geo:
-    latitude: 46.1983922
-    longitude: 6.142296099999999
-    min_latitude: 46.17766
-    min_longitude: 6.1103201
-    max_latitude: 46.232399
-    max_longitude: 6.177856999999999
-  name: Genève (fr)
+    cy: Genefa
+    ceb: Genève (kanton)
+    sr_Latn: Kanton Ženeva
+    zh: 日內瓦州
+    yue_Hans: 日内瓦州
+    jv: Kanton Jenéwa
+    sq: Kantoni Gjenevë
+    ccp: "\U0001110E\U0001112C\U0001111A\U0001112C\U0001111E"
+    kk: Женева
+    yue: 日內瓦州
+    th: รัฐเจนีวา
+    bs: Ženeva
+    mk: Женева
+    'no': Genève
+    af: Kanton Genève
+    az: Cenevrə kantonu
+    el: καντόνι της Γενεύης
+    ga: cantún na Ginéive
+  comments:
+  type: canton
 GL:
+  name: Glarus (de)
+  code: GL
   unofficial_names:
   - Glaris
+  geo:
+    latitude: 47.0404265
+    longitude: 9.0672085
+    min_latitude: 46.7963601
+    min_longitude: 8.871229999999999
+    max_latitude: 47.1739299
+    max_longitude: 9.25249
   translations:
     en: Glarus
     ar: كانتون غلاروس
@@ -555,18 +724,36 @@ GL:
     uk: Гларус
     ur: کینٹن گلاروس
     vi: Glarus
-  geo:
-    latitude: 47.0404265
-    longitude: 9.0672085
-    min_latitude: 46.7963601
-    min_longitude: 8.871229999999999
-    max_latitude: 47.1739299
-    max_longitude: 9.25249
-  name: Glarus (de)
+    cy: Glarus
+    af: Kanton Glarus
+    ceb: Kanton Glarus
+    sr_Latn: Kanton Glarus
+    zh: 格拉魯斯州
+    yue_Hans: 格拉鲁斯州
+    jv: Canton Glarus
+    sq: Kantoni Glarus
+    ccp: "\U00011109\U00011133\U00011123\U00011122\U0001110C\U00011134"
+    kk: Гларус
+    yue: 格拉魯斯州
+    bs: Glarus
+    mk: Гларус
+    'no': Glarus
+    ga: cantún Glarus
+  comments:
+  type: canton
 GR:
+  name: Graubünden (de)
+  code: GR
   unofficial_names:
   - Grigioni
   - Grisons
+  geo:
+    latitude: 46.65698709999999
+    longitude: 9.578025700000001
+    min_latitude: 46.1690499
+    min_longitude: 8.6509399
+    max_latitude: 47.06496
+    max_longitude: 10.4923401
   translations:
     en: Graubünden
     ar: كانتون غراوبوندن
@@ -621,16 +808,36 @@ GR:
     uk: Граубюнден
     ur: گراوبوندن
     vi: Graubünden
-  geo:
-    latitude: 46.65698709999999
-    longitude: 9.578025700000001
-    min_latitude: 46.1690499
-    min_longitude: 8.6509399
-    max_latitude: 47.06496
-    max_longitude: 10.4923401
-  name: Graubünden (de)
+    cy: Canton y Grisons
+    ceb: Kanton Graubünden
+    sr_Latn: Kanton Graubinden
+    zh: 格勞賓登州
+    yue_Hans: 格留边登州
+    jv: Graubünden
+    sq: Kantoni Graubünden
+    ccp: "\U00011109\U00011133\U00011122\U0001112A\U0001111D\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134"
+    kk: Граубюнден
+    yue: 格留邊登州
+    bs: Graubünden
+    mk: Граубинден
+    'no': Graubünden
+    af: Kanton Graubünden
+    az: Qraubünden kantonu
+    ga: Graubünden
+    ps: ګراو بوندن
+  comments:
+  type: canton
 JU:
+  name: Jura (fr)
+  code: JU
   unofficial_names: Jura (fr)
+  geo:
+    latitude: 47.3444474
+    longitude: 7.143060800000001
+    min_latitude: 47.15047999999999
+    min_longitude: 6.84042
+    max_latitude: 47.50452
+    max_longitude: 7.55821
   translations:
     en: Jura
     ar: كانتون جورا
@@ -683,18 +890,36 @@ JU:
     uk: Юра
     ur: کینٹن جورا
     vi: Jura
-  geo:
-    latitude: 47.3444474
-    longitude: 7.143060800000001
-    min_latitude: 47.15047999999999
-    min_longitude: 6.84042
-    max_latitude: 47.50452
-    max_longitude: 7.55821
-  name: Jura (fr)
+    cy: Canton Jura
+    ceb: Kanton Jura
+    sr_Latn: Kanton Jura
+    zh: 汝拉州
+    yue_Hans: 茹拉州
+    jv: Kanton Jura
+    ccp: "\U0001110E\U0001112A\U00011122"
+    kk: Кантон Юра
+    yue: 茹拉州
+    bs: Kanton Jura
+    mk: Кантон Јура
+    'no': Jura
+    af: Kanton Jura
+    ga: cantún Jura
+    hy: Յուրա
+  comments:
+  type: canton
 LU:
+  name: Luzern (de)
+  code: LU
   unofficial_names:
   - Lucerna
   - Lucerne
+  geo:
+    latitude: 47.0500376
+    longitude: 8.3089295
+    min_latitude: 47.02601989999999
+    min_longitude: 8.206470099999999
+    max_latitude: 47.08349
+    max_longitude: 8.358139999999999
   translations:
     en: Lucerne
     ar: كانتون لوسيرن
@@ -747,17 +972,36 @@ LU:
     uk: Люцерн
     ur: کینٹن لوتسیرن
     vi: Luzern
-  geo:
-    latitude: 47.0500376
-    longitude: 8.3089295
-    min_latitude: 47.02601989999999
-    min_longitude: 8.206470099999999
-    max_latitude: 47.08349
-    max_longitude: 8.358139999999999
-  name: Luzern (de)
+    cy: Lucerne
+    ceb: Kanton Luzern
+    sr_Latn: Kanton Lucern
+    zh: 卢塞恩州
+    yue_Hans: 琉森州
+    sq: Kantoni Luzern
+    ccp: "\U00011123\U0001112A\U00011125\U0001112C\U00011122\U00011134\U0001111A\U0001112C"
+    kk: Люцерн
+    yue: 琉森州
+    bs: Lucern
+    mk: Луцерн
+    'no': Luzern
+    af: Kanton Luzern
+    az: Lütsern kantonu
+    ga: cantún Lucerne
+    hy: Լյուցերն
+  comments:
+  type: canton
 NE:
+  name: Neuchâtel (fr)
+  code: NE
   unofficial_names:
   - Neuenburg
+  geo:
+    latitude: 46.99297929999999
+    longitude: 6.931932499999999
+    min_latitude: 46.97817810000001
+    min_longitude: 6.893409999999999
+    max_latitude: 47.06389
+    max_longitude: 6.99177
   translations:
     en: Neuchâtel
     ar: كانتون نيوشاتل
@@ -811,17 +1055,37 @@ NE:
     uk: Невшатель
     ur: کینٹن نوشاتل
     vi: Bang Neuchâtel
-  geo:
-    latitude: 46.99297929999999
-    longitude: 6.931932499999999
-    min_latitude: 46.97817810000001
-    min_longitude: 6.893409999999999
-    max_latitude: 47.06389
-    max_longitude: 6.99177
-  name: Neuchâtel (fr)
+    cy: Neuchâtel
+    ceb: Neuchâtel (kanton)
+    sr_Latn: Kanton Nešatel
+    zh: 納沙泰爾州
+    yue_Hans: 新城堡州
+    jv: Canton Neuchâtel
+    sq: Kantoni Neuchâtel
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U0001110C\U00011111\U0001112C\U00011123\U00011134"
+    kk: Нёвшатель
+    yue: 新城堡州
+    bs: Neuchâtel
+    mk: Нешател
+    'no': Neuchâtel
+    af: Kanton Neuchâtel
+    ga: cantún Neuchâtel
+    hy: Նևշատել
+    ps: نوین بورګ
+  comments:
+  type: canton
 NW:
+  name: Nidwalden (de)
+  code: NW
   unofficial_names:
   - Nidwald
+  geo:
+    latitude: 46.9267016
+    longitude: 8.3849982
+    min_latitude: 46.77149
+    min_longitude: 8.2182101
+    max_latitude: 47.0036169
+    max_longitude: 8.57489
   translations:
     en: Nidwalden
     ar: كانتون نيدفالدن
@@ -874,17 +1138,34 @@ NW:
     uk: Нідвальден
     ur: نیدوالدن
     vi: Nidwalden
-  geo:
-    latitude: 46.9267016
-    longitude: 8.3849982
-    min_latitude: 46.77149
-    min_longitude: 8.2182101
-    max_latitude: 47.0036169
-    max_longitude: 8.57489
-  name: Nidwalden (de)
+    cy: Nidwalden
+    ceb: Nidwalden
+    sr_Latn: Kanton Nidvalden
+    zh: 下瓦爾登州
+    yue_Hans: 下华登州
+    ccp: "\U0001111A\U00011128\U00011116\U00011134\U00011124\U00011123\U00011134\U00011113\U0001112C\U0001111A\U00011134"
+    kk: Нидвальден
+    yue: 下華登州
+    bs: Nidwalden
+    mk: Нидвалден
+    'no': Nidwalden
+    af: Kanton Nidwalden
+    ga: Nidwalden
+    ps: نید والدن
+  comments:
+  type: canton
 OW:
+  name: Obwalden (de)
+  code: OW
   unofficial_names:
   - Obwald
+  geo:
+    latitude: 46.877858
+    longitude: 8.251249
+    min_latitude: 46.75307
+    min_longitude: 8.042349999999999
+    max_latitude: 46.98021
+    max_longitude: 8.506639999999999
   translations:
     en: Obwalden
     ar: كانتون أوبفالدن
@@ -937,19 +1218,38 @@ OW:
     uk: Обвальден
     ur: اوبوالدن
     vi: Obwalden
-  geo:
-    latitude: 46.877858
-    longitude: 8.251249
-    min_latitude: 46.75307
-    min_longitude: 8.042349999999999
-    max_latitude: 46.98021
-    max_longitude: 8.506639999999999
-  name: Obwalden (de)
+    cy: Obwalden
+    ceb: Kanton Obwalden
+    sr_Latn: Kanton Obvalden
+    zh: 上瓦爾登州
+    yue_Hans: 上华登州
+    sq: Kantoni Obwalden
+    ccp: "\U00011103\U00011127\U0001111B\U00011134\U00011124\U00011123\U00011134\U00011113\U0001112C\U0001111A\U00011134"
+    kk: Обвальден
+    yue: 上華登州
+    bs: Obwalden
+    mk: Обвалден
+    'no': Obwalden
+    af: Kanton Obwalden
+    ga: Obwalden
+    hy: Օբվալդեն
+    ps: اوب والدن
+  comments:
+  type: canton
 SG:
+  name: Sankt Gallen (de)
+  code: SG
   unofficial_names:
   - Saint Galle
   - Sankt Gallen
   - Saint-Gall
+  geo:
+    latitude: 47.4179284
+    longitude: 9.3643968
+    min_latitude: 47.3950999
+    min_longitude: 9.29144
+    max_latitude: 47.4530299
+    max_longitude: 9.4353001
   translations:
     en: St. Gallen
     ar: كانتون سانت غالن
@@ -1002,17 +1302,37 @@ SG:
     uk: Санкт-Галлен
     ur: کینٹن سانکت گالن
     vi: Bang St. Gallen
-  geo:
-    latitude: 47.4179284
-    longitude: 9.3643968
-    min_latitude: 47.3950999
-    min_longitude: 9.29144
-    max_latitude: 47.4530299
-    max_longitude: 9.4353001
-  name: Sankt Gallen (de)
+    cy: St. Gallen
+    af: Kanton St. Gallen
+    ceb: Kanton St. Gallen
+    sr_Latn: Kanton Sankt Galen
+    zh: 聖加侖州
+    yue_Hans: 圣加伦州
+    jv: Kanton St. Gallen
+    sq: Kantoni St. Gallen
+    ccp: "\U00011125\U0001112C\U0001111A\U00011133\U00011111\U00011134 \U00011109\U00011123\U0001112C\U0001111A\U00011134"
+    kk: Санкт-Галлен
+    yue: 聖加倫州
+    bs: St. Gallen
+    mk: Санкт Гален
+    'no': Sankt Gallen
+    az: Sankt-Qallen (kanton)
+    ga: cantún St. Gallen
+    hy: Սուրբ Գալլենի կանտոն
+  comments:
+  type: canton
 SH:
+  name: Schaffhausen (de)
+  code: SH
   unofficial_names:
   - Schaffhouse
+  geo:
+    latitude: 47.7077664
+    longitude: 8.641442399999999
+    min_latitude: 47.68589
+    min_longitude: 8.585830099999999
+    max_latitude: 47.74462
+    max_longitude: 8.7058599
   translations:
     en: Schaffhausen
     ar: كانتون شافهوزن
@@ -1064,17 +1384,34 @@ SH:
     uk: Шаффгаузен
     ur: کینٹن شافہاوزن
     vi: Schaffhausen
-  geo:
-    latitude: 47.7077664
-    longitude: 8.641442399999999
-    min_latitude: 47.68589
-    min_longitude: 8.585830099999999
-    max_latitude: 47.74462
-    max_longitude: 8.7058599
-  name: Schaffhausen (de)
+    cy: Schaffhausen
+    ceb: Kanton Schaffhausen
+    sr_Latn: Kanton Šafhauzen
+    zh: 沙夫豪森州
+    yue_Hans: 沙夫候臣州
+    ccp: "\U0001110C\U00011133\U00011107\U0001111B\U00011134\U00011126\U00011105\U0001112A\U00011125\U0001112C\U0001111A\U00011134"
+    kk: Шаффхаузен
+    yue: 沙夫候臣州
+    bs: Schaffhausen
+    mk: Шафхаузен
+    'no': Schaffhausen
+    af: Kanton Schaffhausen
+    ga: cantún Schaffhausen
+    hy: Շաֆհաուզեն կանտոն
+  comments:
+  type: canton
 SO:
+  name: Solothurn (de)
+  code: SO
   unofficial_names:
   - Soleure
+  geo:
+    latitude: 47.2086574
+    longitude: 7.5379549
+    min_latitude: 47.19591
+    min_longitude: 7.50923
+    max_latitude: 47.22025
+    max_longitude: 7.552230000000001
   translations:
     en: Solothurn
     ar: كانتون سولوتورن
@@ -1127,16 +1464,34 @@ SO:
     uk: Золотурн
     ur: کینٹن زولوتورن
     vi: Solothurn
-  geo:
-    latitude: 47.2086574
-    longitude: 7.5379549
-    min_latitude: 47.19591
-    min_longitude: 7.50923
-    max_latitude: 47.22025
-    max_longitude: 7.552230000000001
-  name: Solothurn (de)
+    cy: Solothurn
+    ceb: Kanton Solothurn
+    sr_Latn: Kanton Zoloturn
+    zh: 索洛圖恩州
+    yue_Hans: 索洛同州
+    sq: Kantoni Solothurn
+    ccp: "\U00011125\U00011127\U00011123\U00011127\U00011117\U00011122\U00011134\U0001111A\U00011134"
+    kk: Золотурн
+    yue: 索洛同州
+    bs: Solothurn
+    mk: Золотурн
+    'no': Solothurn
+    af: Kanton Solothurn
+    ga: cantún Solothurn
+    hy: Զոլոտուրն
+  comments:
+  type: canton
 SZ:
+  name: Schwyz (de)
+  code: SZ
   unofficial_names: Schwyz (de)
+  geo:
+    latitude: 47.0198346
+    longitude: 8.647397699999999
+    min_latitude: 46.98516
+    min_longitude: 8.60339
+    max_latitude: 47.06635
+    max_longitude: 8.7787901
   translations:
     en: Schwyz
     ar: كانتون شفيتس
@@ -1190,17 +1545,36 @@ SZ:
     uk: Швіц
     ur: کینٹن شویتس
     vi: Bang Schwyz
-  geo:
-    latitude: 47.0198346
-    longitude: 8.647397699999999
-    min_latitude: 46.98516
-    min_longitude: 8.60339
-    max_latitude: 47.06635
-    max_longitude: 8.7787901
-  name: Schwyz (de)
+    cy: Schwyz
+    ceb: Kanton Schwyz
+    sr_Latn: Kanton Švic
+    zh: 施維茨州
+    yue_Hans: 舒怀茨州
+    jv: Kanton Schwyz
+    sq: Schwyz
+    ccp: "\U0001110C\U00011133\U00011107\U0001112C\U00011103\U00011128\U0001110C\U00011134"
+    hy: Շվից
+    kk: Швиц
+    yue: 舒懷茨州
+    bs: Schwyz
+    mk: Швиц
+    'no': Schwyz
+    af: Kanton Schwyz
+    ga: Schwyz
+  comments:
+  type: canton
 TG:
+  name: Thurgau (de)
+  code: TG
   unofficial_names:
   - Thurgovie
+  geo:
+    latitude: 47.60378559999999
+    longitude: 9.0557371
+    min_latitude: 47.3757001
+    min_longitude: 8.66793
+    max_latitude: 47.6954101
+    max_longitude: 9.4764901
   translations:
     en: Thurgau
     ar: كانتون تورغاو
@@ -1254,18 +1628,38 @@ TG:
     uk: Тургау
     ur: تھورگاو
     vi: Thurgau
-  geo:
-    latitude: 47.60378559999999
-    longitude: 9.0557371
-    min_latitude: 47.3757001
-    min_longitude: 8.66793
-    max_latitude: 47.6954101
-    max_longitude: 9.4764901
-  name: Thurgau (de)
+    cy: Thurgau
+    ceb: Kanton Thurgau
+    sr_Latn: Kanton Turgau
+    zh: 圖爾高州
+    yue_Hans: 图尔胶州
+    sq: Thurgau
+    ccp: "\U00011117\U00011122\U00011134\U00011109\U00011105\U0001112A"
+    kk: Тургау
+    yue: 圖爾膠州
+    bs: Thurgau
+    mk: Тургау
+    'no': Thurgau
+    af: Kanton Thurgau
+    az: Turgau
+    ga: Thurgau
+    hy: Տուրգաու
+    ps: تورګاو
+  comments:
+  type: canton
 TI:
+  name: Ticino (it)
+  code: TI
   unofficial_names:
   - Tessin
   - Tessin
+  geo:
+    latitude: 46.331734
+    longitude: 8.800452900000002
+    min_latitude: 45.81792
+    min_longitude: 8.38218
+    max_latitude: 46.63241
+    max_longitude: 9.159730000000001
   translations:
     en: Ticino
     ar: كانتون تيسينو
@@ -1321,16 +1715,34 @@ TI:
     uk: Тічино
     ur: تیچینو
     vi: Ticino
-  geo:
-    latitude: 46.331734
-    longitude: 8.800452900000002
-    min_latitude: 45.81792
-    min_longitude: 8.38218
-    max_latitude: 46.63241
-    max_longitude: 9.159730000000001
-  name: Ticino (it)
+    cy: Ticino
+    ceb: Ticino (kanton)
+    sr_Latn: Kanton Tičino
+    zh: 提契諾州
+    yue_Hans: 铁千诺州
+    jv: Kanton Ticino
+    sq: Kantoni Ticino
+    ccp: "\U00011116\U0001112D\U0001110C\U00011128\U0001111A\U0001112E"
+    kk: Тичино
+    yue: 鐵千諾州
+    bs: Ticino
+    mk: Тичино
+    'no': Ticino
+    af: Kanton Ticino
+    ga: cantún Ticino
+  comments:
+  type: canton
 UR:
+  name: Uri (de)
+  code: UR
   unofficial_names: Uri (de)
+  geo:
+    latitude: 46.7738629
+    longitude: 8.602515300000002
+    min_latitude: 46.52757
+    min_longitude: 8.397459999999999
+    max_latitude: 46.9880412
+    max_longitude: 8.95788
   translations:
     en: Uri
     ar: كانتون أوري
@@ -1384,17 +1796,36 @@ UR:
     uk: Урі
     ur: کینٹن اوری
     vi: Bang Uri
-  geo:
-    latitude: 46.7738629
-    longitude: 8.602515300000002
-    min_latitude: 46.52757
-    min_longitude: 8.397459999999999
-    max_latitude: 46.9880412
-    max_longitude: 8.95788
-  name: Uri (de)
+    cy: Uri
+    ceb: Kanton Uri
+    sr_Latn: Kanton Uri
+    zh: 烏里州
+    yue_Hans: 乌里州
+    sq: Kantoni Uri
+    ccp: "\U00011105\U0001112A\U00011122\U00011128"
+    kk: Ури
+    yue: 烏里州
+    bs: Uri
+    mk: Ури
+    'no': Uri
+    af: Kanton Uri
+    ga: Uri
+    hy: Ուրի
+    ps: اوري (کانتون)
+  comments:
+  type: canton
 VD:
+  name: Vaud (fr)
+  code: VD
   unofficial_names:
   - Waadt
+  geo:
+    latitude: 46.5613135
+    longitude: 6.536765
+    min_latitude: 46.1870301
+    min_longitude: 6.06401
+    max_latitude: 46.98170229999999
+    max_longitude: 7.2492599
   translations:
     en: Vaud
     ar: كانتون فود
@@ -1447,18 +1878,40 @@ VD:
     uk: Во
     ur: وو
     vi: Vaud
-  geo:
-    latitude: 46.5613135
-    longitude: 6.536765
-    min_latitude: 46.1870301
-    min_longitude: 6.06401
-    max_latitude: 46.98170229999999
-    max_longitude: 7.2492599
-  name: Vaud (fr)
+    cy: Vaud
+    ceb: Canton de Vaud
+    sr_Latn: Kanton Vo
+    zh: 沃州
+    yue_Hans: 禾州
+    jv: Kanton Vaud
+    sq: Kantoni Vaud
+    ccp: "\U0001111E\U00011105\U0001112A\U00011116\U00011134"
+    kk: Во
+    yue: 禾州
+    bs: Vaud
+    mk: Во
+    'no': Vaud
+    af: Kanton Vaud
+    az: Vo kantonu
+    ga: cantún Vaud
+    hy: Վո
+    ps: وادت
+    sl: Vaud
+  comments:
+  type: canton
 VS:
+  name: Valais (fr)
+  code: VS
   unofficial_names:
   - Vallese
   - Wallis
+  geo:
+    latitude: 46.1904614
+    longitude: 7.5449226
+    min_latitude: 45.85827
+    min_longitude: 6.77046
+    max_latitude: 46.6539699
+    max_longitude: 8.4785401
   translations:
     en: Valais
     ar: كانتون فاليز
@@ -1512,17 +1965,37 @@ VS:
     uk: Вале
     ur: والے
     vi: Valais
-  geo:
-    latitude: 46.1904614
-    longitude: 7.5449226
-    min_latitude: 45.85827
-    min_longitude: 6.77046
-    max_latitude: 46.6539699
-    max_longitude: 8.4785401
-  name: Valais (fr)
+    cy: Valais
+    ceb: Canton du Valais
+    sr_Latn: Kanton Vale
+    zh: 瓦莱州
+    yue_Hans: 华丽州
+    jv: Valais
+    sq: Kantoni Valais
+    ccp: "\U0001111E\U0001112C\U00011123\U00011128\U00011120\U0001112C\U0001110C\U00011134"
+    kk: Вале
+    yue: 華麗州
+    bs: Valais
+    mk: Вале
+    'no': Wallis
+    af: Kanton Valais
+    ga: cantún Valais
+    hy: Վալե
+    ps: والیز
+  comments:
+  type: canton
 ZG:
+  name: Zug (de)
+  code: ZG
   unofficial_names:
   - Zoug
+  geo:
+    latitude: 47.1745887
+    longitude: 8.513854
+    min_latitude: 47.1144752
+    min_longitude: 8.4754
+    max_latitude: 47.18973
+    max_longitude: 8.55844
   translations:
     en: Zug
     ar: كانتون تسوغ
@@ -1574,19 +2047,39 @@ ZG:
     uk: Цуг
     ur: کینٹن تسوگ
     vi: Bang Zug
-  geo:
-    latitude: 47.1745887
-    longitude: 8.513854
-    min_latitude: 47.1144752
-    min_longitude: 8.4754
-    max_latitude: 47.18973
-    max_longitude: 8.55844
-  name: Zug (de)
+    cy: Zug
+    ceb: Kanton Zug
+    sr_Latn: Kanton Cug
+    zh: 楚格州
+    yue_Hans: 祖格州
+    jv: Kanton Zug
+    sq: Kantoni Zug
+    ccp: "\U0001110E\U00011107\U00011134"
+    kk: Цуг
+    yue: 祖格州
+    az: Çuq
+    bs: Zug
+    mk: Цуг
+    'no': Zug
+    af: Kanton Zug
+    ga: cantún Zug
+    hy: Ցուգի կանտոն
+  comments:
+  type: canton
 ZH:
+  name: Zürich (de)
+  code: ZH
   unofficial_names:
   - Zurigo
   - Zürich
   - Zurich
+  geo:
+    latitude: 47.3686498
+    longitude: 8.539182499999999
+    min_latitude: 47.32023
+    min_longitude: 8.448059899999999
+    max_latitude: 47.43468
+    max_longitude: 8.6253701
   translations:
     en: Zürich
     ar: كانتون زيورخ
@@ -1641,11 +2134,21 @@ ZH:
     uk: Цюрих
     ur: کینٹن زیورخ
     vi: Zürich
-  geo:
-    latitude: 47.3686498
-    longitude: 8.539182499999999
-    min_latitude: 47.32023
-    min_longitude: 8.448059899999999
-    max_latitude: 47.43468
-    max_longitude: 8.6253701
-  name: Zürich (de)
+    cy: Zürich
+    ceb: Kanton Zürich
+    sr_Latn: Kanton Cirih
+    zh: 苏黎世州
+    yue_Hans: 苏黎世州
+    jv: Kanton Zurich
+    sq: Kantoni Cyrih
+    ccp: "\U0001110E\U0001112A\U00011122\U00011128\U0001110C\U00011134"
+    kk: Цюрих
+    yue: 蘇黎世州
+    bs: Zürich
+    mk: Цирих
+    'no': Zürich
+    af: Kanton Zürich
+    az: Sürix kantonu
+    ga: cantún Zürich
+  comments:
+  type: canton

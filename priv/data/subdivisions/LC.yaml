@@ -1,5 +1,15 @@
 ---
 '01':
+  name: Anse la Raye
+  code: '01'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: حي أنس لا راي
     bn: আন্স লা রায়ে কোয়ার্টার
@@ -36,7 +46,95 @@
     ur: انسے لا رائے کوارٹر
     vi: Anse la Raye
     zh: 昂斯拉雷區
+    lv: Anslavua
+    ceb: Anse-la-Raye
+    ccp: "\U00011103\U0001111A\U00011134\U00011125\U0001112C \U00011123 \U00011122\U00011120\U0001112C"
+    uk: Анс-Лавуа
+    mk: Анс ла Реј
+    'no': Anse la Raye Quarter
+  comments:
+  type: district
+'02':
+  name: Castries
+  code: '02'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    de: Castries
+    en: Castries
+    es: Castries
+    fa: بخش کاستریس
+    fr: District de Castries
+    it: quartiere di Castries
+    ja: カストリーズ地区
+    ko: 캐스트리스 구
+    lt: Kastrio kvartalas
+    nl: Castries
+    pl: Castries (dystrykt)
+    ru: Кастри
+    sv: Castries (kvarter)
+    tr: Castries (şehir)
+    ur: کاستریس کوارٹر
+    vi: Castries (quận)
+    ceb: Castries (baranggay)
+    zh: 卡斯特里區
+    ccp: "\U00011107\U0001110C\U00011134\U00011111\U00011133\U00011122\U0001112D\U0001110C\U00011134"
+    mk: Кастри
+    id: Kuarter Castries
+    uk: Кастрі
+  comments:
+  type: district
+'03':
+  name: Choiseul
+  code: '03'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    de: Choiseul
+    en: Choiseul
+    es: Choiseul
+    fa: بخش چویسول
+    fr: District de Choiseul
+    it: quartiere di Choiseul
+    ja: ショゼール地区
+    ko: 슈아죌 구
+    lt: Šuazelis (Sent Lusija)
+    nl: Choiseul
+    pl: Choiseul (dystrykt)
+    ru: Шуазёль (приход)
+    sv: Choiseul (kvarter i Saint Lucia, lat 13,79, long -61,03)
+    tr: Choiseul (şehir)
+    ur: چویسول کوارٹر
+    vi: Choiseul (quận)
+    ceb: Choiseul (baranggay sa Saint Lucia, lat 13,79, long -61,03)
+    zh: 舒瓦瑟爾區
+    ccp: "\U00011107\U00011130\U00011131\U00011125\U00011128\U00011105\U0001112A\U00011123\U00011134"
+    id: Kuarter Choiseul
+  comments:
+  type: district
 '05':
+  name: Dennery
+  code: '05'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: حي دينيري
     bn: ডেনিরি কোয়ার্টার
@@ -72,7 +170,25 @@
     tr: Dennery (şehir)
     ur: دیننیری کوارٹر
     vi: Dennery (quận)
+    lv: Denerī
+    ceb: Dennery (baranggay)
+    zh: 登內里區
+    ccp: "\U00011113\U0001112C\U00011125\U00011122\U00011129"
+    uk: Денері
+    'no': Dennery
+  comments:
+  type: district
 '06':
+  name: Gros Islet
+  code: '06'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: حي غروس إسليت
     bn: গ্রোস ইজলেট কোয়ার্টার
@@ -107,7 +223,27 @@
     tr: Gros Islet (şehir)
     ur: گروس آئلیٹ کوارٹر
     vi: Gros Islet
+    lv: Grozilē
+    ceb: Gros-Islet
+    zh: 格羅斯伊斯勒區
+    ccp: "\U00011109\U00011133\U00011122\U00011127\U0001110C\U00011134 \U00011103\U0001112D\U0001110C\U00011134\U00011123\U0001112C\U00011116\U00011134"
+    uk: Грос-Айлет
+    be: Грос-Айлет
+    'no': Gros-islet
+    ca: Gros Islet
+  comments:
+  type: district
 '07':
+  name: Laborie
+  code: '07'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: حي لابوري
     bn: লেবুরি কোয়ার্টার
@@ -143,7 +279,25 @@
     tr: Laborie
     ur: لابوری کوارٹیر
     vi: Laborie
+    lv: Laborī
+    ceb: Laborie (baranggay)
+    zh: 拉博列區
+    ccp: "\U00011123\U0001111D\U0001112E\U00011122\U00011128"
+    uk: Лаборі
+    'no': Laborie
+  comments:
+  type: district
 '08':
+  name: Micoud
+  code: '08'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: حي ميكود
     bn: মাইকড কোয়ার্টার
@@ -178,7 +332,61 @@
     tr: Micoud (şehir)
     ur: میکود کوارٹر
     vi: Micoud
+    lv: Mikū
+    ceb: Micoud
+    zh: 米庫區
+    ccp: "\U0001111F\U00011128\U00011107\U00011105\U0001112A\U00011116\U00011134"
+    uk: Міку
+    'no': Micoud Quarter
+  comments:
+  type: district
+'10':
+  name: Soufrière
+  code: '10'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    de: Soufrière
+    en: Soufrière
+    es: Soufrière
+    fa: بخش سوفریر
+    fr: District de Soufrière
+    he: סופרייר
+    it: quartiere di Soufrière
+    ja: スフレ (セントルシア)
+    ko: 수프리에르 구
+    lt: Sufrieras
+    nl: Soufrière
+    pl: Soufrière
+    pt: Soufrière
+    ru: Суфриер
+    sv: Soufrière (kvarter)
+    tr: Soufrière
+    vi: Soufrière
+    ceb: Soufrière (baranggay)
+    zh: 蘇弗里耶爾區
+    ccp: "\U00011125\U0001112F\U0001111C\U00011133\U00011122\U0001112D\U00011120\U00011122\U00011134"
+    mk: Суфриер
+    id: Kuarter Soufrière
+  comments:
+  type: district
 '11':
+  name: Vieux Fort
+  code: '11'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: فيو فورت
     bn: ভিয়ক্স ফোর্ট কোয়ার্টার
@@ -213,7 +421,27 @@
     tr: Vieux Fort
     ur: ویو فورٹ کوارٹر
     vi: Vieux Fort
+    lv: Vjēfora
+    ceb: Vieux-Fort (baranggay)
+    zh: 伯堡區
+    ccp: "\U0001111E\U0001112D\U00011120\U0001112C\U00011107\U00011134\U00011125\U00011134
+      \U0001111C\U0001112E\U00011122\U00011134\U00011111\U00011134"
+    uk: Вʼє-Форт
+    'no': Vieux Fort Quarter
+    ga: Vieux Fort
+  comments:
+  type: district
 '12':
+  name: Canaries
+  code: '12'
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: جزر الكناري
     bn: কানারাইসে
@@ -247,58 +475,12 @@
     tr: Canaries
     ur: کناریز، سینٹ لوسیا
     vi: Canaries
-'02':
-  translations:
-    de: Castries
-    en: Castries
-    es: Castries
-    fa: بخش کاستریس
-    fr: District de Castries
-    it: quartiere di Castries
-    ja: カストリーズ地区
-    ko: 캐스트리스 구
-    lt: Kastrio kvartalas
-    nl: Castries
-    pl: Castries (dystrykt)
-    ru: Кастри
-    sv: Castries (kvarter)
-    tr: Castries (şehir)
-    ur: کاستریس کوارٹر
-    vi: Castries (quận)
-'03':
-  translations:
-    de: Choiseul
-    en: Choiseul
-    es: Choiseul
-    fa: بخش چویسول
-    fr: District de Choiseul
-    it: quartiere di Choiseul
-    ja: ショゼール地区
-    ko: 슈아죌 구
-    lt: Šuazelis (Sent Lusija)
-    nl: Choiseul
-    pl: Choiseul (dystrykt)
-    ru: Шуазёль (приход)
-    sv: Choiseul (kvarter i Saint Lucia, lat 13,79, long -61,03)
-    tr: Choiseul (şehir)
-    ur: چویسول کوارٹر
-    vi: Choiseul (quận)
-'10':
-  translations:
-    de: Soufrière
-    en: Soufrière
-    es: Soufrière
-    fa: بخش سوفریر
-    fr: District de Soufrière
-    he: סופרייר
-    it: quartiere di Soufrière
-    ja: スフレ (セントルシア)
-    ko: 수프리에르 구
-    lt: Sufrieras
-    nl: Soufrière
-    pl: Soufrière
-    pt: Soufrière
-    ru: Суфриер
-    sv: Soufrière (kvarter)
-    tr: Soufrière
-    vi: Soufrière
+    lv: Kanarisa
+    ceb: Canaries
+    lt: Kanaris
+    zh: 卡納里斯
+    ccp: "\U00011107\U00011133\U00011120\U0001111A\U00011122\U00011128\U0001110C\U00011134"
+    uk: Канаріс
+    'no': Kanariene
+  comments:
+  type: district

@@ -1,19 +1,165 @@
 ---
-BA:
-  unofficial_names: Al Batinah
-  translations:
-    en: Al Batinah
+BJ:
+  name: محافظة جنوب الباطنة
+  code: BJ
+  unofficial_names:
   geo:
-    latitude: 24.13316
-    longitude: 56.65138529999999
-    min_latitude: 23.3843522
-    min_longitude: 56.188816
-    max_latitude: 24.977919
-    max_longitude: 57.4390539
-  name: Al Batinah
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: محافظة جنوب الباطنة
+    bn: আল বাতিনাহ দক্ষিন গভর্নোরেট
+    cs: Jižní al-Batína
+    da: Al Batinah South Governorate
+    de: Dschanub al-Batina
+    el: Αλ Μπατίνα Σάουθ Γκοβερνοράτε
+    en: Janub al Batinah
+    es: Al Batinah Sur gobernación
+    fa: استان باطنه جنوبی
+    fi: Al-Batinan eteläinen kuvernoraatti
+    fr: Al-Batina du Sud
+    gu: અલ બટીનાહ સાઉથ ગવર્નોરેટ
+    hi: अल बातिनाह दक्षिण गवर्नरेट
+    id: Kegubernuran Al-Batinah Selatan
+    it: Al Batinah South Governorate
+    ja: 南バーティナ地方
+    kn: ಅಲ್ ಬಟಿನಾ ಸೌತ್ ಗವರ್ನೇಟ್
+    ko: 남바티나 주
+    mr: अल बतिनाह साऊथ गव्हर्नोरेट
+    ms: Al Batinah South Governorate
+    nb: Sør-Al Batinah
+    nl: Al Batinah
+    pl: Gubernatorstwo Dżanub al-Batina
+    pt: Governamento de Al Batinah Sul
+    ru: Северная Эль-Батина
+    si: අල් බටිනා දකුණු පළාත
+    sv: Södra Al Barinah
+    ta: அல் பட்டினஹ் தெற்கு கோவெர்னோரே
+    te: అల్ బాటినా దక్షిణ గవర్నరేట్
+    th: เขตอัลบาตินะห์
+    tr: Al Batinah Güney Yönetimi
+    ur: ال باتینہ ساؤتھ جوویرنوراتی
+    vi: Tỉnh Al Batinah South
+    lv: Dienvidbātinas muhāfaza
+    lt: Al Batino pietų gubernija
+    ccp: "\U0001110E\U0001111A\U0001112A\U0001111B\U00011134 \U00011103\U00011123\U00011134
+      \U0001111D\U00011111\U00011128\U0001111A\U00011126\U00011134"
+    eu: Hego Al Batinah
+    uk: Муніципалітет Південна Ель-Батіна
+    'no': Sør-Al Batinah
+  comments:
+  type: governorate
+BS:
+  name: محافظة شمال الباطنة
+  code: BS
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: محافظة شمال الباطنة
+    cs: Severní al-Batína
+    de: Schamal al-Batina
+    en: Shamal al Batinah
+    fa: استان باطنه شمالی
+    fi: Al-Batinan pohjoinen kuvernoraatti
+    id: Kegubernuran Al-Batinah Utara
+    it: Al Batinah North Governorate
+    ja: 北バーティナ地方
+    ko: 북바티나 주
+    nb: Nord-Al Batinah
+    pl: Muhafazat Szamal al-Batina
+    ccp: "\U00011125\U00011133\U00011120\U0001111F\U00011127\U00011123\U00011134 \U00011103\U00011123\U00011134
+      \U0001111D\U00011111\U00011128\U0001111A\U00011126\U00011134"
+    fr: Al-Batina du Nord
+    es: Al Batinah Norte gobernación
+    eu: Ipar Al Batinah
+    pt: Batina Setentrional
+    'no': Nord-Al Batinah
+    he: אל-באטנה צפון
+    ru: Северная Эль-Батина²
+    ta: அல் பட்டினா வடக்கு ஆளுநரகம்
+    th: เขตผู้ว่าราชการอัลบาฏินะฮ์เหนือ
+  comments:
+  type: governorate
+BU:
+  name: محافظة البريمي
+  code: BU
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: محافظة البريمي
+    bn: আল বুরাইমি গভর্নোরেট
+    cs: Al-Burajmi (guvernorát)
+    da: Al Buraimi Governorate
+    de: Buraimi (Gouvernement)
+    el: Αλ Μπουραΐμι Γκοβερνοράτε
+    en: Al Buraimi
+    es: Buraimi
+    fa: استان بریمی
+    fi: Al-Buraimi
+    fr: Gouvernorat d’Al Buraymi
+    gu: અલ બુરૈમી ગવર્નોરેટ
+    he: אל בוראימי
+    hi: अल बुरैमी मुहाफ़ज़ाह
+    hu: Burajmi kormányzóság
+    id: Kegubernuran Al-Buraimi
+    it: governatorato di al-Buraymi
+    ja: ブライミ特別行政区
+    kn: ಅಲ್ ಬುರೈಮಿ ಗವರ್ನೇಟ್
+    ko: 부라이미 주
+    lt: Buraimis
+    mr: अल बुरेमी गव्हर्नोरेट
+    ms: Al Buraimi Governorate
+    nb: Al Buraimi
+    nl: Al Buraimi
+    pl: Muhafazat al-Burajmi
+    pt: Al Buraimi
+    ru: Эль-Бурайми
+    si: අල් බුරයිමි පළාත
+    sv: Al Buraimi
+    sw: Al Buraimi
+    ta: அல் புரைமீ கோவெர்னோரே
+    te: అల్ బురైమి గవర్నరేట్
+    th: อัล บูไรมิ โกเวอโนเรท
+    tr: El Buraymi valiliği
+    uk: Ель-Бураймі
+    ur: محافظہ البریمی
+    vi: Buraimi
+    zh: 布賴米省
+    lv: Buraimī muhāfaza
+    ccp: "\U00011103\U00011123\U00011134 \U0001111D\U0001112A\U00011122\U0001112D\U0001111F\U00011128"
+    eu: Al Buraimi
+    'no': Al Buraimi
+    ca: Al-Buraymī
+  comments:
+  type: governorate
 DA:
+  name: Ad Dakhiliyah
+  code: DA
   unofficial_names:
   - Ad Dakhiliya
+  geo:
+    latitude: 22.3476325
+    longitude: 57.2818625
+    min_latitude: 20.904974
+    min_longitude: 56.576047
+    max_latitude: 23.5632319
+    max_longitude: 58.34188510000001
   translations:
     en: Ad Dakhiliyah
     ar: محافظة الداخلية
@@ -53,34 +199,27 @@ DA:
     uk: Ед-Дахілія
     ur: محافظہ الداخلیہ
     vi: Tỉnh Ad Dakhiliyah
-  geo:
-    latitude: 22.3476325
-    longitude: 57.2818625
-    min_latitude: 20.904974
-    min_longitude: 56.576047
-    max_latitude: 23.5632319
-    max_longitude: 58.34188510000001
-  name: Ad Dakhiliyah
-JA:
-  unofficial_names:
-  - Dhofar
-  - Dhufar
-  - Janubiyah
-  translations:
-    en: Dhofar
-  geo:
-    latitude: 18.3970348
-    longitude: 54.4342138
-    min_latitude: 16.645761
-    min_longitude: 52.0007019
-    max_latitude: 20.0018369
-    max_longitude: 56.3555997
-  name: Dhofar
+    lv: Dāhilījas mintaka
+    zh: 內地省
+    ccp: "\U00011103\U00011116\U00011134 \U00011113\U00011108\U0001112D\U00011123\U00011128\U00011120\U00011126\U00011134"
+    'no': Ad Dakhiliyah
+    so: Ad Dakhiliyah Governorate
+  comments:
+  type: governorate
 MA:
+  name: Masqat
+  code: MA
   unofficial_names:
   - Masqaţ
   - Maskat
   - Mascate
+  geo:
+    latitude: 23.61
+    longitude: 58.54
+    min_latitude: 23.5211218
+    min_longitude: 58.2283758
+    max_latitude: 23.6455689
+    max_longitude: 58.6189567
   translations:
     en: Muscat
     ar: محافظة مسقط
@@ -119,16 +258,27 @@ MA:
     uk: Маскат
     ur: محافظہ مسقط
     vi: Tỉnh Muscat
-  geo:
-    latitude: 23.61
-    longitude: 58.54
-    min_latitude: 23.5211218
-    min_longitude: 58.2283758
-    max_latitude: 23.6455689
-    max_longitude: 58.6189567
-  name: Masqat
+    lv: Muskatas muhāfaza
+    lt: Muskato gubernija
+    zh: 馬斯喀特省
+    ccp: "\U0001111F\U0001110C\U00011134\U00011107\U00011116\U00011134"
+    ro: guvernoratul Muscat
+    eu: Maskat
+    'no': Muskat
+    be: Маскат
+  comments:
+  type: governorate
 MU:
+  name: Musandam
+  code: MU
   unofficial_names: Musandam
+  geo:
+    latitude: 25.9942638
+    longitude: 56.24822769999999
+    min_latitude: 25.2419609
+    min_longitude: 56.09789079999999
+    max_latitude: 26.385954
+    max_longitude: 56.5376924
   translations:
     en: Musandam
     ar: محافظة مسندم
@@ -175,29 +325,138 @@ MU:
     uk: Мусандам
     ur: محافظہ مسندم
     vi: Musandam
-  geo:
-    latitude: 25.9942638
-    longitude: 56.24822769999999
-    min_latitude: 25.2419609
-    min_longitude: 56.09789079999999
-    max_latitude: 26.385954
-    max_longitude: 56.5376924
-  name: Musandam
-SH:
+    lv: Musendemas muhāfaza
+    sr_Latn: Musandam
+    zh: 穆桑代姆省
+    ccp: "\U0001111F\U0001112A\U00011125\U0001111A\U00011134\U00011113\U0001111F\U00011134"
+    'no': Musandam
+    ceb: Musandam
+    he: מוסנדם
+  comments:
+  type: governorate
+SJ:
+  name: محافظة جنوب الشرقية
+  code: SJ
   unofficial_names:
-  - Ash Sharqiyah
-  translations:
-    en: Ash Sharqiyah
   geo:
-    latitude: 22.1186919
-    longitude: 58.55438209999999
-    min_latitude: 20.7500535
-    min_longitude: 57.90900800000001
-    max_latitude: 23.3408271
-    max_longitude: 59.4309743
-  name: Ash Sharqiyah
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: محافظة جنوب الشرقية
+    bn: আশ শারকিয়া দক্ষিন গভর্নোরেট
+    cs: Jižní aš-Šarkíja
+    da: Ash Sharqiyah South Governorate
+    de: Dschanub asch-Scharqiyya
+    el: Ας Σαρκιγιάχ
+    en: Janub ash Sharqiyah
+    es: Ash Sharqiyah Sur Gobernación
+    fa: استان شرقیه جنوبی
+    fi: Ash-Šarqiyyan eteläinen kuvernoraatti
+    fr: Gouvernorat Ach-Charqiya du Sud
+    gu: એશ શાર્કિયાહ , સાઉથ ગવર્નોરેટ
+    hi: ऐश शार्कियाह दक्षिण गवर्नरेट
+    id: Kegubernuran Asy-Syarqiyah Selatan
+    it: Ash Sharqiyah South Governorate
+    ja: 南シャルキーヤ地方
+    kn: ಆಷ್ ಶರ್ಕಿಯಾ ದಕ್ಷಿಣ ಗವರ್ನೇಟ್
+    ko: 남동부 주
+    mr: शशरियाह साऊथ गव्हरनेट
+    ms: Ash Sharqiyah South Governorate
+    nb: Sør-Ash Sharqiyah
+    nl: Ash Sharqiyah gouvernement
+    pl: Prowincja Południowo-Wschodnia (Oman)
+    pt: Ash Sharqiyah Sul
+    ru: Южная Эш-Шаркия
+    si: අශ් ශර්කියා දකුණු පළාත
+    sv: Södra Ash Sharqiyah
+    ta: ஆஷ் ஷார்க்கிய தெற்கு கோவெர்னோராட்
+    te: ఆష్ షర్ఖియా దక్షిణ గవర్నరేట్
+    th: แอชชาร์กิยาห์ เซาท์ โกเวอโนเนท
+    tr: Ash Shargiyah Güney Yönetimi
+    ur: عیش شارقیاح ساؤتھ جوویرنوراتی
+    vi: Tỉnh Nam Ash Sharqiyah
+    lv: Dienvidšerkījas muhāfaza
+    ceb: Ash Sharqiyah South
+    lt: Aš Šarkijos pietinė gubernija
+    zh: 東南省
+    ccp: "\U0001110E\U0001111A\U0001112A\U0001111B\U00011134 \U00011103\U0001110C\U00011134
+      \U00011125\U00011127\U00011122\U00011134\U00011107\U0001112A\U00011103\U00011128\U00011126\U00011134"
+    eu: Hego Ash Sharqiyah
+    uk: Південна Еш-Шаркія
+    'no': Sør-Ash Sharqiyah
+    ca: Governació d’Ash Sharqiyah Sud
+  comments:
+  type: governorate
+SS:
+  name: محافظة شمال الشرقية
+  code: SS
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  translations:
+    ar: محافظة شمال الشرقية
+    bn: আশ শারকিয়াহ গভর্নোরেট
+    cs: Severní aš-Šarkíja
+    da: Ash Sharqiyah North Governorate
+    de: Schamal asch-Scharqiyya
+    el: Ας Σαρκίγια Νόρθ Γκοβερνοράτε
+    en: Shamal ash Sharqiyah
+    es: Gobernación Norte del Ash Sharqiyah
+    fa: استان شرقیه شمالی
+    fi: Ash-Šarqiyyan pohjoinen kuvernoraatti
+    fr: Ach-Charqiya du Nord
+    gu: એશ શારકીયાહ નોર્થ ગવર્નોરેટ
+    hi: एश शरीकिया उत्तरी गवर्नरेट
+    id: Kegubernuran Asy-Syarqiyah Utara
+    it: Ash Sharqiyah North Governorate
+    ja: 北シャルキーヤ地方
+    kn: ಆಷ್ ಶರ್ಕಿಯಾ ಉತ್ತರ ಗವರ್ನೇಟ್
+    ko: 북동부 주
+    mr: अश शकीयाह नॉर्थ गव्हर्नोरेट
+    ms: Pentadbiran Ash Sharqiyah Utara
+    nb: Nord-Ash Sharqiyah
+    nl: Asj Sjarqiyah
+    pl: Ash Sharqiyah North Governorate
+    pt: Governamento de Ash Sharqiyah Norte
+    ru: Северная Эш-Шаркия
+    si: ආශ් ශර්කියා උතුරු පළාත
+    sv: Nord-Ash Sharqiyah
+    ta: ஆஷ் ஷார்க்கிய வடக்கு கோவெர்னோரேட்
+    te: యాష్ షర్ఖియా నార్త్ గవర్నరేట్
+    th: เขตการปกครองอาชาร์กียะฮ์ ตอนเหนือ
+    tr: Ash Sharqiyah Kuzey Yönetimi
+    ur: عیش شارقیاح نارتھ جوویرنوراتی
+    vi: Tỉnh Bắc Ash Sharqiyah
+    lv: Aš Šarkijas ziemeļu muhāfaza
+    lt: Aš Šarkijos šiaurinė gubernija
+    zh: 東北省
+    ccp: "\U00011125\U00011133\U00011120\U0001111F\U00011127\U00011123\U00011134 \U00011103\U0001110C\U00011134
+      \U00011125\U00011122\U00011134\U00011107\U0001112A\U00011103\U00011128\U00011126\U00011134"
+    eu: Ipar Ash Sharqiyah
+    uk: Північно-Східна Провінція Еш-Шаркія
+    'no': Nord-Ash Sharqiyah
+  comments:
+  type: governorate
 WU:
+  name: Al Wustá
+  code: WU
   unofficial_names: Al Wustá
+  geo:
+    latitude: 20.1738655
+    longitude: 56.56164700000001
+    min_latitude: 17.9456731
+    min_longitude: 54.9999999
+    max_latitude: 21.420908
+    max_longitude: 58.3227421
   translations:
     en: Al Wusta
     ar: محافظة الوسطى
@@ -237,29 +496,24 @@ WU:
     uk: Ель-Вуста
     ur: محافظہ وسطی (عمان)
     vi: Tỉnh Al Wusta
-  geo:
-    latitude: 20.1738655
-    longitude: 56.56164700000001
-    min_latitude: 17.9456731
-    min_longitude: 54.9999999
-    max_latitude: 21.420908
-    max_longitude: 58.3227421
-  name: Al Wustá
-X1~:
-  unofficial_names: Al Buraymi
-  translations:
-    en: Al Buraymi
-  geo:
-    latitude: 24.25
-    longitude: 55.7999
-    min_latitude: 24.2248153
-    min_longitude: 55.75346949999999
-    max_latitude: 24.3267637
-    max_longitude: 55.8898545
-  name: Al Buraymi
+    lv: Vustas muhāfaza
+    zh: 中部省
+    ccp: "\U00011103\U00011123\U00011134 \U00011103\U0001112E\U00011105\U0001112A\U0001110C\U00011134\U00011111"
+    'no': Al Wusta
+  comments:
+  type: governorate
 ZA:
+  name: Adh Dhahirah
+  code: ZA
   unofficial_names:
   - Adh Dhahirah
+  geo:
+    latitude: 22.5590272
+    longitude: 56.0249982
+    min_latitude: 21.2735939
+    min_longitude: 55.2069211
+    max_latitude: 24.019926
+    max_longitude: 57.116874
   translations:
     en: Ad Dhahirah
     ar: محافظة الظاهرة
@@ -300,174 +554,23 @@ ZA:
     uk: Ез-Захіра
     ur: محافظہ الظاہرہ
     vi: Tỉnh Ad Dhahirah
-  geo:
-    latitude: 22.5590272
-    longitude: 56.0249982
-    min_latitude: 21.2735939
-    min_longitude: 55.2069211
-    max_latitude: 24.019926
-    max_longitude: 57.116874
-  name: Adh Dhahirah
-BJ:
-  translations:
-    ar: محافظة جنوب الباطنة
-    bn: আল বাতিনাহ দক্ষিন গভর্নোরেট
-    cs: Jižní al-Batína
-    da: Al Batinah South Governorate
-    de: Dschanub al-Batina
-    el: Αλ Μπατίνα Σάουθ Γκοβερνοράτε
-    en: Janub al Batinah
-    es: Al Batinah Sur gobernación
-    fa: استان باطنه جنوبی
-    fi: Al-Batinan eteläinen kuvernoraatti
-    fr: Al-Batina du Sud
-    gu: અલ બટીનાહ સાઉથ ગવર્નોરેટ
-    hi: अल बातिनाह दक्षिण गवर्नरेट
-    id: Kegubernuran Al-Batinah Selatan
-    it: Al Batinah South Governorate
-    ja: 南バーティナ地方
-    kn: ಅಲ್ ಬಟಿನಾ ಸೌತ್ ಗವರ್ನೇಟ್
-    ko: 남바티나 주
-    mr: अल बतिनाह साऊथ गव्हर्नोरेट
-    ms: Al Batinah South Governorate
-    nb: Sør-Al Batinah
-    nl: Al Batinah
-    pl: Gubernatorstwo Dżanub al-Batina
-    pt: Governamento de Al Batinah Sul
-    ru: Северная Эль-Батина
-    si: අල් බටිනා දකුණු පළාත
-    sv: Södra Al Barinah
-    ta: அல் பட்டினஹ் தெற்கு கோவெர்னோரே
-    te: అల్ బాటినా దక్షిణ గవర్నరేట్
-    th: เขตอัลบาตินะห์
-    tr: Al Batinah Güney Yönetimi
-    ur: ال باتینہ ساؤتھ جوویرنوراتی
-    vi: Tỉnh Al Batinah South
-BS:
-  translations:
-    ar: محافظة شمال الباطنة
-    cs: Severní al-Batína
-    de: Schamal al-Batina
-    en: Shamal al Batinah
-    fa: استان باطنه شمالی
-    fi: Al-Batinan pohjoinen kuvernoraatti
-    id: Kegubernuran Al-Batinah Utara
-    it: Al Batinah North Governorate
-    ja: 北バーティナ地方
-    ko: 북바티나 주
-    nb: Nord-Al Batinah
-BU:
-  translations:
-    ar: محافظة البريمي
-    bn: আল বুরাইমি গভর্নোরেট
-    cs: Al-Burajmi (guvernorát)
-    da: Al Buraimi Governorate
-    de: Buraimi (Gouvernement)
-    el: Αλ Μπουραΐμι Γκοβερνοράτε
-    en: Al Buraimi
-    es: Buraimi
-    fa: استان بریمی
-    fi: Al-Buraimi
-    fr: Gouvernorat d’Al Buraymi
-    gu: અલ બુરૈમી ગવર્નોરેટ
-    he: אל בוראימי
-    hi: अल बुरैमी मुहाफ़ज़ाह
-    hu: Burajmi kormányzóság
-    id: Kegubernuran Al-Buraimi
-    it: governatorato di al-Buraymi
-    ja: ブライミ特別行政区
-    kn: ಅಲ್ ಬುರೈಮಿ ಗವರ್ನೇಟ್
-    ko: 부라이미 주
-    lt: Buraimis
-    mr: अल बुरेमी गव्हर्नोरेट
-    ms: Al Buraimi Governorate
-    nb: Al Buraimi
-    nl: Al Buraimi
-    pl: Muhafazat al-Burajmi
-    pt: Al Buraimi
-    ru: Эль-Бурайми
-    si: අල් බුරයිමි පළාත
-    sv: Al Buraimi
-    sw: Al Buraimi
-    ta: அல் புரைமீ கோவெர்னோரே
-    te: అల్ బురైమి గవర్నరేట్
-    th: อัล บูไรมิ โกเวอโนเรท
-    tr: El Buraymi valiliği
-    uk: Ель-Бураймі
-    ur: محافظہ البریمی
-    vi: Buraimi
-    zh: 布賴米省
-SJ:
-  translations:
-    ar: محافظة جنوب الشرقية
-    bn: আশ শারকিয়া দক্ষিন গভর্নোরেট
-    cs: Jižní aš-Šarkíja
-    da: Ash Sharqiyah South Governorate
-    de: Dschanub asch-Scharqiyya
-    el: Ας Σαρκιγιάχ
-    en: Janub ash Sharqiyah
-    es: Ash Sharqiyah Sur Gobernación
-    fa: استان شرقیه جنوبی
-    fi: Ash-Šarqiyyan eteläinen kuvernoraatti
-    fr: Gouvernorat Ach-Charqiya du Sud
-    gu: એશ શાર્કિયાહ , સાઉથ ગવર્નોરેટ
-    hi: ऐश शार्कियाह दक्षिण गवर्नरेट
-    id: Kegubernuran Asy-Syarqiyah Selatan
-    it: Ash Sharqiyah South Governorate
-    ja: 南シャルキーヤ地方
-    kn: ಆಷ್ ಶರ್ಕಿಯಾ ದಕ್ಷಿಣ ಗವರ್ನೇಟ್
-    ko: 남동부 주
-    mr: शशरियाह साऊथ गव्हरनेट
-    ms: Ash Sharqiyah South Governorate
-    nb: Sør-Ash Sharqiyah
-    nl: Ash Sharqiyah gouvernement
-    pl: Prowincja Południowo-Wschodnia (Oman)
-    pt: Ash Sharqiyah Sul
-    ru: Южная Эш-Шаркия
-    si: අශ් ශර්කියා දකුණු පළාත
-    sv: Södra Ash Sharqiyah
-    ta: ஆஷ் ஷார்க்கிய தெற்கு கோவெர்னோராட்
-    te: ఆష్ షర్ఖియా దక్షిణ గవర్నరేట్
-    th: แอชชาร์กิยาห์ เซาท์ โกเวอโนเนท
-    tr: Ash Shargiyah Güney Yönetimi
-    ur: عیش شارقیاح ساؤتھ جوویرنوراتی
-    vi: Tỉnh Nam Ash Sharqiyah
-SS:
-  translations:
-    ar: محافظة شمال الشرقية
-    bn: আশ শারকিয়াহ গভর্নোরেট
-    cs: Severní aš-Šarkíja
-    da: Ash Sharqiyah North Governorate
-    de: Schamal asch-Scharqiyya
-    el: Ας Σαρκίγια Νόρθ Γκοβερνοράτε
-    en: Shamal ash Sharqiyah
-    es: Gobernación Norte del Ash Sharqiyah
-    fa: استان شرقیه شمالی
-    fi: Ash-Šarqiyyan pohjoinen kuvernoraatti
-    fr: Ach-Charqiya du Nord
-    gu: એશ શારકીયાહ નોર્થ ગવર્નોરેટ
-    hi: एश शरीकिया उत्तरी गवर्नरेट
-    id: Kegubernuran Asy-Syarqiyah Utara
-    it: Ash Sharqiyah North Governorate
-    ja: 北シャルキーヤ地方
-    kn: ಆಷ್ ಶರ್ಕಿಯಾ ಉತ್ತರ ಗವರ್ನೇಟ್
-    ko: 북동부 주
-    mr: अश शकीयाह नॉर्थ गव्हर्नोरेट
-    ms: Pentadbiran Ash Sharqiyah Utara
-    nb: Nord-Ash Sharqiyah
-    nl: Asj Sjarqiyah
-    pl: Ash Sharqiyah North Governorate
-    pt: Governamento de Ash Sharqiyah Norte
-    ru: Северная Эш-Шаркия
-    si: ආශ් ශර්කියා උතුරු පළාත
-    sv: Nord-Ash Sharqiyah
-    ta: ஆஷ் ஷார்க்கிய வடக்கு கோவெர்னோரேட்
-    te: యాష్ షర్ఖియా నార్త్ గవర్నరేట్
-    th: เขตการปกครองอาชาร์กียะฮ์ ตอนเหนือ
-    tr: Ash Sharqiyah Kuzey Yönetimi
-    ur: عیش شارقیاح نارتھ جوویرنوراتی
-    vi: Tỉnh Bắc Ash Sharqiyah
+    lv: Zāhiras mintaka
+    zh: 扎希拉省
+    ccp: "\U00011103\U00011116\U00011134 \U00011119\U00011126\U00011128\U00011122\U00011126\U00011134"
+    'no': Ad Dhahirah
+  comments:
+  type: governorate
 ZU:
+  name: محافظة ظفار
+  code: ZU
+  unofficial_names:
+  geo:
+    latitude:
+    longitude:
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
   translations:
     ar: محافظة ظفار
     bn: ধোফার গভর্নোরেট
@@ -509,3 +612,9 @@ ZU:
     uk: Дофар
     ur: محافظہ ظفار
     vi: Tỉnh Dhofar
+    lv: Dofaras muhāfaza
+    zh: 佐法爾省
+    ccp: "\U00011119\U0001112E\U0001111C\U00011122\U00011134"
+    'no': Dhofar
+  comments:
+  type: governorate

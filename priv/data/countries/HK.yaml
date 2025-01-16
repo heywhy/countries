@@ -1,6 +1,5 @@
 ---
 HK:
-  continent: Asia
   address_format: |-
     {{recipient}}
     {{street}}
@@ -8,48 +7,51 @@ HK:
     {{country}}
   alpha2: HK
   alpha3: HKG
+  continent: Asia
   country_code: '852'
+  currency_code: HKD
+  distance_unit: KM
+  gec: HK
+  geo:
+    latitude: 22.3193039
+    longitude: 114.1693611
+    max_latitude: 22.5619469
+    max_longitude: 114.4294999
+    min_latitude: 22.1435
+    min_longitude: 113.8259001
+    bounds:
+      northeast:
+        lat: 22.5619469
+        lng: 114.4294999
+      southwest:
+        lat: 22.1435
+        lng: 113.8259001
   international_prefix: '001'
   ioc: HKG
-  gec: HK
-  name: Hong Kong
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 8
-  national_prefix: None
-  number: '344'
-  region: Asia
-  subregion: Eastern Asia
-  world_region: APAC
-  un_locode: HK
-  nationality: Hong Kongese
-  postal_code: false
-  unofficial_names:
-  - Hong Kong
-  - 香港
-  - Hongkong
+  iso_long_name: The Hong Kong Special Administrative Region of China
+  iso_short_name: Hong Kong
   languages_official:
   - en
   - zh
   languages_spoken:
   - en
   - zh
-  geo:
-    latitude: 22.396428
-    latitude_dec: '22.336156845092773'
-    longitude: 114.109497
-    longitude_dec: '114.18696594238281'
-    max_latitude: 22.561968
-    max_longitude: 114.4294999
-    min_latitude: 22.1435
-    min_longitude: 113.8259001
-    bounds:
-      northeast:
-        lat: 22.561968
-        lng: 114.4294999
-      southwest:
-        lat: 22.1435
-        lng: 113.8259001
-  currency_code: HKD
+  national_destination_code_lengths:
+  - 2
+  national_number_lengths:
+  - 8
+  national_prefix: None
+  nationality: Hong Kongese
+  number: '344'
+  postal_code: false
+  region: Asia
   start_of_week: monday
+  subregion: Eastern Asia
+  un_locode: HK
+  un_member: false
+  unofficial_names:
+  - Hong Kong
+  - 香港
+  - Hongkong
+  vehicle_registration_code: HK
+  world_region: APAC
