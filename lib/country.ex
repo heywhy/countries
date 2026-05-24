@@ -26,6 +26,7 @@ defmodule Countries.Country do
     ioc
     iso_long_name
     iso_short_name
+    iso_short_name_lower_case
     languages_official
     languages_spoken
     nanp_prefix

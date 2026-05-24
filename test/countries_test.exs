@@ -71,7 +71,7 @@ defmodule CountriesTest do
 
     test "filters by integer attributes" do
       countries = Countries.filter_by(:national_number_lengths, 10)
-      assert Enum.count(countries) == 59
+      assert Enum.count(countries) == 60
 
       countries = Countries.filter_by(:national_destination_code_lengths, "2")
       assert Enum.count(countries) == 199
