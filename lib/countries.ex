@@ -3,6 +3,17 @@ defmodule Countries do
   Module for providing countries related functions.
   """
 
+  # -- Load countries from yaml files once on compile time ---
+
+  # Ensure :yamerl is running
+  Application.start(:yamerl)
+
+  @countries Countries.Loader.load()
+
+  defp countries do
+    @countries
+  end
+
   @doc """
   Returns all countries.
   """
@@ -21,9 +32,11 @@ defmodule Countries do
 
   """
 
-  def get(country_code) do
-    [country] = filter_by(:alpha2, country_code)
-    country
+  def get(country_code, code \\ :alpha2) do
+    case filter_by(code, country_code) do
+      [] -> nil
+      [country] -> country
+    end
   end
 
   @doc """
@@ -46,6 +59,13 @@ defmodule Countries do
       "United Kingdom of Great Britain and Northern Ireland"
 
   """
+  for country <- @countries do
+    value = Macro.escape([country])
+
+    def filter_by(:alpha2, unquote(country.alpha2)), do: unquote(value)
+    def filter_by(:alpha3, unquote(country.alpha3)), do: unquote(value)
+  end
+
   def filter_by(attribute, value) do
     Enum.filter(countries(), fn country ->
       country
@@ -92,16 +112,5 @@ defmodule Countries do
   """
   def exists?(attribute, value) do
     filter_by(attribute, value) |> length > 0
-  end
-
-  # -- Load countries from yaml files once on compile time ---
-
-  # Ensure :yamerl is running
-  Application.start(:yamerl)
-
-  @countries Countries.Loader.load()
-
-  defp countries do
-    @countries
   end
 end
